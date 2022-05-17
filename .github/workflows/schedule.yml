@@ -2,7 +2,8 @@ name: schedule
 
 on:
   schedule:
-    - cron: "0 2 * * *"
+    # 0时区每小时的50分启动
+    - cron: '1 * * * *'
 
 jobs:
   build:
