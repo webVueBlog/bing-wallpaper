@@ -1,7 +1,6 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
 import { IResponse, IImg } from "./types.ts";
-// import { createReadme, createArchive } from "./utils.ts";
-import { createReadme } from "./utils.ts";
+import { createReadme, createArchive } from "./utils.ts";
 
 const BING_URL = "https://cn.bing.com";
 const BING_API = `${BING_URL}/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1615820180559&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160`;
@@ -37,5 +36,5 @@ const readme = await createReadme(imageInfo);
 await Deno.writeTextFile("./README.md", readme);
 
 // 更新 archives
-// const archiveText = createArchive(imageInfo);
-// await Deno.writeTextFile("./archives.md", archiveText, { append: true });
+const archiveText = createArchive(imageInfo);
+await Deno.writeTextFile("./archives.md", archiveText, { append: true });
