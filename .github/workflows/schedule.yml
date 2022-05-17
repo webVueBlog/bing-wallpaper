@@ -20,7 +20,7 @@ jobs:
           git config --local user.email "2979986590@qq.com"
           git config --local user.name "webVueBlog"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.ACCESS_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
+          git pull
           deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
           git add .
           git commit -m "update by github action"
