@@ -22,7 +22,7 @@ const date = enddate.replace(/(\d{4})(\d{2})(\d{2})/, "$1-$2-$3");
 
 const imageInfo: IImg = {
   url: fullUrl,
-  previewUrl: fullUrl + "&pid=hp&w=1000",
+  previewUrl: fullUrl + "&pid=hp&w=1000&rs=1&c=4",
   copyright,
   date,
 };

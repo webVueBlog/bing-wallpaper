@@ -19,3 +19,4 @@ export function createImageRow(image: IImg): string {
 export function createArchive(image: IImg): string {
   return `\n| ${image.date} | ![${image.copyright}](${image.previewUrl}) | [下载](${image.url}) |`;
 }
+
