@@ -1,6 +1,7 @@
 #!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
 import { IResponse, IImg } from "./types.ts";
-import { createReadme, createArchive } from "./utils.ts";
+// import { createReadme, createArchive } from "./utils.ts";
+import { createReadme } from "./utils.ts";
 
 const BING_URL = "https://cn.bing.com";
 const BING_API = `${BING_URL}/HPImageArchive.aspx?format=js&idx=0&n=1&nc=1615820180559&pid=hp&uhd=1&uhdwidth=3840&uhdheight=2160`;
