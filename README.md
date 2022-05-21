@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri May 20 2022 01:25:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](https://cn.bing.com/th?id=OHR.GlassBridge_EN-US6168516510_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-20Glass bridge of Zhangjiajie, Hunan, China (© MediaProduction/Getty Images)](https://cn.bing.com/th?id=OHR.GlassBridge_EN-US6168516510_UHD.jpg)
+<!--  Sat May 21 2022 01:10:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-21Honey bee flying over crocuses in the Tatra Mountains, Poland (© Mirek Kijewski/Getty Images)](https://cn.bing.com/th?id=OHR.ApisMellifera_EN-US1549924485_UHD.jpg)
   
 <!-- END -->
