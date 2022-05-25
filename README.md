@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 24 2022 01:39:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedBellied_EN-US7363239921_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-24Florida red-bellied turtle in Rainbow Springs, Rainbow Springs State Park, Florida (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedBellied_EN-US7363239921_UHD.jpg)
+<!--  Wed May 25 2022 01:38:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Kornati National Park, Croatia (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-25Kornati National Park, Croatia (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg)
   
 <!-- END -->
