@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 25 2022 01:38:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Kornati National Park, Croatia (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-25Kornati National Park, Croatia (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.KornatiNP_EN-US0453245326_UHD.jpg)
+<!--  Thu May 26 2022 01:39:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](https://cn.bing.com/th?id=OHR.Alhambra_EN-US9442124079_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-26Alhambra in Granada, Andalusia, Spain (© Armand Tamboly/Getty Images)](https://cn.bing.com/th?id=OHR.Alhambra_EN-US9442124079_UHD.jpg)
   
 <!-- END -->
