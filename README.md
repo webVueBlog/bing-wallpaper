@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 28 2022 01:23:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden Gate Bridge and Marin Headlands photographed from Golden Gate Overlook in San Francisco, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MarinHeadlands_EN-US9564309974_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-28Golden Gate Bridge and Marin Headlands photographed from Golden Gate Overlook in San Francisco, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MarinHeadlands_EN-US9564309974_UHD.jpg)
+<!--  Sun May 29 2022 01:40:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Bungle Bungle Range in Purnululu National Park, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-29Bungle Bungle Range in Purnululu National Park, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg)
   
 <!-- END -->
