@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 29 2022 01:40:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Bungle Bungle Range in Purnululu National Park, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-29Bungle Bungle Range in Purnululu National Park, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.PurnululuNP_EN-US9646771554_UHD.jpg)
+<!--  Mon May 30 2022 01:37:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Hyalite Creek in the Custer Gallatin National Forest, Montana (© Jared Lloyd/Getty Images)](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-05-30Hyalite Creek in the Custer Gallatin National Forest, Montana (© Jared Lloyd/Getty Images)](https://cn.bing.com/th?id=OHR.HyaliteCreek_EN-US9700334811_UHD.jpg)
   
 <!-- END -->
