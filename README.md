@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 01 2022 01:50:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-01Scarlet macaw in Costa Rica (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.ParrotDay_EN-US9824481217_UHD.jpg)
+<!--  Thu Jun 02 2022 01:38:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-02Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg)
   
 <!-- END -->
