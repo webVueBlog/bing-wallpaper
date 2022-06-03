@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 02 2022 01:38:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-02Coral reef in Marovo Lagoon in the Solomon Islands (© WaterFrame/Alamy)](https://cn.bing.com/th?id=OHR.MarovoLagoon_EN-US9916170608_UHD.jpg)
+<!--  Fri Jun 03 2022 01:15:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenJubilee_EN-US9964271686_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-03Buckingham Palace in London, England (© Pajor Pawel/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenJubilee_EN-US9964271686_UHD.jpg)
   
 <!-- END -->
