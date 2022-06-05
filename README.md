@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 04 2022 01:16:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](https://cn.bing.com/th?id=OHR.MoabCycling_EN-US6614069772_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-04Cycling across a natural rock arch in the desert near Moab, Utah (© Whit Richardson/Cavan)](https://cn.bing.com/th?id=OHR.MoabCycling_EN-US6614069772_UHD.jpg)
+<!--  Sun Jun 05 2022 01:37:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-05Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg)
   
 <!-- END -->
