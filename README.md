@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 05 2022 01:37:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-05Banner Peak and Thousand Island Lake, Ansel Adams Wilderness, California (© Michael DeYoung Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BannerPeak_EN-US6694457913_UHD.jpg)
+<!--  Mon Jun 06 2022 01:25:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-06Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg)
   
 <!-- END -->
