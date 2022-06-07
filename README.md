@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 06 2022 01:25:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-06Rapa Valley in Sarek National Park, Sweden (© Alena Vishina/Alamy)](https://cn.bing.com/th?id=OHR.RapadalenSNP_EN-US6836173287_UHD.jpg)
+<!--  Tue Jun 07 2022 01:19:59 GMT+0000 (Coordinated Universal Time) -->
+  ![An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-07An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg)
   
 <!-- END -->
