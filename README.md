@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 07 2022 01:19:59 GMT+0000 (Coordinated Universal Time) -->
-  ![An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-07An indigo bunting at the John James Audubon Center at Mill Grove in Audubon, Pennsylvania (© Vicki Jauron/Getty Images)](https://cn.bing.com/th?id=OHR.IndigoBunting_EN-US6919965546_UHD.jpg)
+<!--  Wed Jun 08 2022 01:22:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-08Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg)
   
 <!-- END -->
