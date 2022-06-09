@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 08 2022 01:22:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-08Haaga Rhododendron Park, Helsinki, Finland (© Samuli Vainionpää/Getty Images)](https://cn.bing.com/th?id=OHR.HaagaRhododendron_EN-US7190183460_UHD.jpg)
+<!--  Thu Jun 09 2022 01:22:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-09Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg)
   
 <!-- END -->
