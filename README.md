@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 09 2022 01:22:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-09Long-beaked common dolphin pod and diving Cape gannets hunting sardines off the Eastern Cape, South Africa (© Pete Oxford/Minden Pictures)](https://cn.bing.com/th?id=OHR.CommonDolphin_EN-US7311583363_UHD.jpg)
+<!--  Fri Jun 10 2022 01:40:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-10Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg)
   
 <!-- END -->
