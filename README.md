@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 10 2022 01:40:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-10Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey_EN-US7440629451_UHD.jpg)
+<!--  Sat Jun 11 2022 01:22:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-11Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg)
   
 <!-- END -->
