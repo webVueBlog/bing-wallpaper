@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 11 2022 01:22:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-11Poppies in bloom, Moravia, Czech Republic (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.CRPoppies_EN-US7563691816_UHD.jpg)
+<!--  Sun Jun 12 2022 01:41:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-12Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg)
   
 <!-- END -->
