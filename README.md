@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 12 2022 01:41:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-12Misool Island, one of the four major islands in the Raja Ampat Islands in West Papua, Indonesia (© Elsy Saldek/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolIsland_EN-US7672276436_UHD.jpg)
+<!--  Mon Jun 13 2022 01:42:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-13Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg)
   
 <!-- END -->
