@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 13 2022 01:42:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-13Cliffs of the Sierra Ponce and Rio Grande, Big Bend National Park, Texas (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.SierraPonce_EN-US7735077868_UHD.jpg)
+<!--  Tue Jun 14 2022 01:50:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-14Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg)
   
 <!-- END -->
