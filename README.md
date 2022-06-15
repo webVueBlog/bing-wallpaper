@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 14 2022 01:50:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-14Elephant walking in the Okavango River, Botswana (© Markus Pavlowsky/Getty Images)](https://cn.bing.com/th?id=OHR.OkavangoElephant_EN-US7949357706_UHD.jpg)
+<!--  Wed Jun 15 2022 01:41:10 GMT+0000 (Coordinated Universal Time) -->
+  ![The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-15The Metropolitan Museum of Art in New York City (© Susanne Pommer/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumMile_EN-US8035796645_UHD.jpg)
   
 <!-- END -->
