@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 16 2022 01:27:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-16Great Smoky Mountains National Park, Tennessee (© Tony Barber/Getty Images)](https://cn.bing.com/th?id=OHR.ClingmansDome_EN-US8094094597_UHD.jpg)
+<!--  Fri Jun 17 2022 01:21:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-17Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg)
   
 <!-- END -->
