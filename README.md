@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 17 2022 01:21:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-17Seungseon Bridge at Seonam Temple in Jogyesan Provincial Park, South Korea (© Aaron Choi/Getty Images)](https://cn.bing.com/th?id=OHR.SeonamTemple_EN-US8180397216_UHD.jpg)
+<!--  Sat Jun 18 2022 01:26:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Balsamroot_EN-US8641268598_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-18Balsamroot wildflowers bloom below the Teton Mountains in Grand Teton National Park, Wyoming (© Mike Cavaroc/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Balsamroot_EN-US8641268598_UHD.jpg)
   
 <!-- END -->
