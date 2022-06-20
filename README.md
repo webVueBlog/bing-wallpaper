@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 19 2022 01:41:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](https://cn.bing.com/th?id=OHR.CelebratingSurfing_EN-US8732112733_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-19Surfers catching waves at Palm Beach on the Gold Coast, Queensland, Australia (© Darren Tierney/Getty Images)](https://cn.bing.com/th?id=OHR.CelebratingSurfing_EN-US8732112733_UHD.jpg)
+<!--  Mon Jun 20 2022 01:36:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](https://cn.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-20Southern cassowary father with chicks, Kuranda, Queensland, Australia (© Martin Willis/Minden Pictures)](https://cn.bing.com/th?id=OHR.Cassowary_EN-US8797645265_UHD.jpg)
   
 <!-- END -->
