@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 26 2022 01:44:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-26Brown bear mother and cub in Katmai National Park and Preserve, Alaska (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BBMomCub_EN-US7553314922_UHD.jpg)
+<!--  Mon Jun 27 2022 01:46:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-27Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg)
   
 <!-- END -->
