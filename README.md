@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 27 2022 01:46:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-27Rainbow flag (© Matt Jeacock/Getty Images)](https://cn.bing.com/th?id=OHR.Pride2022_EN-US7651790852_UHD.jpg)
+<!--  Tue Jun 28 2022 01:43:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](https://cn.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-28Lavender fields on the Valensole Plateau in Provence, France (© Shutterstock)](https://cn.bing.com/th?id=OHR.ValensoleLavender_EN-US7717234716_UHD.jpg)
   
 <!-- END -->
