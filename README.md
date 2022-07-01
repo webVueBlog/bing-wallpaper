@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 30 2022 01:40:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-06-30Mangrove forest in Phang Nga Bay, Andaman Sea, Thailand (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.PhangNgaBay_EN-US7871649198_UHD.jpg)
+<!--  Fri Jul 01 2022 01:50:24 GMT+0000 (Coordinated Universal Time) -->
+  ![The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-01The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg)
   
 <!-- END -->
