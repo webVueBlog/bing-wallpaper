@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 01 2022 01:50:24 GMT+0000 (Coordinated Universal Time) -->
-  ![The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-01The Acraman crater, Australia (© USGS/NASA Landsat data/Orbital Horizon/Gallo Images/Getty images)](https://cn.bing.com/th?id=OHR.AcramanCrater_EN-US7941020158_UHD.jpg)
+<!--  Sat Jul 02 2022 01:38:35 GMT+0000 (Coordinated Universal Time) -->
+  !['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-02'Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg)
   
 <!-- END -->
