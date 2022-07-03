@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 02 2022 01:38:35 GMT+0000 (Coordinated Universal Time) -->
-  !['Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-02'Vejrpigerne' ('The Weather Girls') sculpture on top of the Richshuset building in City Hall Square, Copenhagen, Denmark (© Stig Alenas/Shutterstock)](https://cn.bing.com/th?id=OHR.WeatherGirls_EN-US6924387788_UHD.jpg)
+<!--  Sun Jul 03 2022 01:48:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-03Aerial view of a road separating two lakes in the Scottish Highlands (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayDay_EN-US6981774268_UHD.jpg)
   
 <!-- END -->
