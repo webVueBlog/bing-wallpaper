@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 07 2022 01:47:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-07Atlantic puffin pair billing, Shetland Islands, Scotland (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.KissingPuffins_EN-US7469101764_UHD.jpg)
+<!--  Fri Jul 08 2022 01:45:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-08Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg)
   
 <!-- END -->
