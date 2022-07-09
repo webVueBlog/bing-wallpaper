@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 08 2022 01:45:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-08Heceta Head Light, Florence, Oregon (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HecetaHead_EN-US7658704670_UHD.jpg)
+<!--  Sat Jul 09 2022 01:22:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-09Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg)
   
 <!-- END -->
