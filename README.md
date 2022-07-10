@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 09 2022 01:22:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-09Preveli Gorge with river and palm tree forest, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.PreveliGorge_EN-US7830712096_UHD.jpg)
+<!--  Sun Jul 10 2022 01:52:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-10Dolomite Mountains at night with the Milky Way, Italy (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitesMW_EN-US7903776288_UHD.jpg)
   
 <!-- END -->
