@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 16 2022 01:43:31 GMT+0000 (Coordinated Universal Time) -->
-  ![The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-16The village of Arrone in Umbria, Italy (© Maurizio Rellini/eStock Photo)](https://cn.bing.com/th?id=OHR.Arrone_EN-US2438328393_UHD.jpg)
+<!--  Sun Jul 17 2022 01:50:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-17Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg)
   
 <!-- END -->
