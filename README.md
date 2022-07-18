@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 17 2022 01:50:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-17Goldfinch on a sunflower in McConnells, South Carolina (© Teresa Kopec/Getty Images)](https://cn.bing.com/th?id=OHR.AmericanGoldfinch_EN-US2664017758_UHD.jpg)
+<!--  Mon Jul 18 2022 01:45:32 GMT+0000 (Coordinated Universal Time) -->
+  ![The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-18The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg)
   
 <!-- END -->
