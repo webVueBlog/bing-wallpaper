@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 18 2022 01:45:32 GMT+0000 (Coordinated Universal Time) -->
-  ![The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-18The Wave sandstone formation in Coyote Buttes North, Paria Canyon-Vermilion Cliffs National Monument, Arizona (© Dennis Frates/Alamy)](https://cn.bing.com/th?id=OHR.CoyoteButtes_EN-US2729289736_UHD.jpg)
+<!--  Tue Jul 19 2022 01:56:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-19Omijima Island in Kita-Nagato Kaigan Quasi-National Park, Japan (© Sean Pavone Photo/Adobe Stock)](https://cn.bing.com/th?id=OHR.OmijimaIsland_EN-US2811609327_UHD.jpg)
   
 <!-- END -->
