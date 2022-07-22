@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 20 2022 01:43:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-20Male American bison in Yellowstone National Park, Wyoming (© Donyanedomam/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneBison_EN-US2891320959_UHD.jpg)
+<!--  Fri Jul 22 2022 01:46:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-22Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg)
   
 <!-- END -->
