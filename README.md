@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 22 2022 01:46:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-22Abbey Gardens in Bury St Edmunds, Suffolk, England (© Charles Martinez/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.AbbeyGardens_EN-US3622669026_UHD.jpg)
+<!--  Sat Jul 23 2022 01:43:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock)](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-23Our Lady of the Rocks and Saint George Island in the Bay of Kotor, Perast, Montenegro (© Dmitrii Sakharov/Shutterstock)](https://cn.bing.com/th?id=OHR.SGIMontenegro_EN-US4280095085_UHD.jpg)
   
 <!-- END -->
