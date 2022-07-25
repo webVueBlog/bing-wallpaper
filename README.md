@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 24 2022 01:51:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-24Elephant hawk-moth on foxglove flower (© David Chapman/Alamy)](https://cn.bing.com/th?id=OHR.FoxgloveHawkmoth_EN-US4340017481_UHD.jpg)
+<!--  Mon Jul 25 2022 01:45:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-25Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg)
   
 <!-- END -->
