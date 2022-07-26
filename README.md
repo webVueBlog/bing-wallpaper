@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 25 2022 01:45:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-25Amelia Earhart teaching students in Newark, New Jersey (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.AmeliaEarhart_EN-US4396076505_UHD.jpg)
+<!--  Tue Jul 26 2022 01:56:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](https://cn.bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-26Golden Gallopers Carousel on the seafront in Brighton, East Sussex, England (© Graham Prentice/Alamy)](https://cn.bing.com/th?id=OHR.MGRBrighton_EN-US4452708176_UHD.jpg)
   
 <!-- END -->
