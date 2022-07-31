@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 30 2022 01:43:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-30Tigresses of Telia Lake in Tadoba Andhari Tiger Reserve, India (© Ashish Parmar/Alamy)](https://cn.bing.com/th?id=OHR.FourTigresses_EN-US0466229333_UHD.jpg)
+<!--  Sun Jul 31 2022 01:55:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-07-31Rainforest hike near Milford Sound/Piopiotahi in New Zealand (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FiordlandRainforest_EN-US0539876428_UHD.jpg)
   
 <!-- END -->
