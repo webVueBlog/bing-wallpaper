@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 01 2022 01:53:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-01Noctilucent clouds in Lithuania (© ljphoto7/Getty Images)](https://cn.bing.com/th?id=OHR.NoctilucentClouds_EN-US0838966037_UHD.jpg)
+<!--  Tue Aug 02 2022 01:58:35 GMT+0000 (Coordinated Universal Time) -->
+  ![An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-02An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg)
   
 <!-- END -->
