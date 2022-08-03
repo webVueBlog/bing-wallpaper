@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 02 2022 01:58:35 GMT+0000 (Coordinated Universal Time) -->
-  ![An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-02An active lava tube, Hawai'i Volcanoes National Park, Hawaii (© Tom Schwabel/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LavaTube_EN-US0984183891_UHD.jpg)
+<!--  Wed Aug 03 2022 01:46:07 GMT+0000 (Coordinated Universal Time) -->
+  ![The Hickman Bridge at Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-03The Hickman Bridge at Capitol Reef National Park, Utah (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.HickmanBridge_EN-US1087333208_UHD.jpg)
   
 <!-- END -->
