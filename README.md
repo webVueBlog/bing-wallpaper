@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 04 2022 01:42:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Red-necked grebes in Germany (© Edo van Uchelen/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-04Red-necked grebes in Germany (© Edo van Uchelen/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedneckedGrebe_EN-US1190259802_UHD.jpg)
+<!--  Fri Aug 05 2022 01:43:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](https://cn.bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-05Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](https://cn.bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg)
   
 <!-- END -->
