@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 05 2022 01:43:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](https://cn.bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-05Farmers collecting water lilies in the Satla marshland near Bagdha, Barisal, Bangladesh (© Mustasinur Rahman Alvi/Future Publishing via Getty Images)](https://cn.bing.com/th?id=OHR.BangladeshWaterLilies_EN-US1994505786_UHD.jpg)
+<!--  Sat Aug 06 2022 01:22:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](https://cn.bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-06Edinburgh city skyline at night, Scotland (© Suranga Weeratuna/Alamy)](https://cn.bing.com/th?id=OHR.MilitaryTattoo_EN-US2404986711_UHD.jpg)
   
 <!-- END -->
