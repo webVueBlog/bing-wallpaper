@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 07 2022 01:45:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-07Salt flats in San Francisco Bay (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SFSaltFlats_EN-US2301713772_UHD.jpg)
+<!--  Mon Aug 08 2022 01:37:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-08Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg)
   
 <!-- END -->
