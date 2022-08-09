@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 08 2022 01:37:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-08Spring Point Ledge Light in South Portland, Maine (© Haizhan Zheng/Getty Images)](https://cn.bing.com/th?id=OHR.SpringPoint_EN-US2439443308_UHD.jpg)
+<!--  Tue Aug 09 2022 01:48:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-09Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg)
   
 <!-- END -->
