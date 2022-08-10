@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 09 2022 01:48:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-09Aerial view of the island Pantaleu near Sant Elm, Mallorca, Spain (© Dimitri Weber/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.EsPantaleu_EN-US2555315913_UHD.jpg)
+<!--  Wed Aug 10 2022 01:27:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-10Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg)
   
 <!-- END -->
