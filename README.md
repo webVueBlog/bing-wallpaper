@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 10 2022 01:27:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-10Cueva de las Manos (Cave of the Hands) in Santa Cruz, Argentina (© Adwo/Alamy)](https://cn.bing.com/th?id=OHR.CuevaManos_EN-US2810052050_UHD.jpg)
+<!--  Thu Aug 11 2022 01:26:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-11Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg)
   
 <!-- END -->
