@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 11 2022 01:26:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-11Joshua trees in Joshua Tree National Park, California (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.AnniversaryJTNP_EN-US2914674933_UHD.jpg)
+<!--  Fri Aug 12 2022 01:38:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-12Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg)
   
 <!-- END -->
