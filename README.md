@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 12 2022 01:38:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-12Mount Tsubakuro near Azumino, Nagano, Japan (© Joshua Hawley/Getty Images)](https://cn.bing.com/th?id=OHR.MtTsubakuro_EN-US2985513957_UHD.jpg)
+<!--  Sat Aug 13 2022 01:23:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-13Herd of African elephants in Amboseli National Park, Kenya (© Susan Portnoy/Shutterstock)](https://cn.bing.com/th?id=OHR.AmboseliElephants_EN-US1510486473_UHD.jpg)
   
 <!-- END -->
