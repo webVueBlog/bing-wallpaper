@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 14 2022 01:47:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-14Boundary Waters Canoe Area Wilderness, Superior National Forest, Minnesota (© Dukas/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.BoundaryWaters_EN-US1592534087_UHD.jpg)
+<!--  Mon Aug 15 2022 01:49:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-15Panther chameleon in Amber Mountain National Park, Madagascar (© Christian Ziegler/Minden Pictures)](https://cn.bing.com/th?id=OHR.PantherChameleon_EN-US2150362477_UHD.jpg)
   
 <!-- END -->
