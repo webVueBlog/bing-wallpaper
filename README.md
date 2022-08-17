@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 16 2022 01:52:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Chittorgarh Fort, India (© Anand Purohit/Getty Images)](https://cn.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-16Chittorgarh Fort, India (© Anand Purohit/Getty Images)](https://cn.bing.com/th?id=OHR.ChittorgarhFort_EN-US2246278299_UHD.jpg)
+<!--  Wed Aug 17 2022 01:58:32 GMT+0000 (Coordinated Universal Time) -->
+  ![The Great White Roller Coaster at Wildwood, New Jersey (© John Van Decker/Alamy)](https://cn.bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-17The Great White Roller Coaster at Wildwood, New Jersey (© John Van Decker/Alamy)](https://cn.bing.com/th?id=OHR.GreatWhiteRoller_EN-US2453743631_UHD.jpg)
   
 <!-- END -->
