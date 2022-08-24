@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 23 2022 01:53:53 GMT+0000 (Coordinated Universal Time) -->
-  ![A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-23A burrowing owl chick and adult in South Florida (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.TenderMoment_EN-US3269942524_UHD.jpg)
+<!--  Wed Aug 24 2022 01:51:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-24Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg)
   
 <!-- END -->
