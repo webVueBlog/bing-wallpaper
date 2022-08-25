@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 24 2022 01:51:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-24Menton, France (© Flavio Foglietta/Getty Images)](https://cn.bing.com/th?id=OHR.MentonFrance_EN-US3424001829_UHD.jpg)
+<!--  Thu Aug 25 2022 01:51:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-25Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg)
   
 <!-- END -->
