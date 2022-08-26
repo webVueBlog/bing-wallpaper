@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 25 2022 01:51:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-25Wheat field in Ukraine (© Yuriy Kulik/Getty Images)](https://cn.bing.com/th?id=OHR.WheatField_EN-US3537753695_UHD.jpg)
+<!--  Fri Aug 26 2022 01:55:57 GMT+0000 (Coordinated Universal Time) -->
+  ![North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-26North Cascades National Park, Washington (© Ethan Welty/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CascadesNP_EN-US3684575794_UHD.jpg)
   
 <!-- END -->
