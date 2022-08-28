@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 27 2022 01:52:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](https://cn.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-27Kiteboarders and windsurfers off the Pelješac Peninsula, Croatia (© helivideo/Getty Images)](https://cn.bing.com/th?id=OHR.PeljesacWind_EN-US5380116190_UHD.jpg)
+<!--  Sun Aug 28 2022 02:02:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-28Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg)
   
 <!-- END -->
