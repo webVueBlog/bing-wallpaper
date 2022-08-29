@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 28 2022 02:02:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-28Boundary Trail in Mount St. Helens National Volcanic Monument, Washington (© Don Geyer/Alamy)](https://cn.bing.com/th?id=OHR.MSHV_EN-US5482864526_UHD.jpg)
+<!--  Mon Aug 29 2022 02:01:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-29Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg)
   
 <!-- END -->
