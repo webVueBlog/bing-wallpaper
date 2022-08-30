@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 29 2022 02:01:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-29Bearded reedlings at a wetland in Flevoland, Netherlands (© Gert-Jan IJzerman/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeardedTit_EN-US6692547915_UHD.jpg)
+<!--  Tue Aug 30 2022 02:04:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-30Baltic Sea in Estonia (© fotoman-kharkov/Getty Images)](https://cn.bing.com/th?id=OHR.EstoniaBaltic_EN-US6923966670_UHD.jpg)
   
 <!-- END -->
