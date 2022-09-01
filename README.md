@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 31 2022 02:10:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-08-31Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://cn.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
+<!--  Thu Sep 01 2022 01:48:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-01Blue linckia sea stars off New Ireland in Papua New Guinea (© Jurgen Freund/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlueLinckia_EN-US7078787133_UHD.jpg)
   
 <!-- END -->
