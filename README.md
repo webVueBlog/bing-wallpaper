@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 03 2022 01:53:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-03Seitan Limania Beach in Crete, Greece (© Georgios Tsichlis/Alamy)](https://cn.bing.com/th?id=OHR.SeitanLimania_EN-US5452823219_UHD.jpg)
+<!--  Sun Sep 04 2022 01:51:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-04Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg)
   
 <!-- END -->
