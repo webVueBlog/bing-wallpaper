@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Sep 04 2022 01:51:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-04Petronas Twin Towers, Kuala Lumpur, Malaysia (© tampatra/Getty Images)](https://cn.bing.com/th?id=OHR.MalaysiaTwinTowers_EN-US7848703415_UHD.jpg)
+<!--  Mon Sep 05 2022 02:00:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-05Arambol Beach in Goa, India (© Ben Pipe/Alamy)](https://cn.bing.com/th?id=OHR.ArambolBeach_EN-US7908449198_UHD.jpg)
   
 <!-- END -->
