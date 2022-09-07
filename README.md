@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 06 2022 02:03:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-06Labor Day parade in 1934, Gastonia, North Carolina (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.GastoniaParade_EN-US8873564493_UHD.jpg)
+<!--  Wed Sep 07 2022 01:59:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-07Red squirrel carrying a mushroom (© Michael Quinton/Minden Pictures)](https://cn.bing.com/th?id=OHR.SquirrelMushroom_EN-US8955570535_UHD.jpg)
   
 <!-- END -->
