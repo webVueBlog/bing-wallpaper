@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 09 2022 02:02:25 GMT+0000 (Coordinated Universal Time) -->
-  ![View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-09View of the city from the Setas de Sevilla (Metropol Parasol) in Seville, Spain (© LucVi/Shutterstock)](https://cn.bing.com/th?id=OHR.CircumnavigationAnni_EN-US9635067459_UHD.jpg)
+<!--  Sat Sep 10 2022 02:00:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-10Lighthouse Reef, Blue Hole Natural Monument, Belize (© Tom Till/Alamy)](https://cn.bing.com/th?id=OHR.BHNMBelize_EN-US6404020386_UHD.jpg)
   
 <!-- END -->
