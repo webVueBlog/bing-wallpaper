@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Sep 11 2022 01:56:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-11Moon installation for the Mid-Autumn Festival in Kuala Lumpur, Malaysia (© Lim Huey Teng/Reuters)](https://cn.bing.com/th?id=OHR.KLMidAutumn_EN-US6642842911_UHD.jpg)
+<!--  Mon Sep 12 2022 02:05:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-12Statue of Liberty seen behind US flags at half-staff for the anniversary of September 11 in 2014, New York City (© Adam Parent/Shutterstock)](https://cn.bing.com/th?id=OHR.SOLHalfStaff_EN-US6710129226_UHD.jpg)
   
 <!-- END -->
