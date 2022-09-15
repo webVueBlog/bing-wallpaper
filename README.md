@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 14 2022 01:55:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](https://cn.bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-14Great Sand Dunes National Park and Preserve, Colorado (© Y Paudel/Getty Images)](https://cn.bing.com/th?id=OHR.GSDNPest_EN-US6985335988_UHD.jpg)
+<!--  Thu Sep 15 2022 02:03:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-15Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg)
   
 <!-- END -->
