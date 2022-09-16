@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 15 2022 02:03:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-15Navajo Bridge over the Colorado River at the Glen Canyon National Recreation Area in northern Arizona (© trekandshoot/Alamy)](https://cn.bing.com/th?id=OHR.MarbleCanyon_EN-US7056773172_UHD.jpg)
+<!--  Fri Sep 16 2022 02:06:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-16Mural by Betsy Casañas in Buffalo, New York (© Tom Loonan)](https://cn.bing.com/th?id=OHR.BuffaloMural_EN-US7123580117_UHD.jpg)
   
 <!-- END -->
