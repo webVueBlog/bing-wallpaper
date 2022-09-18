@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 17 2022 01:50:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-17Puma in Torres del Paine National Park, Patagonia, Chile (© Ingo Arndt/Minden Pictures)](https://cn.bing.com/th?id=OHR.PianePuma_EN-US7221521942_UHD.jpg)
+<!--  Sun Sep 18 2022 02:10:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-18Oktoberfest visitors in Munich, Germany (© Karl-Josef Hildenbrand/Getty Images)](https://cn.bing.com/th?id=OHR.Wellenflug_EN-US7380614960_UHD.jpg)
   
 <!-- END -->
