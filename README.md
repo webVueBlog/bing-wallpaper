@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 19 2022 02:05:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](https://cn.bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-19Footpath in the Arashiyama Bamboo Grove, Kyoto, Japan (© Razvan Ciuca/Getty Images)](https://cn.bing.com/th?id=OHR.ArashiyamaBamboo_EN-US7569665443_UHD.jpg)
+<!--  Tue Sep 20 2022 01:57:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-20Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg)
   
 <!-- END -->
