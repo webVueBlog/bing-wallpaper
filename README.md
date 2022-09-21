@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 20 2022 01:57:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-20Floral tributes left in London, England, following the death of Queen Elizabeth II (© Maja Smiejkowska/Reuters)](https://cn.bing.com/th?id=OHR.QueenFuneral_EN-US7710269016_UHD.jpg)
+<!--  Wed Sep 21 2022 02:08:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-21Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg)
   
 <!-- END -->
