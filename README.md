@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 21 2022 02:08:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-21Raft of sea otters in Sitka Sound, near Sitka, Alaska (© Robert Harding/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.SitkaOtters_EN-US7714053956_UHD.jpg)
+<!--  Thu Sep 22 2022 01:57:02 GMT+0000 (Coordinated Universal Time) -->
+  !['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-22'Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg)
   
 <!-- END -->
