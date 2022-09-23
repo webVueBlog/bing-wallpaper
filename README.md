@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 22 2022 01:57:02 GMT+0000 (Coordinated Universal Time) -->
-  !['Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-22'Peace Doves' by artist Peter Walker in Liverpool Cathedral, Liverpool, England (© PAUL ELLIS/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PWPeaceDoves_EN-US7797522376_UHD.jpg)
+<!--  Fri Sep 23 2022 02:03:03 GMT+0000 (Coordinated Universal Time) -->
+  ![The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-23The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg)
   
 <!-- END -->
