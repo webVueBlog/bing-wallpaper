@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 23 2022 02:03:03 GMT+0000 (Coordinated Universal Time) -->
-  ![The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-23The aspen canopy along the Last Dollar Road near Telluride, Colorado (© Grant Ordelheide/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.LastDollarRoad_EN-US7923638318_UHD.jpg)
+<!--  Sat Sep 24 2022 02:00:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-24Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg)
   
 <!-- END -->
