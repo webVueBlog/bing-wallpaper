@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 24 2022 02:00:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-24Golden jellyfish in Jellyfish Lake on the island of Eil Malk, Palau (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GoldenJellyfish_EN-US6743816471_UHD.jpg)
+<!--  Sun Sep 25 2022 01:59:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-25Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg)
   
 <!-- END -->
