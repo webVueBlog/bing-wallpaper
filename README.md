@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Sep 25 2022 01:59:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-25Milky Way over Acadia National Park, Maine (© Harry Collins/Getty Images)](https://cn.bing.com/th?id=OHR.DarkSkyAcadia_EN-US6966527964_UHD.jpg)
+<!--  Mon Sep 26 2022 02:00:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-26Aerial view of the Amazon River in Brazil (© Curioso.Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.AmazonMangroves_EN-US7068770726_UHD.jpg)
   
 <!-- END -->
