@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 27 2022 01:57:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-27Caribou crossing the Susitna River during autumn, Alaska (© Tim Plowden/Alamy)](https://cn.bing.com/th?id=OHR.SusitnaRiver_EN-US7154675950_UHD.jpg)
+<!--  Wed Sep 28 2022 01:57:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-28Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg)
   
 <!-- END -->
