@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 28 2022 01:57:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-28Upper Geyser Basin in Yellowstone National Park, Wyoming (© Ray Urner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.YellowstoneUGB_EN-US7573964019_UHD.jpg)
+<!--  Thu Sep 29 2022 02:04:25 GMT+0000 (Coordinated Universal Time) -->
+  ![A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-09-29A. M. Foster Bridge in Cabot, Vermont (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.FosterCoveredBridge_EN-US7763700078_UHD.jpg)
   
 <!-- END -->
