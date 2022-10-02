@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 01 2022 02:12:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-01Southern right whale diving in the Golfo Nuevo near the Valdes Peninsula, Argentina (© Gabriel Rojo/Minden Pictures)](https://cn.bing.com/th?id=OHR.EubalaenaAustralis_EN-US7949014397_UHD.jpg)
+<!--  Sun Oct 02 2022 02:03:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-02Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg)
   
 <!-- END -->
