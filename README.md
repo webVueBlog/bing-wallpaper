@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 02 2022 02:03:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-02Bridalveil Fall, Yosemite National Park, California (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_EN-US8055892423_UHD.jpg)
+<!--  Mon Oct 03 2022 01:44:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-03Hot air balloons at the Albuquerque International Balloon Fiesta in Albuquerque, New Mexico (© gmeland/Shutterstock)](https://cn.bing.com/th?id=OHR.LotsOBalloons_EN-US8236203600_UHD.jpg)
   
 <!-- END -->
