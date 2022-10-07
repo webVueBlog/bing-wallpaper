@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 06 2022 01:44:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-06Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg)
+<!--  Fri Oct 07 2022 01:56:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-07Basque Coast Geopark in the Bay of Biscay near Bilbao, Spain (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BayofBiscay_EN-US8933430968_UHD.jpg)
   
 <!-- END -->
