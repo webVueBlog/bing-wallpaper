@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 08 2022 01:41:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-08Designs projected on the Oberbaum Bridge during the yearly Festival of Lights in Berlin, Germany (© John MacDougall/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OberbaumBridge_EN-US6324390642_UHD.jpg)
+<!--  Sun Oct 09 2022 01:54:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-09Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg)
   
 <!-- END -->
