@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 09 2022 01:54:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-09Glass octopus in the Atlantic Ocean off Cabo Verde (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_EN-US6394802515_UHD.jpg)
+<!--  Mon Oct 10 2022 02:00:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-10Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg)
   
 <!-- END -->
