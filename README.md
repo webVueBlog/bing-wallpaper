@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 10 2022 02:00:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-10Phytoplankton blooming in the Chukchi Sea off the coast of Alaska (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_EN-US6494940864_UHD.jpg)
+<!--  Tue Oct 11 2022 01:54:34 GMT+0000 (Coordinated Universal Time) -->
+  ![The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-11The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg)
   
 <!-- END -->
