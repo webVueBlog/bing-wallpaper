@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 11 2022 01:54:34 GMT+0000 (Coordinated Universal Time) -->
-  ![The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-11The 'Circle of Sacred Smoke' sculpture by Junkyu Muto frames Devils Tower in Wyoming (© Nagel Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.SacredSmoke_EN-US7047459944_UHD.jpg)
+<!--  Wed Oct 12 2022 02:08:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-12Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg)
   
 <!-- END -->
