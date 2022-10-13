@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 12 2022 02:08:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-12Wall screw-moss glistening with water droplets, Netherlands (© Arjan Troost/Minden Pictures)](https://cn.bing.com/th?id=OHR.TortulaMoss_EN-US7128071079_UHD.jpg)
+<!--  Thu Oct 13 2022 01:57:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-13Ammonite Pavement at Monmouth Beach, Jurassic Coast World Heritage Site, Dorset, England (© AWL Images/Danita Delimont)](https://cn.bing.com/th?id=OHR.AmmoniteGraveyard_EN-US7510840532_UHD.jpg)
   
 <!-- END -->
