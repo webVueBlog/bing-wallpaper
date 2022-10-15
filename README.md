@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 14 2022 02:10:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-14Bull and female moose in Denali National Park, Alaska (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.AlaskaMoose_EN-US7632880778_UHD.jpg)
+<!--  Sat Oct 15 2022 02:02:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](https://cn.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-15Waterfall on the Río Arazas in Ordesa y Monte Perdido National Park, Pyrenees, Spain (© David Santiago Garcia/Cavan Images)](https://cn.bing.com/th?id=OHR.RioArazas_EN-US7767502808_UHD.jpg)
   
 <!-- END -->
