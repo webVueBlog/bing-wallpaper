@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 16 2022 02:07:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-16Naqsh-e Rostam archaeological site near Persepolis, Iran (© mshirani/Shutterstock)](https://cn.bing.com/th?id=OHR.NaqsheRustam_EN-US7919143366_UHD.jpg)
+<!--  Mon Oct 17 2022 02:12:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-17Prince Christian Sound in southern Greenland (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.PrinceChristianSound_EN-US8033823843_UHD.jpg)
   
 <!-- END -->
