@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 18 2022 02:03:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-18Long-eared owl in the Bohemian-Moravian Highlands of the Czech Republic (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg)
+<!--  Wed Oct 19 2022 01:58:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-19Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg)
   
 <!-- END -->
