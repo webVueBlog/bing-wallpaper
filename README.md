@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 19 2022 01:58:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-19Guggenheim Museum Bilbao, Spain (© Jeremy Horner/Getty Images)](https://cn.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg)
+<!--  Thu Oct 20 2022 01:58:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-20Thuringian Forest in autumn with Wartburg Castle, Germany (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg)
   
 <!-- END -->
