@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 22 2022 01:51:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-22Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GeorgiaCypress_EN-US2966839861_UHD.jpg)
+<!--  Sun Oct 23 2022 01:56:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-23Karst mountains in Guilin and Lijiang River National Park, China (© Sean Pavone/Alamy)](https://cn.bing.com/th?id=OHR.KarstMountains_EN-US4446699673_UHD.jpg)
   
 <!-- END -->
