@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 24 2022 02:14:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-24Mute swan in Valkenhorst Nature Reserve, near Valkenswaard, the Netherlands (© David Pattyn/Minden Pictures)](https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_UHD.jpg)
+<!--  Tue Oct 25 2022 02:06:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-25Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg)
   
 <!-- END -->
