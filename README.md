@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 25 2022 02:06:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-25Oil lamps arranged on a rangoli to celebrate Diwali in Guwahati, India (© Biju Boro/Getty Images)](https://cn.bing.com/th?id=OHR.GuwahatiDiwali_EN-US3454357880_UHD.jpg)
+<!--  Wed Oct 26 2022 01:47:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-26Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg)
   
 <!-- END -->
