@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 26 2022 01:47:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-26Orcus sculpture in the Gardens of Bomarzo in Bomarzo, Italy (© Scott Wilson/Alamy)](https://cn.bing.com/th?id=OHR.OrcusMouth_EN-US5010597701_UHD.jpg)
+<!--  Thu Oct 27 2022 01:45:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-27Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg)
   
 <!-- END -->
