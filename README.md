@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 27 2022 01:45:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-27Brocken spectre in Central Balkan National Park, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_EN-US5247366251_UHD.jpg)
+<!--  Fri Oct 28 2022 01:53:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](https://cn.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-28Bridge of Sighs in Venice, Italy (© Doug Pearson/Alamy)](https://cn.bing.com/th?id=OHR.BridgeofSighs_EN-US5335369208_UHD.jpg)
   
 <!-- END -->
