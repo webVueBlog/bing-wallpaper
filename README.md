@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 29 2022 01:38:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-29Stormy sky over Lake Geneva in Lausanne, Switzerland (© Suradech Singhanat/Shutterstock)](https://cn.bing.com/th?id=OHR.FrankensteinFriday_EN-US3119113489_UHD.jpg)
+<!--  Sun Oct 30 2022 01:56:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Sea angel (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-10-30Sea angel (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg)
   
 <!-- END -->
