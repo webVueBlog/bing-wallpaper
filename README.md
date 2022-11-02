@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 01 2022 02:03:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://cn.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-01Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)](https://cn.bing.com/th?id=OHR.WychwoodForest_EN-US6378774990_UHD.jpg)
+<!--  Wed Nov 02 2022 01:54:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-02Skeleton figures (calacas) dressed up for Día de los Muertos celebrations in Mexico (© Amelia Fuentes Marin/Getty Images)](https://cn.bing.com/th?id=OHR.Calacas_EN-US6430903741_UHD.jpg)
   
 <!-- END -->
