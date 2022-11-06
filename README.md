@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 05 2022 01:40:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-05Depiction of deities from the Tomb of Tutankhamun at the Egyptian Museum, Cairo, Egypt (© Stefan Lippmann/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.Deities_EN-US8555427337_UHD.jpg)
+<!--  Sun Nov 06 2022 01:41:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-06Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg)
   
 <!-- END -->
