@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 06 2022 01:41:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-06Tigh Mor Trossachs on Loch Achray, Scotland (© Fortunato Gatto/eStock Photo)](https://cn.bing.com/th?id=OHR.Trossachs_EN-US0183507678_UHD.jpg)
+<!--  Mon Nov 07 2022 01:37:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-07Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg)
   
 <!-- END -->
