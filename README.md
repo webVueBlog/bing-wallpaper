@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 07 2022 01:37:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-07Runners in the 1990 New York City Marathon crossing the Verrazzano-Narrows Bridge (© David Madison/Getty Images)](https://cn.bing.com/th?id=OHR.MarathonSunday_EN-US0342685769_UHD.jpg)
+<!--  Tue Nov 08 2022 01:37:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-08Lunar eclipse above Mount Crested Butte, Colorado (© Mengzhonghua Photography/Getty Images)](https://cn.bing.com/th?id=OHR.CrestedButteEclispe_EN-US0408360129_UHD.jpg)
   
 <!-- END -->
