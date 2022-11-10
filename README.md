@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 09 2022 01:48:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-09Sky lanterns take flight during the Yi Peng Festival in Chiang Mai, Thailand (© Suttipong Sutiratanachai/Getty Images)](https://cn.bing.com/th?id=OHR.YiPeng_EN-US0467115147_UHD.jpg)
+<!--  Thu Nov 10 2022 01:41:08 GMT+0000 (Coordinated Universal Time) -->
+  ![European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-10European hedgehog in Sussex, England (© Jules Cox/Minden Pictures)](https://cn.bing.com/th?id=OHR.HedgehogNest_EN-US0590169065_UHD.jpg)
   
 <!-- END -->
