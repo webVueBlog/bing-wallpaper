@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 12 2022 01:37:02 GMT+0000 (Coordinated Universal Time) -->
-  ![The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-12The Vietnam Women's Memorial in Washington, DC (© Cvandyke/Shutterstock)](https://cn.bing.com/th?id=OHR.WomensMemorialMall_EN-US1199151625_UHD.jpg)
+<!--  Sun Nov 13 2022 01:35:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-13Bald eagles near Haines, Alaska (© Marion Vollborn/Minden Pictures)](https://cn.bing.com/th?id=OHR.HainesEagle_EN-US1470582706_UHD.jpg)
   
 <!-- END -->
