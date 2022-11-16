@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 15 2022 01:26:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-15Ruins of the medieval castle of the Knights of St. John above the village of Chorio, Halki Island, Greece (© Massimo Ripani/eStock Photo)](https://cn.bing.com/th?id=OHR.SanGiovanni_EN-US1675492729_UHD.jpg)
+<!--  Wed Nov 16 2022 01:26:59 GMT+0000 (Coordinated Universal Time) -->
+  ![North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-16North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg)
   
 <!-- END -->
