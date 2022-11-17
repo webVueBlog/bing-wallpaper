@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 16 2022 01:26:59 GMT+0000 (Coordinated Universal Time) -->
-  ![North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-16North American river otters swimming in Acadia National Park, Maine (© George Sanker/Minden Pictures)](https://cn.bing.com/th?id=OHR.LontraCanadensis_EN-US1791102347_UHD.jpg)
+<!--  Thu Nov 17 2022 01:25:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-17Cliff dwellings in Mesa Verde National Park, Colorado (© Brad McGinley Photography/Getty Images)](https://cn.bing.com/th?id=OHR.Unesco50_EN-US1537915198_UHD.jpg)
   
 <!-- END -->
