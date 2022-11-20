@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 19 2022 01:27:41 GMT+0000 (Coordinated Universal Time) -->
-  ![The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-19The gates of the Royal Palace (Dar al-Makhzen) in Fez, Morocco (© Adam Smigielski/Getty Images)](https://cn.bing.com/th?id=OHR.IslamicArt_EN-US8618450174_UHD.jpg)
+<!--  Sun Nov 20 2022 01:38:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-20Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg)
   
 <!-- END -->
