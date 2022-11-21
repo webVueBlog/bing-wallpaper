@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 20 2022 01:38:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-20Virgin River in Zion National Park, Utah (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.ZNPVR_EN-US8821805600_UHD.jpg)
+<!--  Mon Nov 21 2022 01:26:34 GMT+0000 (Coordinated Universal Time) -->
+  !['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-21'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg)
   
 <!-- END -->
