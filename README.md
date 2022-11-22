@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 21 2022 01:26:34 GMT+0000 (Coordinated Universal Time) -->
-  !['World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-21'World in Progress II,' a land art painting by Saype, United Nations Headquarters, New York City (© Valentin Flauraud/Shutterstock)](https://cn.bing.com/th?id=OHR.LandartPainting_EN-US8910164390_UHD.jpg)
+<!--  Tue Nov 22 2022 01:27:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-22Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg)
   
 <!-- END -->
