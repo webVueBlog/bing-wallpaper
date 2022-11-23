@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 22 2022 01:27:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-22Ahmad Bin Ali Stadium in Doha, Qatar (© Qatar 2022/Supreme Committee via Getty Images)](https://cn.bing.com/th?id=OHR.FIFA2022_EN-US9006895256_UHD.jpg)
+<!--  Wed Nov 23 2022 01:18:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-23Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg)
   
 <!-- END -->
