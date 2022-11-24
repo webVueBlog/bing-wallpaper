@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 23 2022 01:18:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-23Red fox in Amsterdamse Waterleidingduinen Nature Reserve, Netherlands (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.Waterleidingduinen_EN-US9090200846_UHD.jpg)
+<!--  Thu Nov 24 2022 01:23:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-24Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg)
   
 <!-- END -->
