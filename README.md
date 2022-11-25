@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 24 2022 01:23:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-24Sunflower (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_EN-US9168789034_UHD.jpg)
+<!--  Fri Nov 25 2022 01:18:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Cranberry bog (© SHSPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-25Cranberry bog (© SHSPhotography/Getty Images)](https://cn.bing.com/th?id=OHR.CranberryBog_EN-US4145520322_UHD.jpg)
   
 <!-- END -->
