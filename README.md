@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 26 2022 01:14:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois (© Matthew Gush/Alamy)](https://cn.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-26Monks Mound at the Cahokia Mounds UNESCO World Heritage Site near Collinsville, Illinois (© Matthew Gush/Alamy)](https://cn.bing.com/th?id=OHR.MonksMound_EN-US9323884241_UHD.jpg)
+<!--  Sun Nov 27 2022 01:23:27 GMT+0000 (Coordinated Universal Time) -->
+  ![An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://cn.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-11-27An olive tree in front of the Temple of Concordia on the island of Sicily, Italy (© Alfio Finocchiaro/Shutterstock)](https://cn.bing.com/th?id=OHR.OliveTreeDay_EN-US9460125670_UHD.jpg)
   
 <!-- END -->
