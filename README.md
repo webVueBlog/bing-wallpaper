@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 01 2022 01:26:54 GMT+0000 (Coordinated Universal Time) -->
-  ![The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-01The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)](https://cn.bing.com/th?id=OHR.RovinjCroatia_EN-US9834093615_UHD.jpg)
+<!--  Fri Dec 02 2022 01:13:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-02Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)](https://cn.bing.com/th?id=OHR.AntarcticaDay_EN-US9921573438_UHD.jpg)
   
 <!-- END -->
