@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Dec 04 2022 01:14:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Miami Beach, Florida (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-04Miami Beach, Florida (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.MiamiDT_EN-US0878462019_UHD.jpg)
+<!--  Mon Dec 05 2022 01:11:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-05Elephants near Mount Kilimanjaro, Amboseli National Park, Kenya (© Diana Robinson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KilimanjaroElephants_EN-US1249382486_UHD.jpg)
   
 <!-- END -->
