@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 06 2022 01:11:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-06Saint Nicholas Day in Verbier, Switzerland (© Denis Balibouse/Reuters)](https://cn.bing.com/th?id=OHR.StNick_EN-US1370158441_UHD.jpg)
+<!--  Wed Dec 07 2022 01:15:08 GMT+0000 (Coordinated Universal Time) -->
+  ![A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-07A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg)
   
 <!-- END -->
