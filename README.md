@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 07 2022 01:15:08 GMT+0000 (Coordinated Universal Time) -->
-  ![A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-07A great egret in Everglades National Park, Florida (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_EN-US1489292796_UHD.jpg)
+<!--  Thu Dec 08 2022 01:12:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-08Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg)
   
 <!-- END -->
