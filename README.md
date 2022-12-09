@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 08 2022 01:12:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-08Mokoli'I Island in Kaneohe Bay, seen from Kualoa Regional Park, Oahu, Hawaii (© Riddhish Chakraborty/Getty Images)](https://cn.bing.com/th?id=OHR.KaneoheHI_EN-US1621373073_UHD.jpg)
+<!--  Fri Dec 09 2022 01:14:38 GMT+0000 (Coordinated Universal Time) -->
+  ![The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-09The Cathedral of Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.FlorenceAerial_EN-US1751882328_UHD.jpg)
   
 <!-- END -->
