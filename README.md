@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 10 2022 01:09:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-10Muskox mother and calf in Dovre-Sunndalsfjella National Park, Norway (© Robert Haasmann/Minden Pictures)](https://cn.bing.com/th?id=OHR.NorwayMuskox_EN-US1914627688_UHD.jpg)
+<!--  Sun Dec 11 2022 01:19:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-11Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg)
   
 <!-- END -->
