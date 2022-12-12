@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Dec 11 2022 01:19:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-11Salar de Uyuni in Bolivia (© Theo Allofs/Minden Pictures)](https://cn.bing.com/th?id=OHR.SaltDesert_EN-US2123050087_UHD.jpg)
+<!--  Mon Dec 12 2022 01:14:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-12Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)
   
 <!-- END -->
