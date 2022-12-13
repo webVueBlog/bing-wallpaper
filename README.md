@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 12 2022 01:14:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-12Tangle Creek Falls in Jasper National Park, Alberta, Canada (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_EN-US2231198096_UHD.jpg)
+<!--  Tue Dec 13 2022 01:17:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-13Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg)
   
 <!-- END -->
