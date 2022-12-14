@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 13 2022 01:17:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-13Poinsettia plants (© Elizabeth Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.PoinsettiaDay_EN-US2361694439_UHD.jpg)
+<!--  Wed Dec 14 2022 01:13:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-14Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg)
   
 <!-- END -->
