@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 14 2022 01:13:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-14Hallstatt, Austria (© Jon Arnold Images Ltd/Alamy)](https://cn.bing.com/th?id=OHR.InstagramHallstatt_EN-US2608371794_UHD.jpg)
+<!--  Fri Dec 16 2022 01:09:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-16Borovets, Bulgaria (© Grigor Ivanov/Cavan Images)](https://cn.bing.com/th?id=OHR.Borovets_EN-US3037571286_UHD.jpg)
   
 <!-- END -->
