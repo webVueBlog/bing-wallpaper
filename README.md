@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 17 2022 01:07:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-17Holiday lights in the Atlanta Botanical Garden, Georgia (© Natalia Kuzmina/Alamy)](https://cn.bing.com/th?id=OHR.AtlantaLights_EN-US5495340965_UHD.jpg)
+<!--  Sun Dec 18 2022 01:09:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-18Mountain goats at Glacier National Park in Montana (© Sumio Harada/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlacierGoats_EN-US5564943350_UHD.jpg)
   
 <!-- END -->
