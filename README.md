@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 19 2022 01:07:29 GMT+0000 (Coordinated Universal Time) -->
-  ![South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-19South Beach in Miami Beach, Florida (© Claudia Uripos/eStock Photo)](https://cn.bing.com/th?id=OHR.SouthBeach_EN-US5638482869_UHD.jpg)
+<!--  Tue Dec 20 2022 01:11:09 GMT+0000 (Coordinated Universal Time) -->
+  ![A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-20A northern cardinal perched in a common winterberry bush in Marion County, Illinois (© Richard and Susan Day/Danita Delimont)](https://cn.bing.com/th?id=OHR.WinterberryBush_EN-US5722169778_UHD.jpg)
   
 <!-- END -->
