@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 21 2022 01:06:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas market at Belvedere in Vienna, Austria (© Diyana Dimitrova/Alamy)](https://cn.bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-21Christmas market at Belvedere in Vienna, Austria (© Diyana Dimitrova/Alamy)](https://cn.bing.com/th?id=OHR.PalaceBelvedere_EN-US5817237970_UHD.jpg)
+<!--  Thu Dec 22 2022 01:10:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images)](https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-22Sun halo over Lake Antermoia in the Dolomite Mountains of Italy (© Walter Donega/Getty Images)](https://cn.bing.com/th?id=OHR.SolarHalo_EN-US5994527098_UHD.jpg)
   
 <!-- END -->
