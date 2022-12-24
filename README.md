@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 23 2022 01:08:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas tree of the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-23Christmas tree of the Galeries Lafayette in Paris, France (© Geoffroy Van der Hasselt/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TreeGaleriesLafayette_EN-US9731347729_UHD.jpg)
+<!--  Sat Dec 24 2022 01:04:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Gentoo penguins in Antarctica (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-24Gentoo penguins in Antarctica (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.GentooGrievances_EN-US6133793039_UHD.jpg)
   
 <!-- END -->
