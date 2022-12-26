@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Dec 25 2022 01:12:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-25Amalga Harbor, Alaska (© Mark Kelley/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmalgaTree_EN-US6271369167_UHD.jpg)
+<!--  Mon Dec 26 2022 01:10:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](https://cn.bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-26Miniature holiday scene in Strasbourg, France (© Kavalenkava Volha/Alamy)](https://cn.bing.com/th?id=OHR.ChristmasSouvenir_EN-US6355954352_UHD.jpg)
   
 <!-- END -->
