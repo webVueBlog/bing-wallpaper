@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 27 2022 01:09:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](https://cn.bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-27Beverley Westwood Common, East Yorkshire, England (© Les Gibbon/Alamy)](https://cn.bing.com/th?id=OHR.BeverleyWestwood_EN-US6464100653_UHD.jpg)
+<!--  Wed Dec 28 2022 01:08:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-28Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg)
   
 <!-- END -->
