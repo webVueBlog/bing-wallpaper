@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 28 2022 01:08:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-28Blue Lagoon, Grindavík, Iceland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.BlueLagoon_EN-US6577382520_UHD.jpg)
+<!--  Thu Dec 29 2022 01:10:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Maloja, Switzerland (© Roberto Moiola/Getty)](https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-29Maloja, Switzerland (© Roberto Moiola/Getty)](https://cn.bing.com/th?id=OHR.ChiesaBianca_EN-US6649530996_UHD.jpg)
   
 <!-- END -->
