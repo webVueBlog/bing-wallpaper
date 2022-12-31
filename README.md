@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 30 2022 01:10:49 GMT+0000 (Coordinated Universal Time) -->
-  ![A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-30A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)](https://cn.bing.com/th?id=OHR.ButterflyEffect_EN-US4238684091_UHD.jpg)
+<!--  Sat Dec 31 2022 01:08:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-31Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)
   
 <!-- END -->
