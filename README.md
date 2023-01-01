@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 31 2022 01:08:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2022-12-31Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)
+<!--  Sun Jan 01 2023 01:21:01 GMT+0000 (Coordinated Universal Time) -->
+  ![New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-01New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg)
   
 <!-- END -->
