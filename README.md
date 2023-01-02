@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 01 2023 01:21:01 GMT+0000 (Coordinated Universal Time) -->
-  ![New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-01New Year's Eve fireworks, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyNYE_EN-US3807524923_UHD.jpg)
+<!--  Mon Jan 02 2023 01:09:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-02Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg)
   
 <!-- END -->
