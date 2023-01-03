@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 02 2023 01:09:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-02Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_EN-US3880728634_UHD.jpg)
+<!--  Tue Jan 03 2023 01:09:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-03Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg)
   
 <!-- END -->
