@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 03 2023 01:09:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-03Hohenzollern Castle, Germany (© Sahara Prince/Shutterstock)](https://cn.bing.com/th?id=OHR.HohenzollernBurg_EN-US3949412118_UHD.jpg)
+<!--  Wed Jan 04 2023 01:11:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-04Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico (© Jay Goodrich/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SandhillSleeping_EN-US4023790571_UHD.jpg)
   
 <!-- END -->
