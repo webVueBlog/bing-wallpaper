@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 05 2023 01:13:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Earth as seen from the International Space Station (© JSC/NASA)](https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-05Earth as seen from the International Space Station (© JSC/NASA)](https://cn.bing.com/th?id=OHR.Perihelion_EN-US4106263162_UHD.jpg)
+<!--  Fri Jan 06 2023 01:13:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-06Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg)
   
 <!-- END -->
