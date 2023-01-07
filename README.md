@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 06 2023 01:13:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-06Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg)
+<!--  Sat Jan 07 2023 01:10:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-07Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg)
   
 <!-- END -->
