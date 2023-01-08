@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jan 07 2023 01:10:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-07Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg)
+<!--  Sun Jan 08 2023 01:15:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-08Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg)
   
 <!-- END -->
