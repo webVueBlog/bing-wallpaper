@@ -235,3 +235,4 @@
 | 2023-01-06 | ![Harbin International Ice and Snow Sculpture Festival, Harbin, China (© STR/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.HIISSF_EN-US4182845947_UHD.jpg) |
 | 2023-01-07 | ![Black Fell, Lake District, England (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.BlackFell_EN-US4276698070_UHD.jpg) |
 | 2023-01-08 | ![Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg) |
+| 2023-01-09 | ![Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg) |

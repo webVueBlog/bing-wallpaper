@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 08 2023 01:15:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-08Wool and mohair yarn (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_EN-US4379797092_UHD.jpg)
+<!--  Mon Jan 09 2023 01:10:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-09Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg)
   
 <!-- END -->
