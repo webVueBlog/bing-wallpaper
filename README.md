@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 09 2023 01:10:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-09Breckenridge, Colorado (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_EN-US4460042968_UHD.jpg)
+<!--  Tue Jan 10 2023 01:14:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-10Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg)
   
 <!-- END -->
