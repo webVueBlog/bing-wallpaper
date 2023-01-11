@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 10 2023 01:14:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-10Bison in Wind Cave National Park, South Dakota (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_EN-US4537340482_UHD.jpg)
+<!--  Wed Jan 11 2023 01:12:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-11Hummock ice on Lake Peipus in Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.HummockIce_EN-US4606231645_UHD.jpg)
   
 <!-- END -->
