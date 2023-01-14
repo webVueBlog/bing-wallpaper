@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 13 2023 01:13:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-13Rumelihisarı on the Bosporus Strait at Istanbul, Türkiye (© Drone in Wonderland/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.RumeliHisari_EN-US4800002879_UHD.jpg)
+<!--  Sat Jan 14 2023 01:08:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-14Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg)
   
 <!-- END -->
