@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jan 14 2023 01:08:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-14Giant kelp in the Channel Islands National Marine Sanctuary, California (© Brandon Cole Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Pneumatocysts_EN-US1065729036_UHD.jpg)
+<!--  Sun Jan 15 2023 01:15:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-15Domestic donkey feeding on cherry twigs (© Juniors Bildarchiv GmbH/Alamy)](https://cn.bing.com/th?id=OHR.DonkeyFeast_EN-US1153850805_UHD.jpg)
   
 <!-- END -->
