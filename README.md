@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 19 2023 01:14:19 GMT+0000 (Coordinated Universal Time) -->
-  ![White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-19White Sands National Park, New Mexico (© Andrea Harrell/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WhiteSands_EN-US1584863251_UHD.jpg)
+<!--  Fri Jan 20 2023 01:13:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Park City, Utah (© Kruck20/Getty Images)](https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-20Park City, Utah (© Kruck20/Getty Images)](https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg)
   
 <!-- END -->
