@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 20 2023 01:13:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Park City, Utah (© Kruck20/Getty Images)](https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-20Park City, Utah (© Kruck20/Getty Images)](https://cn.bing.com/th?id=OHR.SFFParkCity_EN-US1872185938_UHD.jpg)
+<!--  Sat Jan 21 2023 01:12:39 GMT+0000 (Coordinated Universal Time) -->
+  ![King penguins in the Falkland Islands (© Elmar Weiss/Getty Images)](https://cn.bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-21King penguins in the Falkland Islands (© Elmar Weiss/Getty Images)](https://cn.bing.com/th?id=OHR.FalklandKings_EN-US1992849422_UHD.jpg)
   
 <!-- END -->
