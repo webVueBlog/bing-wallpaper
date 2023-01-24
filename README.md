@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 23 2023 01:10:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-23Mountain hare in Derbyshire, England (© Ben Hall/Minden Pictures)](https://cn.bing.com/th?id=OHR.YearRabbit_EN-US2153925391_UHD.jpg)
+<!--  Tue Jan 24 2023 01:14:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-24Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg)
   
 <!-- END -->
