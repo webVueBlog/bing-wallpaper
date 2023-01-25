@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 24 2023 01:14:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-24Moai statues on Easter Island, Chile (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunriseMoai_EN-US2278287529_UHD.jpg)
+<!--  Wed Jan 25 2023 01:10:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-25Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)
   
 <!-- END -->
