@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 25 2023 01:10:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-25Colle Santa Lucia in the Dolomites, Italy (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ColleSantaLucia_EN-US2362622808_UHD.jpg)
+<!--  Thu Jan 26 2023 01:11:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-26Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg)
   
 <!-- END -->
