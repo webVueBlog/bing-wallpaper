@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 26 2023 01:11:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-26Statue of Robert Burns in the Birks of Aberfeldy, Perth and Kinross, Scotland (© Dennis Barnes/Getty Images)](https://cn.bing.com/th?id=OHR.BirksofAberfeldy_EN-US2525260479_UHD.jpg)
+<!--  Fri Jan 27 2023 01:14:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-27Heaven's Gate Cave in Tianmen Mountain National Park, China (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.HighArchChina_EN-US3519227219_UHD.jpg)
   
 <!-- END -->
