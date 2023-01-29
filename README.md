@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jan 28 2023 01:13:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-28Red mangrove tree seedlings in Guanahacabibes National Park, Cuba (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedMangrove_EN-US2559915803_UHD.jpg)
+<!--  Sun Jan 29 2023 01:18:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-01-29Blue-green waters around the Bahamas as seen from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BlueBahamas_EN-US2634514272_UHD.jpg)
   
 <!-- END -->
