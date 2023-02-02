@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 01 2023 01:21:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-01Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraTrio_EN-US4742257683_UHD.jpg)
+<!--  Thu Feb 02 2023 01:14:23 GMT+0000 (Coordinated Universal Time) -->
+  !['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-02'Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg)
   
 <!-- END -->
