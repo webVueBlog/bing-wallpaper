@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 02 2023 01:14:23 GMT+0000 (Coordinated Universal Time) -->
-  !['Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-02'Testament: The Little Rock Nine Monument,' Little Rock, Arkansas (© Rex Lisman/Getty Images)](https://cn.bing.com/th?id=OHR.LittleRockNine_EN-US4940477720_UHD.jpg)
+<!--  Fri Feb 03 2023 01:16:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-03Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg)
   
 <!-- END -->
