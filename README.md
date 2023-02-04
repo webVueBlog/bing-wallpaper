@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 03 2023 01:16:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-03Alpine marmots in Hohe Tauern National Park, Austria (© Michaela Walch/Alamy)](https://cn.bing.com/th?id=OHR.GroundhogThree_EN-US2975789647_UHD.jpg)
+<!--  Sat Feb 04 2023 01:10:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Château Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock)](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-04Château Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock)](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg)
   
 <!-- END -->
