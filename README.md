@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 04 2023 01:10:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Château Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock)](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-04Château Frontenac, Quebec City, Canada (© Romiana Lee/Shutterstock)](https://cn.bing.com/th?id=OHR.QuebecFrontenac_EN-US3034032069_UHD.jpg)
+<!--  Sun Feb 05 2023 01:18:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-05Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)
   
 <!-- END -->
