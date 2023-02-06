@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 05 2023 01:18:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-05Rosa Parks sits in the front of a bus in Montgomery, Alabama, Dec 21, 1956 (© Bettmann Archive/Getty Images)](https://cn.bing.com/th?id=OHR.RosaParksBus_EN-US3109740887_UHD.jpg)
+<!--  Mon Feb 06 2023 01:11:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-06Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg)
   
 <!-- END -->
