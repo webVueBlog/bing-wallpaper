@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 06 2023 01:11:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-06Monarch butterflies at Pismo Beach, California (© Mimi Ditchie/Getty Images)](https://cn.bing.com/th?id=OHR.MonarchPismo_EN-US3162751009_UHD.jpg)
+<!--  Tue Feb 07 2023 01:12:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock)](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-07Fiordland National Park in South Island, New Zealand (© WitR/Adobe Stock)](https://cn.bing.com/th?id=OHR.WaitangiFjordlandNP_EN-US6375624505_UHD.jpg)
   
 <!-- END -->
