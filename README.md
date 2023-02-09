@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 08 2023 01:14:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock)](https://cn.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-08Village of Labro, Rieti Province, Italy (© Marco Ilari/Shutterstock)](https://cn.bing.com/th?id=OHR.MedievalLabro_EN-US3411281136_UHD.jpg)
+<!--  Thu Feb 09 2023 01:13:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-09Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg)
   
 <!-- END -->
