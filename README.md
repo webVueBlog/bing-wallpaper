@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 09 2023 01:13:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-09Ureddplassen, a rest area on the Helgelandskysten scenic route, Norway (© Eyesite/Alamy)](https://cn.bing.com/th?id=OHR.NorwayRestArea_EN-US3474268008_UHD.jpg)
+<!--  Fri Feb 10 2023 01:17:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-10Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg)
   
 <!-- END -->
