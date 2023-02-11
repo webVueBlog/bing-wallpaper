@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 10 2023 01:17:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-10Lower Antelope Canyon near Page, Arizona (© AZCat/Getty Images)](https://cn.bing.com/th?id=OHR.LowerAntelopeAZ_EN-US3547494170_UHD.jpg)
+<!--  Sat Feb 11 2023 01:08:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-11Ancient theater of Epidaurus in Argolis province, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.EpidaurusGreece_EN-US0957261511_UHD.jpg)
   
 <!-- END -->
