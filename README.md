@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 13 2023 01:16:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-13Blue-footed booby, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.BoobyDarwinDay_EN-US7558308740_UHD.jpg)
+<!--  Tue Feb 14 2023 01:16:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-14Achaches lookout, El Valle de la Luna, Chile (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.MoonValley_EN-US1284273095_UHD.jpg)
   
 <!-- END -->
