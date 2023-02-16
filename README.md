@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 15 2023 01:16:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-15Igloo at Otaru Snow Light Path Festival, Hokkaido, Japan (© T Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.OtaruIgloo_EN-US1380797135_UHD.jpg)
+<!--  Thu Feb 16 2023 01:15:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-16Hippopotamus mother and baby, Chobe National Park, Botswana (© jacobeukman/Getty Images)](https://cn.bing.com/th?id=OHR.HippoDayChobe_EN-US1475666654_UHD.jpg)
   
 <!-- END -->
