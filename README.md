@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 19 2023 01:17:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-19Eben Ice Caves, Upper Peninsula, Michigan (© Dean Pennala/Shutterstock)](https://cn.bing.com/th?id=OHR.EbenIceCave_EN-US1839710567_UHD.jpg)
+<!--  Mon Feb 20 2023 01:18:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-20Humpback whales, Maui, Hawaii (© Flip Nicklin/Minden Pictures)](https://cn.bing.com/th?id=OHR.MauiWhale_EN-US1928366389_UHD.jpg)
   
 <!-- END -->
