@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 21 2023 01:17:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-21Washington Monument and Capitol Building on the National Mall, Washington, DC (© AevanStock/Shutterstock)](https://cn.bing.com/th?id=OHR.PresDayDC_EN-US2054662773_UHD.jpg)
+<!--  Wed Feb 22 2023 01:13:46 GMT+0000 (Coordinated Universal Time) -->
+  ![French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-22French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg)
   
 <!-- END -->
