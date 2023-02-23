@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 22 2023 01:13:46 GMT+0000 (Coordinated Universal Time) -->
-  ![French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-22French Quarter, New Orleans, Louisiana (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.MardiGrasNOLA_EN-US2138635038_UHD.jpg)
+<!--  Thu Feb 23 2023 01:12:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-23Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg)
   
 <!-- END -->
