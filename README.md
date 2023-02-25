@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 23 2023 01:12:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-23Freedom Sunday rally, Soldier Field, Chicago, Illinois, July 10, 1966 (© Bettmann/Getty Images)](https://cn.bing.com/th?id=OHR.FreedomRallyChi_EN-US2565810173_UHD.jpg)
+<!--  Sat Feb 25 2023 01:14:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-25Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg)
   
 <!-- END -->
