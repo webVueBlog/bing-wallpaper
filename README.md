@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 25 2023 01:14:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-25Mandarin duck, Richmond Park, London, England (© Oscar Dewhurst/Minden Pictures)](https://cn.bing.com/th?id=OHR.RichmondParkDuck_EN-US9381974155_UHD.jpg)
+<!--  Sun Feb 26 2023 01:22:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-26Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg)
   
 <!-- END -->
