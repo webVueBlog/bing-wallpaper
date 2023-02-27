@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 26 2023 01:22:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-26Hoodoos at Bryce Canyon National Park, Utah (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BryceAnniv_EN-US9498074213_UHD.jpg)
+<!--  Mon Feb 27 2023 01:15:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-27Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg)
   
 <!-- END -->
