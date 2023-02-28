@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 27 2023 01:15:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-27Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)](https://cn.bing.com/th?id=OHR.CanopyPeru_EN-US9715922202_UHD.jpg)
+<!--  Tue Feb 28 2023 01:15:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-28Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
   
 <!-- END -->
