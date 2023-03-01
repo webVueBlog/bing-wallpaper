@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 28 2023 01:15:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-02-28Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarBearFrost_EN-US9888741440_UHD.jpg)
+<!--  Wed Mar 01 2023 01:23:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-01Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://cn.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg)
   
 <!-- END -->
