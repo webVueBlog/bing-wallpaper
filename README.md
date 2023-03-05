@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 04 2023 01:14:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-04Killer whales in the waters off Spildra, Norway (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OrcaNorway_EN-US0377841310_UHD.jpg)
+<!--  Sun Mar 05 2023 01:25:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-05Road to Mount Pico, Portugal (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.PicoVolcano_EN-US0491099827_UHD.jpg)
   
 <!-- END -->
