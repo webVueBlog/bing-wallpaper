@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 09 2023 01:19:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy)](https://cn.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-09Cibeles Fountain and Madrid City Hall lit for International Women's Day, Madrid, Spain (© dpa picture alliance/Alamy)](https://cn.bing.com/th?id=OHR.IntlWomensDayChange_EN-US1089722389_UHD.jpg)
+<!--  Fri Mar 10 2023 01:18:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)](https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-10Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)](https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg)
   
 <!-- END -->
