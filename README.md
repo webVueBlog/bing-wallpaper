@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 10 2023 01:18:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)](https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-10Rainbow over Waimea Canyon and Waipo'o Falls, Kauai, Hawaii (© Beverley Van Praagh/Getty Images)](https://cn.bing.com/th?id=OHR.WaimeaRainbow_EN-US1376447893_UHD.jpg)
+<!--  Sat Mar 11 2023 01:07:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Vale of Edale, Peak District, England (© John Finney/Getty Images)](https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-11Vale of Edale, Peak District, England (© John Finney/Getty Images)](https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg)
   
 <!-- END -->
