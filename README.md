@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 11 2023 01:07:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Vale of Edale, Peak District, England (© John Finney/Getty Images)](https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-11Vale of Edale, Peak District, England (© John Finney/Getty Images)](https://cn.bing.com/th?id=OHR.EdaleValley_EN-US6544571023_UHD.jpg)
+<!--  Sun Mar 12 2023 01:18:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Marshland, Gloucester, Massachusetts (© Thomas H. Mitchell/Getty Images)](https://cn.bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-12Marshland, Gloucester, Massachusetts (© Thomas H. Mitchell/Getty Images)](https://cn.bing.com/th?id=OHR.LongWharf_EN-US6625072596_UHD.jpg)
   
 <!-- END -->
