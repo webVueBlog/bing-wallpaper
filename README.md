@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 14 2023 01:03:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutterstock)](https://cn.bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-14Female lions sleeping, Serengeti National Park, Tanzania (© Cavan Images/Shutterstock)](https://cn.bing.com/th?id=OHR.LionessesNap_EN-US6947230556_UHD.jpg)
+<!--  Wed Mar 15 2023 01:12:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)](https://cn.bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-15Hedge maze in Cyherbia Botanical Park, Cyprus (© Tpopova/Getty Images)](https://cn.bing.com/th?id=OHR.CyprusMaze_EN-US7012705307_UHD.jpg)
   
 <!-- END -->
