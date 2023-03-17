@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 16 2023 01:14:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Agüero, Spain (© Andrea Comi/Getty Images)](https://cn.bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-16Agüero, Spain (© Andrea Comi/Getty Images)](https://cn.bing.com/th?id=OHR.AgueroSpain_EN-US7079433596_UHD.jpg)
+<!--  Fri Mar 17 2023 01:12:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)](https://cn.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-17Giant panda at Chengdu Panda Base, China (© Jim Zuckerman/Jaynes Gallery/DanitaDelimont)](https://cn.bing.com/th?id=OHR.ChengduPanda_EN-US7206176908_UHD.jpg)
   
 <!-- END -->
