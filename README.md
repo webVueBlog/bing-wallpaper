@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 21 2023 01:08:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Crocus flowers (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-21Crocus flowers (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.PurpleCrocus_EN-US4432411089_UHD.jpg)
+<!--  Wed Mar 22 2023 01:08:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful pastel chalk (© Stephen Shepherd/plainpicture)](https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-22Colorful pastel chalk (© Stephen Shepherd/plainpicture)](https://cn.bing.com/th?id=OHR.ColourDay_EN-US7730392026_UHD.jpg)
   
 <!-- END -->
