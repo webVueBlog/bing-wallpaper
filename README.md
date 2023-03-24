@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 23 2023 01:08:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Lake Powell on the Colorado River (© Peter Schaefer/Alamy)](https://cn.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-23Lake Powell on the Colorado River (© Peter Schaefer/Alamy)](https://cn.bing.com/th?id=OHR.LakePowellAerial_EN-US5762979140_UHD.jpg)
+<!--  Fri Mar 24 2023 01:09:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-24Lenticular clouds, Patagonia (© Sasha Juliard/Shutterstock)](https://cn.bing.com/th?id=OHR.CloudsPatagonia_EN-US4941579050_UHD.jpg)
   
 <!-- END -->
