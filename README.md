@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 25 2023 01:06:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-25Blooming wild garlic, Hainich National Park, Germany (© Frank Sommariva/Getty Images)](https://cn.bing.com/th?id=OHR.WildGarlic_EN-US8549203860_UHD.jpg)
+<!--  Sun Mar 26 2023 01:14:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-26Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg)
   
 <!-- END -->
