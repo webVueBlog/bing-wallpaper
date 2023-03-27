@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 26 2023 01:14:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-26Cecil Brewer Staircase, the Heal's Building, London, England (© Yiran An/Getty Images)](https://cn.bing.com/th?id=OHR.CecilBrewerStaircase_EN-US7912658969_UHD.jpg)
+<!--  Mon Mar 27 2023 01:08:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-27Wildflowers in Anza-Borrego Desert State Park, California (© Ron and Patty Thomas/Getty Images)](https://cn.bing.com/th?id=OHR.WildAnza_EN-US9575120232_UHD.jpg)
   
 <!-- END -->
