@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 31 2023 01:10:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-03-31Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg)
+<!--  Sat Apr 01 2023 01:09:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-01Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg)
   
 <!-- END -->
