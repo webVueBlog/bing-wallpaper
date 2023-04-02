@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 01 2023 01:09:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-01Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg)
+<!--  Sun Apr 02 2023 01:10:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-02Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg)
   
 <!-- END -->
