@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 02 2023 01:10:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-02Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg)
+<!--  Mon Apr 03 2023 01:05:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-03Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg)
   
 <!-- END -->

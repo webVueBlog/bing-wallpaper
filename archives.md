@@ -318,3 +318,4 @@
 | 2023-03-31 | ![Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg) |
 | 2023-04-01 | ![Steyr River, Austria (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.SteyrRiver_EN-US6366722389_UHD.jpg) |
 | 2023-04-02 | ![Javan tree frog (© kuritafsheen/Getty Images)](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.FrogMonth_EN-US6861485456_UHD.jpg) |
+| 2023-04-03 | ![Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&pid=hp&w=1000&rs=1&c=4) | [下载](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg) |
