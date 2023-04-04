@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 03 2023 01:05:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-03Bromo Tengger Semeru National Park, East Java, Indonesia (© Bento Fotography/Getty Images)](https://cn.bing.com/th?id=OHR.JavaBromo_EN-US3411031416_UHD.jpg)
+<!--  Tue Apr 04 2023 01:12:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-04Pu'uhonua o Hōnaunau National Historical Park, Big Island, Hawaii (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.HonaunauNP_EN-US9995236109_UHD.jpg)
   
 <!-- END -->
