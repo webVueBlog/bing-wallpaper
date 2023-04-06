@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 05 2023 00:56:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-05Roman bridge, Córdoba, Spain (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.RomanBridge_EN-US4101165681_UHD.jpg)
+<!--  Thu Apr 06 2023 01:05:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-06Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg)
   
 <!-- END -->
