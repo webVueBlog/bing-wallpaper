@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 06 2023 01:05:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-06Black grouse males in Kuusamo, Finland (© Markus Varesvuo/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackGrouseLekking_EN-US3235220681_UHD.jpg)
+<!--  Fri Apr 07 2023 01:01:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-07Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg)
   
 <!-- END -->
