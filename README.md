@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Apr 07 2023 01:01:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-07Moon rising, Tucson, Arizona (© Tim Murphy/Shutterstock)](https://cn.bing.com/th?id=OHR.ArizonaPinkMoon_EN-US5941531826_UHD.jpg)
+<!--  Sat Apr 08 2023 01:04:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)](https://cn.bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-08Baby Eurasian beavers, Finland (© Danny Green/Minden Pictures)](https://cn.bing.com/th?id=OHR.KitsAspen_EN-US6734104933_UHD.jpg)
   
 <!-- END -->
