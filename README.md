@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 10 2023 01:05:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Lithuanian Easter eggs (© fotomem/Getty Images)](https://cn.bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-10Lithuanian Easter eggs (© fotomem/Getty Images)](https://cn.bing.com/th?id=OHR.LithuanianEggs_EN-US5086451033_UHD.jpg)
+<!--  Tue Apr 11 2023 01:06:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-11Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg)
   
 <!-- END -->
