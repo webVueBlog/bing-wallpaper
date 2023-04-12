@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 11 2023 01:06:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-11Elephant family in Amboseli National Park, Kenya (© Diana Robinson/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantTwins_EN-US2939253051_UHD.jpg)
+<!--  Wed Apr 12 2023 01:06:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Mossy Grotto Falls, Columbia River Gorge, Oregon (© Chase Dekker Wild-Life Images/Getty Images)](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-12Mossy Grotto Falls, Columbia River Gorge, Oregon (© Chase Dekker Wild-Life Images/Getty Images)](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg)
   
 <!-- END -->
