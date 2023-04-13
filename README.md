@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 12 2023 01:06:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Mossy Grotto Falls, Columbia River Gorge, Oregon (© Chase Dekker Wild-Life Images/Getty Images)](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-12Mossy Grotto Falls, Columbia River Gorge, Oregon (© Chase Dekker Wild-Life Images/Getty Images)](https://cn.bing.com/th?id=OHR.MossyGrottoFalls_EN-US5828454161_UHD.jpg)
+<!--  Thu Apr 13 2023 01:04:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-13Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg)
   
 <!-- END -->
