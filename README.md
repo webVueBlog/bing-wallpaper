@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 13 2023 01:04:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-13Earth seen from the International Space Station (© Tim Peake/ESA/NASA via Getty Images)](https://cn.bing.com/th?id=OHR.EuropeFromISS_EN-US3248706956_UHD.jpg)
+<!--  Fri Apr 14 2023 01:06:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan (© Takashi Images/Shutterstock)](https://cn.bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-14Moss pink displays at Hitsujiyama Park, Saitama Prefecture, Japan (© Takashi Images/Shutterstock)](https://cn.bing.com/th?id=OHR.PhloxSubulata_EN-US0635247129_UHD.jpg)
   
 <!-- END -->
