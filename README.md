@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 15 2023 01:09:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-15Mediterranean red sea stars, Mediterranean Sea (© Hans Leijnse/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedSeaStars_EN-US6473635643_UHD.jpg)
+<!--  Sun Apr 16 2023 01:10:55 GMT+0000 (Coordinated Universal Time) -->
+  !['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-16'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg)
   
 <!-- END -->
