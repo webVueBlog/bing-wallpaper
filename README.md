@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 16 2023 01:10:55 GMT+0000 (Coordinated Universal Time) -->
-  !['Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-16'Together' sculpture by Lorenzo Quinn, Great Pyramids of Giza, Cairo, Egypt (© Sima Diab/Getty Images)](https://cn.bing.com/th?id=OHR.LorenzoQuinn_EN-US6997686421_UHD.jpg)
+<!--  Mon Apr 17 2023 01:08:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-17Adelaide International Kite Festival, Australia (© Andrey Moisseyev/Alamy)](https://cn.bing.com/th?id=OHR.KiteDay_EN-US7254188187_UHD.jpg)
   
 <!-- END -->
