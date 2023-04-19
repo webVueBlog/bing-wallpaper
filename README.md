@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 18 2023 01:06:16 GMT+0000 (Coordinated Universal Time) -->
-  !['One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-18'One Thousand Springs' haiku art installation by Chiharu Shiota, Kew Royal Botanic Gardens, London, England (© Guy Bell/Alamy Live News)](https://cn.bing.com/th?id=OHR.OneThousandSprings_EN-US8092648404_UHD.jpg)
+<!--  Wed Apr 19 2023 01:08:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-19Machu Picchu, Peru (© Dora Dalton/Getty Images)](https://cn.bing.com/th?id=OHR.MPPUnesco_EN-US8204922969_UHD.jpg)
   
 <!-- END -->
