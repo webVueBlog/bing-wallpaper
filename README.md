@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Apr 21 2023 01:06:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-21Juniper Springs in Ocala National Forest, Florida (© Michael Warren/Getty Images)](https://cn.bing.com/th?id=OHR.OcalaNF_EN-US5881034085_UHD.jpg)
+<!--  Sat Apr 22 2023 01:07:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-22Procida, Italy (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.ProcidaItaly_EN-US6282924427_UHD.jpg)
   
 <!-- END -->
