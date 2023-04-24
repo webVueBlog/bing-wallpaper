@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 23 2023 01:13:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-23Island fox in Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.EarthDayFox_EN-US3922955169_UHD.jpg)
+<!--  Mon Apr 24 2023 01:08:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Stuttgart Public Library, Germany (© Axel Brunst/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-24Stuttgart Public Library, Germany (© Axel Brunst/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.StuttgartPublicLibrary_EN-US3925069856_UHD.jpg)
   
 <!-- END -->
