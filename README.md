@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 25 2023 01:08:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Old underground cellar, Bavaria, Germany (© Andreas Zerndl/Getty Images)](https://cn.bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-25Old underground cellar, Bavaria, Germany (© Andreas Zerndl/Getty Images)](https://cn.bing.com/th?id=OHR.FranconianWineCellar_EN-US3287515626_UHD.jpg)
+<!--  Wed Apr 26 2023 01:07:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-26Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg)
   
 <!-- END -->
