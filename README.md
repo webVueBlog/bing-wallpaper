@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 26 2023 01:07:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-26Adélie penguins in Antarctica (© David Merron Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AdelieWPD_EN-US5175747404_UHD.jpg)
+<!--  Thu Apr 27 2023 01:09:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Great horned owl fledglings (© Michael Morse/Getty Images)](https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-27Great horned owl fledglings (© Michael Morse/Getty Images)](https://cn.bing.com/th?id=OHR.GHOAudubonDay_EN-US1034364185_UHD.jpg)
   
 <!-- END -->
