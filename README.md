@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 30 2023 01:13:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-04-30Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://cn.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)
+<!--  Mon May 01 2023 01:11:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-01Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg)
   
 <!-- END -->
