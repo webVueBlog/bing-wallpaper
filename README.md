@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 01 2023 01:11:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-01Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)](https://cn.bing.com/th?id=OHR.ExteriorPreservationHall_EN-US9095698933_UHD.jpg)
+<!--  Tue May 02 2023 01:08:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-02Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg)
   
 <!-- END -->
