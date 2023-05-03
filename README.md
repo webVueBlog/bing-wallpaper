@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 02 2023 01:08:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-02Korean Bell of Friendship, Los Angeles (© Carlos Marin/Getty Images)](https://cn.bing.com/th?id=OHR.KoreanBell_EN-US9211069806_UHD.jpg)
+<!--  Wed May 03 2023 01:08:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images)](https://cn.bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-03Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images)](https://cn.bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg)
   
 <!-- END -->
