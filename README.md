@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 03 2023 01:08:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images)](https://cn.bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-03Jöriseen lakes in the Silvretta Alps, Switzerland (© Florin Baumann/Getty Images)](https://cn.bing.com/th?id=OHR.KlostersSerneus_EN-US9360254697_UHD.jpg)
+<!--  Thu May 04 2023 01:06:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Wildebeests in the Maasai Mara National Reserve, Kenya (© Matt Polski/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-04Wildebeests in the Maasai Mara National Reserve, Kenya (© Matt Polski/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeWildebeest_EN-US9446203427_UHD.jpg)
   
 <!-- END -->
