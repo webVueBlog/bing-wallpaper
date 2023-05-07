@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 06 2023 01:02:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-06Church of Nuestra Señora de los Remedios and Popocatépetl, Puebla, Mexico (© Radius Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Popocatepetl_EN-US0582960818_UHD.jpg)
+<!--  Sun May 07 2023 01:12:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)](https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-07Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)](https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg)
   
 <!-- END -->
