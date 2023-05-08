@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 07 2023 01:12:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)](https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-07Royal azaleas in bloom on Hwangmaesan Mountain, South Korea (© Stock for you/Shutterstock)](https://cn.bing.com/th?id=OHR.HwangmaesanAzaleas_EN-US0649441292_UHD.jpg)
+<!--  Mon May 08 2023 01:07:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-08Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg)
   
 <!-- END -->
