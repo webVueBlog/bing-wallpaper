@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 08 2023 01:07:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-08Gray seal pup, Lundy Island, England (© Henley Spiers/Minden Pictures)](https://cn.bing.com/th?id=OHR.SealLaughing_EN-US0742497806_UHD.jpg)
+<!--  Tue May 09 2023 01:09:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-09Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg)
   
 <!-- END -->
