@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 09 2023 01:09:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-09Delicate Arch, Arches National Park, Utah (© Mark Brodkin Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TheChaps_EN-US0810025310_UHD.jpg)
+<!--  Wed May 10 2023 01:06:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Getty Images)](https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-10Poenari Castle on Mount Cetatea, Făgăraș Mountains, Romania (© porojnicu/Getty Images)](https://cn.bing.com/th?id=OHR.MountCetatea_EN-US0862689024_UHD.jpg)
   
 <!-- END -->
