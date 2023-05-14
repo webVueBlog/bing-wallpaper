@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 13 2023 01:05:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Wild lupines in bloom (© silverjohn/Getty Images Plus)](https://cn.bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-13Wild lupines in bloom (© silverjohn/Getty Images Plus)](https://cn.bing.com/th?id=OHR.WildLupine_EN-US1382733552_UHD.jpg)
+<!--  Sun May 14 2023 01:11:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-14Pelicans at Sonny Bono Salton Sea National Wildlife Refuge, California (© David McNew/Getty Images)](https://cn.bing.com/th?id=OHR.SonnyBonoPelicans_EN-US1524460012_UHD.jpg)
   
 <!-- END -->
