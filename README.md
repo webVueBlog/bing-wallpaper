@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 15 2023 01:09:55 GMT+0000 (Coordinated Universal Time) -->
-  ![White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-15White-tailed deer doe and newborn fawn, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.OdocoileusVirginianus_EN-US1668598337_UHD.jpg)
+<!--  Tue May 16 2023 01:08:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-16Morro Jable and Playa del Matorral, Fuerteventura, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.MorroJable_EN-US1772722431_UHD.jpg)
   
 <!-- END -->
