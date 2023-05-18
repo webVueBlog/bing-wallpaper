@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 17 2023 01:10:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-17Canoeing in Okefenokee National Wildlife Refuge, Georgia (© Brad Beck/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AmericanWetlands_EN-US1844827155_UHD.jpg)
+<!--  Thu May 18 2023 01:07:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-18Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg)
   
 <!-- END -->
