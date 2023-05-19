@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu May 18 2023 01:07:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-18Natural Bridges State Beach in Santa Cruz, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CormorantBridge_EN-US1902862286_UHD.jpg)
+<!--  Fri May 19 2023 01:09:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)](https://cn.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-19Museo Soumaya, Plaza Carso, Mexico City, Mexico (© Juan Romero/Alamy)](https://cn.bing.com/th?id=OHR.MuseoSoumaya_EN-US2440983924_UHD.jpg)
   
 <!-- END -->
