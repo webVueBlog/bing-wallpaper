@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 22 2023 01:11:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Pont d’Arcole on the Seine river, Paris, France (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-22Pont d’Arcole on the Seine river, Paris, France (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.PontdArcole_EN-US2477179777_UHD.jpg)
+<!--  Tue May 23 2023 01:08:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-23Arenal Volcano seen from Monteverde, Costa Rica (© Kevin Wells/Getty Images)](https://cn.bing.com/th?id=OHR.BiodiverseCostaRica_EN-US2611109244_UHD.jpg)
   
 <!-- END -->
