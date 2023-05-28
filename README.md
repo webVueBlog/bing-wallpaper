@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 27 2023 01:09:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-27Wat Sri Sawai in Sukhothai Historical Park, Thailand (© Casper1774 Studio/Shutterstock)](https://cn.bing.com/th?id=OHR.WatSriSawai_EN-US3779091241_UHD.jpg)
+<!--  Sun May 28 2023 01:17:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-28Quiver trees in Namibia (© Fotofeeling/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.AloeDichotomum_EN-US4149828212_UHD.jpg)
   
 <!-- END -->
