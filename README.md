@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 29 2023 01:11:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-29Tegallalang terrace farms in Ubud, Bali, Indonesia (© Cavan Images/Adobe Stock)](https://cn.bing.com/th?id=OHR.TegallalangTerrace_EN-US4296943902_UHD.jpg)
+<!--  Tue May 30 2023 01:11:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-30Lantern floating ceremony, Ala Moana Beach Park, Honolulu, Hawaii (© Naomi Hayes of Island Memories Photography/Getty Images)](https://cn.bing.com/th?id=OHR.LanternFloating_EN-US4433076187_UHD.jpg)
   
 <!-- END -->
