@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 31 2023 01:18:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-05-31Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)](https://cn.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg)
+<!--  Thu Jun 01 2023 01:44:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-01Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg)
   
 <!-- END -->
