@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 01 2023 01:44:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-01Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg)
+<!--  Fri Jun 02 2023 01:20:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-02Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ReefAwareness_EN-US4807167780_UHD.jpg)
   
 <!-- END -->
