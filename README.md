@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 04 2023 01:39:45 GMT+0000 (Coordinated Universal Time) -->
-  ![South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-04South Kaibab Trail in Grand Canyon National Park, Arizona (© Roman Khomlyak/Getty Images)](https://cn.bing.com/th?id=OHR.SouthKaibabTrail_EN-US7932080032_UHD.jpg)
+<!--  Mon Jun 05 2023 01:19:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-05Black sand beach at Wai'ānapanapa State Park, Maui, Hawaii (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MauiBeach_EN-US7999098369_UHD.jpg)
   
 <!-- END -->
