@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 06 2023 01:21:11 GMT+0000 (Coordinated Universal Time) -->
-  !['Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-06'Priscilla the Parrotfish' art installation at Como Park Zoo & Conservatory, St. Paul, Minnesota (© Michael Siluk/UCG/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.PlasticParrotfish_EN-US8059787303_UHD.jpg)
+<!--  Wed Jun 07 2023 01:22:30 GMT+0000 (Coordinated Universal Time) -->
+  ![The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-07The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg)
   
 <!-- END -->
