@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 07 2023 01:22:30 GMT+0000 (Coordinated Universal Time) -->
-  ![The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-07The chalk cliffs of Étretat, Normandy, France (© MarcelloLand/Getty Images)](https://cn.bing.com/th?id=OHR.CliffsEtretat_EN-US8125687089_UHD.jpg)
+<!--  Thu Jun 08 2023 01:19:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-08Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg)
   
 <!-- END -->
