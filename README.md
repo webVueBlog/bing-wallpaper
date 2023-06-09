@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 08 2023 01:19:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-08Pueblo Bonito, Chaco Culture National Historical Park, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChacoCulture_EN-US8179442556_UHD.jpg)
+<!--  Fri Jun 09 2023 01:21:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Humpback whale (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-09Humpback whale (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg)
   
 <!-- END -->
