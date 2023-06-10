@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 09 2023 01:21:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whale (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-09Humpback whale (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.PlayfulHumpback_EN-US8290961519_UHD.jpg)
+<!--  Sat Jun 10 2023 01:14:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-10Hot air balloons in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonsTurkey_EN-US8385517143_UHD.jpg)
   
 <!-- END -->
