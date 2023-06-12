@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 11 2023 01:26:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-11Porto Cathedral, Portugal (© Reinhard Schmid/Huber/eStock Photo)](https://cn.bing.com/th?id=OHR.PortugalDay_EN-US8470533567_UHD.jpg)
+<!--  Mon Jun 12 2023 01:21:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)](https://cn.bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-12Goliath heron, Kruger National Park, South Africa (© Johan Swanepoel/Alamy)](https://cn.bing.com/th?id=OHR.GoliathHeron_EN-US5151186674_UHD.jpg)
   
 <!-- END -->
