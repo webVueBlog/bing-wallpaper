@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 14 2023 01:15:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-14Trees with Spanish moss over a boardwalk in the Okefenokee Swamp, Folkston, Georgia (© Emmer Photo/Alamy)](https://cn.bing.com/th?id=OHR.OkefenokeeSwamp_EN-US8688169198_UHD.jpg)
+<!--  Thu Jun 15 2023 01:14:58 GMT+0000 (Coordinated Universal Time) -->
+  ![US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-15US Capitol building and US flags, Washington, DC (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagDayCapitol_EN-US8751000302_UHD.jpg)
   
 <!-- END -->
