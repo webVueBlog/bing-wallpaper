@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 17 2023 01:11:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](https://cn.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-17Hawksbill sea turtle swimming near Akajima, Okinawa, Japan (© Robert Mallon/Getty Images)](https://cn.bing.com/th?id=OHR.HawksbillTurtle_EN-US0640232978_UHD.jpg)
+<!--  Sun Jun 18 2023 01:25:17 GMT+0000 (Coordinated Universal Time) -->
+  !['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-18'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg)
   
 <!-- END -->
