@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 18 2023 01:25:17 GMT+0000 (Coordinated Universal Time) -->
-  !['Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-18'Paddle Out for Unity' event in San Diego, California (© Brandon Colbert Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SurfSanDiego_EN-US0761983664_UHD.jpg)
+<!--  Mon Jun 19 2023 01:16:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-19Common tern father with chick, Nickerson Beach, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TernFather_EN-US0899570111_UHD.jpg)
   
 <!-- END -->
