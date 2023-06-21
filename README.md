@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 20 2023 01:13:17 GMT+0000 (Coordinated Universal Time) -->
-  ![City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](https://cn.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-20City Hall lit up for Juneteenth in San Francisco, California (© yhelfman/Shutterstock)](https://cn.bing.com/th?id=OHR.SanFranHall_EN-US0993956473_UHD.jpg)
+<!--  Wed Jun 21 2023 01:15:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-21Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg)
   
 <!-- END -->
