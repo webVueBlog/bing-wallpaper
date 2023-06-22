@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 21 2023 01:15:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-21Bald eagle, Tongass National Forest, Alaska (© Jaynes Gallery/Shutterstock)](https://cn.bing.com/th?id=OHR.EagleTree_EN-US8588984234_UHD.jpg)
+<!--  Thu Jun 22 2023 01:16:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-22Stonehenge, Salisbury Plain, Wiltshire, England (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.StonehengeSalisbury_EN-US1337618356_UHD.jpg)
   
 <!-- END -->
