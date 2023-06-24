@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 23 2023 01:24:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](https://cn.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-23Amazon rainforest, Peru (© Rhett Ayers Butler/Getty Images)](https://cn.bing.com/th?id=OHR.PeruAmazon_EN-US1428483038_UHD.jpg)
+<!--  Sat Jun 24 2023 01:23:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-24Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg)
   
 <!-- END -->
