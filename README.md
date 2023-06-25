@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 24 2023 01:23:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-24Monarch butterflies feeding from wildflowers (© bookguy/Getty Images)](https://cn.bing.com/th?id=OHR.PollinatorMonarch_EN-US1506878789_UHD.jpg)
+<!--  Sun Jun 25 2023 01:42:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-25Nha Phu Bay, Nha Trang, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.NhaTrang_EN-US1821500559_UHD.jpg)
   
 <!-- END -->
