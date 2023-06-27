@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 26 2023 01:25:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-26Al-Khazneh (the Treasury), Petra, Jordan (© WitthayaP/Shutterstock)](https://cn.bing.com/th?id=OHR.PetraTreasury_EN-US1981994011_UHD.jpg)
+<!--  Tue Jun 27 2023 01:25:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-27Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg)
   
 <!-- END -->
