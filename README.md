@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 27 2023 01:25:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-27Château de Villandry and its garden, Loire Valley, France (© VLADJ55/Shutterstock)](https://cn.bing.com/th?id=OHR.VillandryGarden_EN-US2096198100_UHD.jpg)
+<!--  Wed Jun 28 2023 01:25:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Sedona, Arizona (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-28Sedona, Arizona (© Jonathan Ross/Getty Images)](https://cn.bing.com/th?id=OHR.SedonaSunset_EN-US2192383635_UHD.jpg)
   
 <!-- END -->
