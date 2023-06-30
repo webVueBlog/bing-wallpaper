@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 29 2023 01:22:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-29Rainbow flags and confetti, Reykjavík, Iceland (© Arctic-Images/Getty Images)](https://cn.bing.com/th?id=OHR.PrideIceland_EN-US2263138010_UHD.jpg)
+<!--  Fri Jun 30 2023 01:21:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-30Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg)
   
 <!-- END -->
