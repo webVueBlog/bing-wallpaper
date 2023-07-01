@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 30 2023 01:21:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-06-30Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg)
+<!--  Sat Jul 01 2023 01:39:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-01Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://cn.bing.com/th?id=OHR.ClamBears_EN-US1283973201_UHD.jpg)
   
 <!-- END -->
