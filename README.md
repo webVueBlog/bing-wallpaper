@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 02 2023 01:37:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-02Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Reuters)](https://cn.bing.com/th?id=OHR.PelotonPont_EN-US1487303209_UHD.jpg)
+<!--  Mon Jul 03 2023 01:26:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-03Veluwemeer Aqueduct, Netherlands (© Frolova_Elena/Getty Images)](https://cn.bing.com/th?id=OHR.HalfwayBoats_EN-US9913306071_UHD.jpg)
   
 <!-- END -->
