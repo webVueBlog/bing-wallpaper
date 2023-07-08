@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 07 2023 01:26:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-07Southern rockhopper penguins, Falkland Islands (© Tony Beck/Getty Images)](https://cn.bing.com/th?id=OHR.KissingPenguins_EN-US9934274722_UHD.jpg)
+<!--  Sat Jul 08 2023 01:25:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-08Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg)
   
 <!-- END -->
