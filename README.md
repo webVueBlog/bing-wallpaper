@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 08 2023 01:25:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-08Cocoa pods from Ambanja, Madagascar (© pierivb/Getty Images)](https://cn.bing.com/th?id=OHR.CocoaPods_EN-US2252740906_UHD.jpg)
+<!--  Sun Jul 09 2023 01:39:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-09Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg)
   
 <!-- END -->
