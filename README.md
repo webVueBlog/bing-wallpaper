@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 09 2023 01:39:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-09Mildred B. Cooper Memorial Chapel, Bella Vista, Arkansas (© Eddie Brady/Getty Images)](https://cn.bing.com/th?id=OHR.CooperChapel_EN-US2412561000_UHD.jpg)
+<!--  Mon Jul 10 2023 01:24:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-10Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg)
   
 <!-- END -->
