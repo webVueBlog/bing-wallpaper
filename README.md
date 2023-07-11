@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 10 2023 01:24:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-10Moselle River loop, Kröv, Germany (© Jorg Greuel/Getty Images)](https://cn.bing.com/th?id=OHR.MoselleRiver_EN-US2499319157_UHD.jpg)
+<!--  Tue Jul 11 2023 01:17:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-11Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg)
   
 <!-- END -->
