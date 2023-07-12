@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 11 2023 01:17:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-11Field of lavender, Somerset, England (© Doug Chinnery/Getty Images)](https://cn.bing.com/th?id=OHR.SomersetLavender_EN-US0165780359_UHD.jpg)
+<!--  Wed Jul 12 2023 01:24:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-12Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg)
   
 <!-- END -->
