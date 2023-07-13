@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 12 2023 01:24:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-12Hong Kong SAR (© leungchopan/Getty Images)](https://cn.bing.com/th?id=OHR.WorldPopDay_EN-US3018429136_UHD.jpg)
+<!--  Thu Jul 13 2023 01:26:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](https://cn.bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-13Sand bar in Nakupenda Beach Nature Reserve, Zanzibar, Tanzania  (© Lubos Paukeje/Alamy)](https://cn.bing.com/th?id=OHR.NakupendaBeach_EN-US3130365422_UHD.jpg)
   
 <!-- END -->
