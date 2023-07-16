@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 15 2023 01:25:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-15Blacktip reef sharks, Maldives (© Filippo Bacci/Getty Images)](https://cn.bing.com/th?id=OHR.BlacktipSharks_EN-US9224288033_UHD.jpg)
+<!--  Sun Jul 16 2023 01:44:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-16Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg)
   
 <!-- END -->
