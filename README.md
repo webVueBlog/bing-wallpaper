@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 16 2023 01:44:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-16Castelmezzano, Italy (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.CastelmazzanoSunrise_EN-US9968041695_UHD.jpg)
+<!--  Mon Jul 17 2023 01:27:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-17Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg)
   
 <!-- END -->
