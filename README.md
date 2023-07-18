@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 17 2023 01:27:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-17Bear Hole Brook, Catskill Mountains, New York (© GummyBone/Getty Images)](https://cn.bing.com/th?id=OHR.BearHoleBrook_EN-US0278547262_UHD.jpg)
+<!--  Tue Jul 18 2023 01:46:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-18Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg)
   
 <!-- END -->
