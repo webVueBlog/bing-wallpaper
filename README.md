@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 18 2023 01:46:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-18Cloughoughter Castle in Lough Oughter, County Cavan, Ireland (© 4H4 PH/Shutterstock)](https://cn.bing.com/th?id=OHR.CavanCastle_EN-US0493721152_UHD.jpg)
+<!--  Wed Jul 19 2023 02:35:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-19Great hornbill, Khao Yai National Park, Thailand (© kajornyot wildlife photography/Shutterstock)](https://cn.bing.com/th?id=OHR.BucerosBicornis_EN-US0841652066_UHD.jpg)
   
 <!-- END -->
