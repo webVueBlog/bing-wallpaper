@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 24 2023 01:13:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-24Edinburgh Tea Estate, Nuwara Eliya, Sri Lanka (© Jeremy Woodhouse/Getty Images)](https://cn.bing.com/th?id=OHR.TeaEstate_EN-US1720005197_UHD.jpg)
+<!--  Tue Jul 25 2023 01:18:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-25Zebras in Tarangire National Park, Tanzania (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.ZebraCousins_EN-US1951215229_UHD.jpg)
   
 <!-- END -->
