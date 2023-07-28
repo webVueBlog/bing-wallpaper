@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 27 2023 01:04:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-27Jubail Mangrove Park in Abu Dhabi, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.MangrovePark_EN-US2211111720_UHD.jpg)
+<!--  Fri Jul 28 2023 01:06:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-28Arc de Triomphe du Carrousel and Louvre Pyramid, Paris, France (© Jon Hicks/Getty Images)](https://cn.bing.com/th?id=OHR.ParisLouvre_EN-US2282259448_UHD.jpg)
   
 <!-- END -->
