@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 29 2023 01:06:51 GMT+0000 (Coordinated Universal Time) -->
-  ![San Blas Islands, Panama (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-29San Blas Islands, Panama (© bgremler/Shutterstock)](https://cn.bing.com/th?id=OHR.SanBlasIslands_EN-US1442226155_UHD.jpg)
+<!--  Sun Jul 30 2023 01:09:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-07-30Bengal tiger, Ranthambore National Park, India (© Andy Rouse/Minden Pictures)](https://cn.bing.com/th?id=OHR.TigerIndia_EN-US1594590553_UHD.jpg)
   
 <!-- END -->
