@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 01 2023 01:13:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-01Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)
+<!--  Wed Aug 02 2023 01:04:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-02Climber on Denali, Denali National Park, Alaska (© Andrew Peacock/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.DenaliClimber_EN-US1974827525_UHD.jpg)
   
 <!-- END -->
