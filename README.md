@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 03 2023 01:07:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-03Sandstone butte in Capitol Reef National Park, Utah (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CapitolButte_EN-US2124222699_UHD.jpg)
+<!--  Fri Aug 04 2023 01:09:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-04Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)](https://cn.bing.com/th?id=OHR.ZelenciSprings_EN-US2246293953_UHD.jpg)
   
 <!-- END -->
