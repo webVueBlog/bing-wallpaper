@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 05 2023 01:05:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Tintern Abbey, Wales (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-05Tintern Abbey, Wales (© matthibcn/Getty Images)](https://cn.bing.com/th?id=OHR.GothicRuins_EN-US2341737381_UHD.jpg)
+<!--  Sun Aug 06 2023 01:02:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-06Atlantic puffin, Iceland (© Peter Hering/Minden Pictures)](https://cn.bing.com/th?id=OHR.AtlanticPuffin_EN-US6337041297_UHD.jpg)
   
 <!-- END -->
