@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 10 2023 01:08:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-10Indigenous artwork, Ngaruwanajirri Art Centre, Wurrumiyanga, Bathurst Island, Australia (© Robert Wyatt/Alamy)](https://cn.bing.com/th?id=OHR.BathurstArt_EN-US3084378813_UHD.jpg)
+<!--  Fri Aug 11 2023 00:55:13 GMT+0000 (Coordinated Universal Time) -->
+  ![A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-11A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg)
   
 <!-- END -->
