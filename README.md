@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 11 2023 00:55:13 GMT+0000 (Coordinated Universal Time) -->
-  ![A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-11A lion in Maasai Mara, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WorldLionDay_EN-US3311213683_UHD.jpg)
+<!--  Sat Aug 12 2023 00:54:23 GMT+0000 (Coordinated Universal Time) -->
+  !['Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)](https://cn.bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-12'Gateway Pool' art installation at Jupiter Artland sculpture park, Edinburgh, Scotland (© Owen Humphreys/PA Images/Alamy)](https://cn.bing.com/th?id=OHR.JupiterArtland_EN-US8317170258_UHD.jpg)
   
 <!-- END -->
