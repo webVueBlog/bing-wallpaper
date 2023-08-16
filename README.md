@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 15 2023 00:55:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Tiny gecko on a leaf (© Darren Greenwood/Alamy)](https://cn.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-15Tiny gecko on a leaf (© Darren Greenwood/Alamy)](https://cn.bing.com/th?id=OHR.GeckoLeaf_EN-US4138920498_UHD.jpg)
+<!--  Wed Aug 16 2023 00:55:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-16Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg)
   
 <!-- END -->
