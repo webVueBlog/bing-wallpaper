@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 16 2023 00:55:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-16Piazza IX Aprile, Taormina, Sicily, Italy (© rudi1976/Alamy)](https://cn.bing.com/th?id=OHR.TaorminaSquare_EN-US9553838481_UHD.jpg)
+<!--  Thu Aug 17 2023 00:54:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-17Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg)
   
 <!-- END -->
