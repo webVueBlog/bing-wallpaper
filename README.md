@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 17 2023 00:54:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-17Overseas Highway in the Florida Keys (© Evgeny Vasenev/Cavan Images)](https://cn.bing.com/th?id=OHR.KeyWestBridge_EN-US9752501933_UHD.jpg)
+<!--  Fri Aug 18 2023 00:55:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-18Giant sequoia trees in Sequoia and Kings Canyon National Parks, California (© lucky-photographer/Getty Images)](https://cn.bing.com/th?id=OHR.SequoiaSunlight_EN-US6214316930_UHD.jpg)
   
 <!-- END -->
