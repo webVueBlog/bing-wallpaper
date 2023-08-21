@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 20 2023 00:58:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-20Squirrel looking into the lens of a camera (© Alfredo Piedrafita/Getty Images)](https://cn.bing.com/th?id=OHR.CameraSquirrel_EN-US0174540169_UHD.jpg)
+<!--  Mon Aug 21 2023 00:55:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-21Start Point Lighthouse, South Devon, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.StartPointLight_EN-US0323042936_UHD.jpg)
   
 <!-- END -->
