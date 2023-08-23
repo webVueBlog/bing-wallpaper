@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 22 2023 00:56:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-22Emerald Lake, South Klondike Highway, Yukon, Canada (© artherng/Getty Images)](https://cn.bing.com/th?id=OHR.EmeraldLakeYukon_EN-US0522450551_UHD.jpg)
+<!--  Wed Aug 23 2023 00:55:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-23Amphitheatre of El Jem, Tunisia (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.TunisiaAmphitheatre_EN-US0644159608_UHD.jpg)
   
 <!-- END -->
