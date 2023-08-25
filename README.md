@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 24 2023 00:55:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-24Skógafoss waterfall, Iceland (© Maridav/Shutterstock)](https://cn.bing.com/th?id=OHR.SkogafossWaterfall_EN-US0919190171_UHD.jpg)
+<!--  Fri Aug 25 2023 00:56:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-25Shark Fin Cove, Davenport, California (© Jeff Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SharkFinCove_EN-US1070740515_UHD.jpg)
   
 <!-- END -->
