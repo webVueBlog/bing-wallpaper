@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 27 2023 00:59:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-27Berlin Cathedral and Museum Island, Berlin, Germany (© Rudy Balasko/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumIsland_EN-US2197808554_UHD.jpg)
+<!--  Mon Aug 28 2023 00:57:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-28Seongsan Ilchulbong, a tuff cone on Jeju Island, South Korea (© Quynh Anh Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.JejuIsland_EN-US2402698261_UHD.jpg)
   
 <!-- END -->
