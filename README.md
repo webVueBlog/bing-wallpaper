@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 29 2023 00:57:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://cn.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-29Fort Lovrijenac, West Harbor, Dubrovnik, Croatia (© Benny Marty/Shutterstock)](https://cn.bing.com/th?id=OHR.DubrovnikHarbor_EN-US2498064362_UHD.jpg)
+<!--  Wed Aug 30 2023 00:57:05 GMT+0000 (Coordinated Universal Time) -->
+  ![American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-30American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg)
   
 <!-- END -->
