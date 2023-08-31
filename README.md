@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 30 2023 00:57:05 GMT+0000 (Coordinated Universal Time) -->
-  ![American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-30American bison in Grand Teton National Park, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.TetonBison_EN-US5358590688_UHD.jpg)
+<!--  Thu Aug 31 2023 00:57:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-08-31Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg)
   
 <!-- END -->
