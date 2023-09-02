@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 01 2023 01:00:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-01Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)](https://cn.bing.com/th?id=OHR.IronwoodCactus_EN-US2823371711_UHD.jpg)
+<!--  Sat Sep 02 2023 00:55:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-02Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)
   
 <!-- END -->
