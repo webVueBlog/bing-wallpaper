@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 02 2023 00:55:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-02Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)](https://cn.bing.com/th?id=OHR.TurkeyTailMush_EN-US2958542405_UHD.jpg)
+<!--  Sun Sep 03 2023 00:59:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-03Allen's hummingbird, Santa Cruz, California (© mallardg500/Getty Images)](https://cn.bing.com/th?id=OHR.TinyHummer_EN-US3171586787_UHD.jpg)
   
 <!-- END -->
