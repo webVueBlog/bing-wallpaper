@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 06 2023 00:57:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](https://cn.bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-06Mount Segla, Senja Island, Troms og Finnmark, Norway (© imageBROKER/Moritz Wolf/Getty Images)](https://cn.bing.com/th?id=OHR.MountSegla_EN-US3570750349_UHD.jpg)
+<!--  Thu Sep 07 2023 00:56:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://cn.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-07Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://cn.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg)
   
 <!-- END -->
