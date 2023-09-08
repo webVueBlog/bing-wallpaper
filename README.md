@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 07 2023 00:56:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://cn.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-07Old Venetian harbor, Rethymno, Crete Island, Greece (© Gatsi/Getty Images)](https://cn.bing.com/th?id=OHR.CreteHarbor_EN-US3759550362_UHD.jpg)
+<!--  Fri Sep 08 2023 00:56:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-08Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg)
   
 <!-- END -->
