@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 08 2023 00:56:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-08Camels in the desert, United Arab Emirates (© Amazing Aerial Premium/Shutterstock)](https://cn.bing.com/th?id=OHR.CamelsAbove_EN-US3904666620_UHD.jpg)
+<!--  Sat Sep 09 2023 00:55:25 GMT+0000 (Coordinated Universal Time) -->
+  ![The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-09The Circus townhouses in Bath, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.BathCircus_EN-US1560951776_UHD.jpg)
   
 <!-- END -->
