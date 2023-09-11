@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Sep 10 2023 01:00:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-10Wat Chaiwatthanaram temple, Ayutthaya Historical Park, Thailand (© Weerasak Saeku/Getty Images)](https://cn.bing.com/th?id=OHR.AyutthayaTemple_EN-US1726415748_UHD.jpg)
+<!--  Mon Sep 11 2023 00:57:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-11Walrus pair at sea in Svalbard, Norway (© Mark Smith/Getty Images)](https://cn.bing.com/th?id=OHR.WalrusSvalbard_EN-US1836032120_UHD.jpg)
   
 <!-- END -->
