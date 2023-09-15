@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 14 2023 00:56:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-14Temples on Hemakuta Hill, Hampi, Karnataka, India (© Images of india/Alamy)](https://cn.bing.com/th?id=OHR.HemakutaHill_EN-US2233323383_UHD.jpg)
+<!--  Fri Sep 15 2023 00:58:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-15Przewalski's horses, Hustai National Park, Mongolia (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.MongoliaHorses_EN-US2400199558_UHD.jpg)
   
 <!-- END -->
