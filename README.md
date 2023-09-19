@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 18 2023 00:57:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](https://cn.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-18Cuban tody, Alejandro de Humboldt National Park, Cuba (© Bruno D'Amicis/Minden Pictures)](https://cn.bing.com/th?id=OHR.CubanTody_EN-US3083797062_UHD.jpg)
+<!--  Tue Sep 19 2023 00:58:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-19Milky Way over Southwest Alentejo and Vicentine Coast Natural Park, Portugal (© Daniel Garrido/Getty Images)](https://cn.bing.com/th?id=OHR.MilkyWayPortugal_EN-US3289730564_UHD.jpg)
   
 <!-- END -->
