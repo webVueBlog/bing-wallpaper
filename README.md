@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 20 2023 00:57:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-20Splügen Pass, Graubünden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.SplugenPass_EN-US5807017383_UHD.jpg)
+<!--  Thu Sep 21 2023 00:57:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-21Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg)
   
 <!-- END -->
