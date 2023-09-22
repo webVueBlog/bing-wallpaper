@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 21 2023 00:57:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-21Roman-inspired aqueduct, Arkadia Park, Poland (© PATSTOCK/Getty Images)](https://cn.bing.com/th?id=OHR.ArkadiaPark_EN-US3604031201_UHD.jpg)
+<!--  Fri Sep 22 2023 00:58:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-22Inside the Nobel Peace Center, Oslo, Norway (© Ilyas Ayub/Alamy)](https://cn.bing.com/th?id=OHR.NobelNorway_EN-US3740897457_UHD.jpg)
   
 <!-- END -->
