@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Sep 24 2023 01:01:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-24Cottonwood trees and red sandstone in Coyote Gulch, Glen Canyon National Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CottonwoodCanyon_EN-US1573845041_UHD.jpg)
+<!--  Mon Sep 25 2023 00:58:25 GMT+0000 (Coordinated Universal Time) -->
+  ![The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](https://cn.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-25The Fraser River near Mount Robson, British Columbia, Canada (© phototropic/Getty Images)](https://cn.bing.com/th?id=OHR.FraserRiverBC_EN-US1696932265_UHD.jpg)
   
 <!-- END -->
