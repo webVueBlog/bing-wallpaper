@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 27 2023 00:58:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-27Venice Skatepark at sunset, Los Angeles, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceSkatePark_EN-US1972530060_UHD.jpg)
+<!--  Thu Sep 28 2023 00:57:52 GMT+0000 (Coordinated Universal Time) -->
+  ![The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-28The Via Krupp footpath on Capri island, Italy (© Mikolaj Niemczewski/Shutterstock)](https://cn.bing.com/th?id=OHR.CapriKrupp_EN-US2044781395_UHD.jpg)
   
 <!-- END -->
