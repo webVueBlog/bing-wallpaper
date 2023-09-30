@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 29 2023 00:58:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-29Container ship near a commercial port in Thailand (© Suriyapong Thongsawang/Getty Images)](https://cn.bing.com/th?id=OHR.MaritimeDay_EN-US2262770680_UHD.jpg)
+<!--  Sat Sep 30 2023 00:56:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-09-30Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg)
   
 <!-- END -->
