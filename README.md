@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 05 2023 00:58:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-05Young stars forming in the Tarantula Nebula, James Webb Space Telescope (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://cn.bing.com/th?id=OHR.TarantulaNebula_EN-US3085335513_UHD.jpg)
+<!--  Fri Oct 06 2023 00:58:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-06Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)
   
 <!-- END -->
