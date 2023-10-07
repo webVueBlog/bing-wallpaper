@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 06 2023 00:58:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-06Gentoo penguins, Antarctica (© Art Wolfe/Getty Images)](https://cn.bing.com/th?id=OHR.GentooJump_EN-US3267430533_UHD.jpg)
+<!--  Sat Oct 07 2023 00:57:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-07Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg)
   
 <!-- END -->
