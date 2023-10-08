@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 07 2023 00:57:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-07Taughannock Falls State Park in Trumansburg, New York (© Paul Massie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TaughannockFalls_EN-US8509030625_UHD.jpg)
+<!--  Sun Oct 08 2023 01:02:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-08Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg)
   
 <!-- END -->
