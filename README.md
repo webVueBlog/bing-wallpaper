@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 08 2023 01:02:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-08Brown bears fishing for salmon at Brooks Falls, Katmai National Park, Alaska (© oksana.perkins/Shutterstock)](https://cn.bing.com/th?id=OHR.GrizzlyFalls_EN-US9219501224_UHD.jpg)
+<!--  Mon Oct 09 2023 00:58:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-09Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg)
   
 <!-- END -->
