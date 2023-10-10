@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 09 2023 00:58:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-09Veined octopus in a giant clam shell, Sulawesi Sea, Indonesia (© Alex Mustard/Minden Pictures)](https://cn.bing.com/th?id=OHR.OctoClam_EN-US9467607669_UHD.jpg)
+<!--  Tue Oct 10 2023 00:58:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://cn.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-10Fremont Indian petroglyphs, Dinosaur National Monument, Jensen, Utah (© Dan Leeth/Alamy)](https://cn.bing.com/th?id=OHR.FremontPetroglyph_EN-US9601526664_UHD.jpg)
   
 <!-- END -->
