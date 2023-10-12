@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 11 2023 00:58:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-11Mount Sopris, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SoprisSunrise_EN-US9658915846_UHD.jpg)
+<!--  Thu Oct 12 2023 00:56:28 GMT+0000 (Coordinated Universal Time) -->
+  ![The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-12The Painted Hills in John Day Fossil Beds National Monument, Oregon (© Ben Herndon/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JohnDayFossil_EN-US9957224234_UHD.jpg)
   
 <!-- END -->
