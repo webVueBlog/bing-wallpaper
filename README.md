@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 17 2023 00:58:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-17Golden larches and Prusik Peak, the Enchantments, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenEnchantments_EN-US1308880623_UHD.jpg)
+<!--  Wed Oct 18 2023 00:58:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-18Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg)
   
 <!-- END -->
