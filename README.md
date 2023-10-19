@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 18 2023 00:58:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-18Ancient carved texts from Persepolis, Iran (© George Hall/Alamy)](https://cn.bing.com/th?id=OHR.SpreadsheetDay_EN-US1385391820_UHD.jpg)
+<!--  Thu Oct 19 2023 00:58:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-19Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg)
   
 <!-- END -->
