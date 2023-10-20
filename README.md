@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 19 2023 00:58:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-19Kodiak National Wildlife Refuge, Kodiak Island, Alaska (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KodiakAlaska_EN-US1478138954_UHD.jpg)
+<!--  Fri Oct 20 2023 00:58:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-20Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg)
   
 <!-- END -->
