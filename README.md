@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 20 2023 00:58:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-20Water lily harvest, Mekong River Delta, Long An, Vietnam (© Khanh Phan/Solent News/Shutterstock)](https://cn.bing.com/th?id=OHR.WaterLilyVietnam_EN-US1552107370_UHD.jpg)
+<!--  Sat Oct 21 2023 00:56:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-21Pygmy three-toed sloth baby, Isla Escudo de Veraguas, Panama (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.PygmySloth_EN-US9345280015_UHD.jpg)
   
 <!-- END -->
