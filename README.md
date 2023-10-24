@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 23 2023 00:58:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-23Astoria-Megler Bridge on the Columbia River, Astoria, Oregon (© Dan Mihai/Getty Images)](https://cn.bing.com/th?id=OHR.AstoriaBridge_EN-US9518437970_UHD.jpg)
+<!--  Tue Oct 24 2023 00:58:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-24Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg)
   
 <!-- END -->
