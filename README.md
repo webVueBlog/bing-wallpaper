@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 24 2023 00:58:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-24Corn maze in Saylorsburg, Pennsylvania (© Alex Potemkin/Getty Images)](https://cn.bing.com/th?id=OHR.PoconosMaze_EN-US4210947594_UHD.jpg)
+<!--  Wed Oct 25 2023 00:58:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-25Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg)
   
 <!-- END -->
