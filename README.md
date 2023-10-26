@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 25 2023 00:58:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-25Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://cn.bing.com/th?id=OHR.FuzerCastle_EN-US9918819618_UHD.jpg)
+<!--  Thu Oct 26 2023 00:57:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-26Cottonwood trees in Grand Staircase-Escalante National Monument, Utah (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.GrandStaircase_EN-US9984560349_UHD.jpg)
   
 <!-- END -->
