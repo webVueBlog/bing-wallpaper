@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 27 2023 00:57:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-27Autumn foliage in Schönbrunn Palace Park, Vienna, Austria (© rusm/Getty Images)](https://cn.bing.com/th?id=OHR.ViennaAutumn_EN-US0101367282_UHD.jpg)
+<!--  Sat Oct 28 2023 00:56:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-28Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg)
   
 <!-- END -->
