@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 28 2023 00:56:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-28Sligachan Old Bridge, Isle of Skye, Scotland (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OldBridgeSkye_EN-US0196189617_UHD.jpg)
+<!--  Sun Oct 29 2023 01:01:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-29Windmills in Castilla-La Mancha, Spain (© Getty Images)](https://cn.bing.com/th?id=OHR.FiveWinds_EN-US0292788215_UHD.jpg)
   
 <!-- END -->
