@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 30 2023 00:58:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-30Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)](https://cn.bing.com/th?id=OHR.SavannahSculpture_EN-US0375520303_UHD.jpg)
+<!--  Tue Oct 31 2023 00:58:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-31Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)
   
 <!-- END -->
