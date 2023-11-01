@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 31 2023 00:58:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-10-31Common raven sitting on a branch (© WildMedia/Shutterstock)](https://cn.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg)
+<!--  Wed Nov 01 2023 01:02:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-01Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg)
   
 <!-- END -->
