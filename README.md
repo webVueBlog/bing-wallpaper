@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 05 2023 01:03:05 GMT+0000 (Coordinated Universal Time) -->
-  ![American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-05American bison, Yellowstone National Park, Wyoming (© Gary Gray/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSnow_EN-US6764351912_UHD.jpg)
+<!--  Mon Nov 06 2023 01:00:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-06Quartzite formation, Playa del Silencio, Asturias, Spain (© Jean-Philippe Delobelle/Minden Pictures)](https://cn.bing.com/th?id=OHR.SilencioSpain_EN-US6874925537_UHD.jpg)
   
 <!-- END -->
