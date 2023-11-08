@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 07 2023 01:00:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-07Lake Pehoé, Torres del Paine National Park, Chile (© OST/Getty Images)](https://cn.bing.com/th?id=OHR.LagoPehoe_EN-US6983781896_UHD.jpg)
+<!--  Wed Nov 08 2023 00:59:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-08Kirkilai lakes and lookout tower, Biržai Regional Park, Lithuania (© MNStudio/Shutterstock)](https://cn.bing.com/th?id=OHR.KirkilaiTower_EN-US7178436226_UHD.jpg)
   
 <!-- END -->
