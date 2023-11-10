@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 09 2023 00:59:22 GMT+0000 (Coordinated Universal Time) -->
-  ![West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-09West Indian manatee mother and baby, Three Sisters Springs, Crystal River, Florida (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ManateeMama_EN-US7376333243_UHD.jpg)
+<!--  Fri Nov 10 2023 00:59:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-10Birch trees in autumn, Drammen, Norway (© Baac3nes/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayBirch_EN-US7497125692_UHD.jpg)
   
 <!-- END -->
