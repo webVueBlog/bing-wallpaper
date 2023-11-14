@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 13 2023 01:01:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-13Lamps on the banks of the Sarayu River for Diwali, Ayodhya, India (© SANJAY KANOJIA/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.DiwaliAyodhya_EN-US7782727326_UHD.jpg)
+<!--  Tue Nov 14 2023 00:59:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-14Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg)
   
 <!-- END -->
