@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 14 2023 00:59:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-14Old olive grove in the Serra Tramuntana range, Majorca, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveOrchard_EN-US7903927729_UHD.jpg)
+<!--  Wed Nov 15 2023 01:00:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-15Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg)
   
 <!-- END -->
