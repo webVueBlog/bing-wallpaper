@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 15 2023 01:00:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-15Russell lupines along Lake Tekapo, South Island, New Zealand (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RussellLupines_EN-US8017518812_UHD.jpg)
+<!--  Thu Nov 16 2023 01:02:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-16Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg)
   
 <!-- END -->
