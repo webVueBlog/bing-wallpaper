@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 16 2023 01:02:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-16Rapa Valley in Sarek National Park, Sweden (© Hans Strand/Getty Images)](https://cn.bing.com/th?id=OHR.SarekSweden_EN-US8292531624_UHD.jpg)
+<!--  Fri Nov 17 2023 01:01:42 GMT+0000 (Coordinated Universal Time) -->
+  ![View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-17View over Athens and the Acropolis, Greece (© Mlenny/Getty Images)](https://cn.bing.com/th?id=OHR.AthensAcropolis_EN-US8385195396_UHD.jpg)
   
 <!-- END -->
