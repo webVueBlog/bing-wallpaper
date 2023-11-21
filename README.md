@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 20 2023 01:02:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-20Alam-Pedja Nature Reserve, Estonia (© Sven Zacek/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrozenBog_EN-US2448711069_UHD.jpg)
+<!--  Tue Nov 21 2023 01:02:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-21Chapman Adventure Playground in the Gathering Place, Tulsa, Oklahoma (© Susan Vineyard/Alamy)](https://cn.bing.com/th?id=OHR.ChapmanAdventure_EN-US2522291999_UHD.jpg)
   
 <!-- END -->
