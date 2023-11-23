@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 22 2023 01:03:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-22Gray seal pup, Norfolk, England (© Vince Burton/Minden Pictures)](https://cn.bing.com/th?id=OHR.HelloSeal_EN-US2666982656_UHD.jpg)
+<!--  Thu Nov 23 2023 01:01:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-23Grand Teton National Park, Wyoming (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SnakeRiverTeton_EN-US2749569171_UHD.jpg)
   
 <!-- END -->
