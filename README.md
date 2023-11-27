@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 26 2023 01:05:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Toledo, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-26Toledo, Spain (© Carlos Fernandez/Getty Images)](https://cn.bing.com/th?id=OHR.TajoRiver_EN-US3801665254_UHD.jpg)
+<!--  Mon Nov 27 2023 01:01:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://cn.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-27Fallow deer in Bradgate Park, Leicestershire, England (© Chris Bainbridge/Alamy)](https://cn.bing.com/th?id=OHR.BradgateFallow_EN-US3932725763_UHD.jpg)
   
 <!-- END -->
