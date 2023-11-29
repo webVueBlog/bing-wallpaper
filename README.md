@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 28 2023 01:02:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-28Río Negro, Amazon basin, Brazil (© Timothy Allen/Getty Images)](https://cn.bing.com/th?id=OHR.RioNegro_EN-US4106999854_UHD.jpg)
+<!--  Wed Nov 29 2023 01:02:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-11-29Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)](https://cn.bing.com/th?id=OHR.HumanKindness_EN-US4254216907_UHD.jpg)
   
 <!-- END -->
