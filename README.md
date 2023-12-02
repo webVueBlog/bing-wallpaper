@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 01 2023 01:07:11 GMT+0000 (Coordinated Universal Time) -->
-  ![The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-01The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg)
+<!--  Sat Dec 02 2023 00:59:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-02Iceberg in the Ross Sea, Antarctica (© Michel Roggo/Minden Pictures)](https://cn.bing.com/th?id=OHR.IcebergAntarctica_EN-US8733526190_UHD.jpg)
   
 <!-- END -->
