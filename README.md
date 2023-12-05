@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 04 2023 01:02:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-04Sandstone rock formations, Vermilion Cliffs National Monument, Arizona (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.VermilionCliffs_EN-US9543863428_UHD.jpg)
+<!--  Tue Dec 05 2023 01:02:35 GMT+0000 (Coordinated Universal Time) -->
+  ![A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-05A mother cheetah and her cubs in the Maasai Mara National Reserve, Kenya (© Scott Davis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CheetahDay_EN-US6775219587_UHD.jpg)
   
 <!-- END -->
