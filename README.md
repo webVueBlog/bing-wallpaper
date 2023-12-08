@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 07 2023 01:01:56 GMT+0000 (Coordinated Universal Time) -->
-  ![The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://cn.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-07The Globe of Science and Innovation building, Meyrin, Switzerland (© Deyan Baric/Alamy)](https://cn.bing.com/th?id=OHR.CERNCenter_EN-US9854867489_UHD.jpg)
+<!--  Fri Dec 08 2023 01:02:39 GMT+0000 (Coordinated Universal Time) -->
+  ![USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-08USS Arizona Memorial, Pearl Harbor, Oahu, Hawaii (© Douglas Peebles Photography/Alamy)](https://cn.bing.com/th?id=OHR.PearlHarborArizona_EN-US9996821390_UHD.jpg)
   
 <!-- END -->
