@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 11 2023 01:02:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-11Last rays of sun on a group of dunes, Sahara, Algeria (© AWL Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.SaharaDunes_EN-US0324387398_UHD.jpg)
+<!--  Tue Dec 12 2023 01:02:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-12Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg)
   
 <!-- END -->
