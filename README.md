@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 12 2023 01:02:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-12Winter at Huangshan, China (© Hung Chung Chih/Shutterstock)](https://cn.bing.com/th?id=OHR.MountainDayChina_EN-US0394775210_UHD.jpg)
+<!--  Wed Dec 13 2023 01:02:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-13Poinsettias (© Yarygin/Getty Images)](https://cn.bing.com/th?id=OHR.Poinsettia_EN-US0450019921_UHD.jpg)
   
 <!-- END -->
