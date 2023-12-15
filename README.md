@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 14 2023 01:01:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-14Traditional rorbu houses, Svolvaer, Lofoten Islands, Norway (© Roberto Moiola/Sysaworld/Getty Images)](https://cn.bing.com/th?id=OHR.LofotenRorbu_EN-US1036629496_UHD.jpg)
+<!--  Fri Dec 15 2023 01:02:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-15Boreal owl, Saskatchewan, Canada (© Nick Saunders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BorealOwl_EN-US1112219806_UHD.jpg)
   
 <!-- END -->
