@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 16 2023 01:01:19 GMT+0000 (Coordinated Universal Time) -->
-  ![SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-16SantaPark in Rovaniemi, Lapland, Finland (© lukutin77/Getty Images)](https://cn.bing.com/th?id=OHR.SantaPark_EN-US8274997583_UHD.jpg)
+<!--  Sun Dec 17 2023 01:06:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-17Guild houses of Grand-Place, Brussels, Belgium (© Richard Taylor/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.GrandPlaceXmas_EN-US8451269457_UHD.jpg)
   
 <!-- END -->
