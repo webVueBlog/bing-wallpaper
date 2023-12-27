@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 26 2023 00:59:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](https://cn.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-26Caribou running in snow, Alaska (© Michael Quinton/Minden Pictures)](https://cn.bing.com/th?id=OHR.CaribouChristmas_EN-US9744655068_UHD.jpg)
+<!--  Wed Dec 27 2023 00:59:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-27Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg)
   
 <!-- END -->
