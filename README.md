@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 27 2023 00:59:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-27Winter sunrise in Dedham, Colchester, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.BoxingDaySunrise_EN-US9951041123_UHD.jpg)
+<!--  Thu Dec 28 2023 00:59:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2023-12-28Kirkjufell, Snæfellsnes peninsula, Iceland (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.KirkjufellAurora_EN-US0249270913_UHD.jpg)
   
 <!-- END -->
