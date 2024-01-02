@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 01 2024 01:07:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-01Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](https://cn.bing.com/th?id=OHR.ThailandNewYears_EN-US7115555089_UHD.jpg)
+<!--  Tue Jan 02 2024 01:00:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-02Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)
   
 <!-- END -->
