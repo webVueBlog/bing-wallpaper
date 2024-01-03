@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 02 2024 01:00:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-02Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SleepingFox_EN-US7231760677_UHD.jpg)
+<!--  Wed Jan 03 2024 01:01:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-03Prayer flags in Phobjikha Valley, Bhutan (© John Warburton-Lee/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BhutanSolstice_EN-US7410762908_UHD.jpg)
   
 <!-- END -->
