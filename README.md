@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 05 2024 01:01:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-05Golden Gate Bridge, San Francisco, California (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GoldenGateLight_EN-US7749261025_UHD.jpg)
+<!--  Sat Jan 06 2024 01:00:41 GMT+0000 (Coordinated Universal Time) -->
+  ![International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-06International Ice and Snow Sculpture Festival, Harbin, China (© WANG ZHAO/AFP/Getty Images)](https://cn.bing.com/th?id=OHR.HarbinFestival_EN-US7952970209_UHD.jpg)
   
 <!-- END -->
