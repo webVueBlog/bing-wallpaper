@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 07 2024 01:07:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-07Male chaffinch perched on a crab apple tree in winter (© Mark Hamblin/2020VISION/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrabappleChaffinch_EN-US1781584314_UHD.jpg)
+<!--  Mon Jan 08 2024 01:03:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-08Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg)
   
 <!-- END -->
