@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 08 2024 01:03:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-08Karlu Karlu/Devils Marbles Conservation Reserve, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.DevilsMarbles_EN-US8559239074_UHD.jpg)
+<!--  Tue Jan 09 2024 01:03:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](https://cn.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-09Skier at Bernina Pass, Graubünden, Switzerland (© Francesco Bergamaschi/Getty Images)](https://cn.bing.com/th?id=OHR.BerninaPass_EN-US8788589226_UHD.jpg)
   
 <!-- END -->
