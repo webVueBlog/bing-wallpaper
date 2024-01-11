@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 10 2024 01:02:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](https://cn.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-10Hot air balloons over the Rio Grande, Albuquerque, New Mexico (© Jennifer MacCornack/Shutterstock)](https://cn.bing.com/th?id=OHR.BalloonDay_EN-US9019911805_UHD.jpg)
+<!--  Thu Jan 11 2024 01:02:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-11Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg)
   
 <!-- END -->
