@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 11 2024 01:02:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-11Stairs on the shoreline at Mylopotamos Beach, Thessaly, Greece (© Orestis Zoumpos/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.MilopotamosStairs_EN-US9131506093_UHD.jpg)
+<!--  Fri Jan 12 2024 01:03:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-12Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg)
   
 <!-- END -->
