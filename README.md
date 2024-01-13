@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 12 2024 01:03:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-12Eurasian lynx in the snow (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.LynxSnow_EN-US9261675170_UHD.jpg)
+<!--  Sat Jan 13 2024 01:02:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://cn.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-13Bukhansan National Park, South Korea (© TRAVEL TAKE PHOTOS/Shutterstock)](https://cn.bing.com/th?id=OHR.BukhansanSeoul_EN-US0422922586_UHD.jpg)
   
 <!-- END -->
