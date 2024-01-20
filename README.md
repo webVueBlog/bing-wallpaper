@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 19 2024 01:03:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-19Pont Alexandre III at twilight, Paris, France (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.ParisBridge_EN-US1771484789_UHD.jpg)
+<!--  Sat Jan 20 2024 01:02:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-20Frozen waterfalls in Plitvice Lakes National Park, Croatia (© Massimo_S8/Getty Images)](https://cn.bing.com/th?id=OHR.PlitviceWinter_EN-US1870468945_UHD.jpg)
   
 <!-- END -->
