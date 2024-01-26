@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 25 2024 01:04:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-25Diamond Beach, Iceland (© Rachid Dahnoun/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.IcelandBeach_EN-US2647667820_UHD.jpg)
+<!--  Fri Jan 26 2024 00:59:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-26Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg)
   
 <!-- END -->
