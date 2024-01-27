@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 26 2024 00:59:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-26Ruins of St. Dwynwen's Church, Ynys Llanddwyn, Wales (© Photos by R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.DwynwensDay_EN-US2844762878_UHD.jpg)
+<!--  Sat Jan 27 2024 00:57:46 GMT+0000 (Coordinated Universal Time) -->
+  ![Northern hawk-owl (© Remo Savisaar/Alamy)](https://cn.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-27Northern hawk-owl (© Remo Savisaar/Alamy)](https://cn.bing.com/th?id=OHR.HawkOwl_EN-US6646901652_UHD.jpg)
   
 <!-- END -->
