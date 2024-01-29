@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 28 2024 01:02:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-28Ice palace at the St. Paul Winter Carnival, Minnesota (© Joe Mamer Photography/Alamy)](https://cn.bing.com/th?id=OHR.WinterCarnival_EN-US6859361078_UHD.jpg)
+<!--  Mon Jan 29 2024 00:58:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-29Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg)
   
 <!-- END -->
