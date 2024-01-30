@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 29 2024 00:58:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-29Channel Country, Outback Queensland, Australia (© Southern Lightscapes-Australia/Getty Images)](https://cn.bing.com/th?id=OHR.ChannelOutback_EN-US7094425288_UHD.jpg)
+<!--  Tue Jan 30 2024 00:58:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-30Golling Waterfall, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.GollingerFalls_EN-US7184224692_UHD.jpg)
   
 <!-- END -->
