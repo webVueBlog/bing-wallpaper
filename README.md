@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 31 2024 00:58:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-01-31Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg)
+<!--  Thu Feb 01 2024 01:01:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-01Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg)
   
 <!-- END -->
