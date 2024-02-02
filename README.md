@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 01 2024 01:01:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-01Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_EN-US7544209908_UHD.jpg)
+<!--  Fri Feb 02 2024 00:58:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](https://cn.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-02Dizzy Gillespie in 1990 at the 32nd Monterey Jazz Festival, California (© Craig Lovell/Eagle Visions Photography/Alamy)](https://cn.bing.com/th?id=OHR.DizzyGillespie_EN-US7637800342_UHD.jpg)
   
 <!-- END -->
