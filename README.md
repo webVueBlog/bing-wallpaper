@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 03 2024 00:57:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-03Marmot peeking out of its burrow (© Scacciamosche/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmot_EN-US6895103237_UHD.jpg)
+<!--  Sun Feb 04 2024 01:02:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-04Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg)
   
 <!-- END -->
