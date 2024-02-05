@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 04 2024 01:02:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-04Grand Canal with Santa Maria della Salute Basilica, Venice, Italy (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceCarnival_EN-US7857642609_UHD.jpg)
+<!--  Mon Feb 05 2024 01:00:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-05Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg)
   
 <!-- END -->
