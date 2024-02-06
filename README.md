@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 05 2024 01:00:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-05Devetashka Cave, Devetaki, Bulgaria (© Jasmine_K/Shutterstock)](https://cn.bing.com/th?id=OHR.DevetashkaCave_EN-US7989247628_UHD.jpg)
+<!--  Tue Feb 06 2024 00:58:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](https://cn.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-06Monarch butterflies, Goleta, California (© Craig Rademacher/500px/Getty Images)](https://cn.bing.com/th?id=OHR.WesternMonarchs_EN-US8386035297_UHD.jpg)
   
 <!-- END -->
