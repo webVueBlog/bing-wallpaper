@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 09 2024 00:57:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Hood, Oregon (© Inigo Cia/Getty Images)](https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-09Mount Hood, Oregon (© Inigo Cia/Getty Images)](https://cn.bing.com/th?id=OHR.MtHoodOregon_EN-US8773825867_UHD.jpg)
+<!--  Sat Feb 10 2024 00:56:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](https://cn.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-10Pegadung Rock, Lampung, Sumatra, Indonesia (© CK NG/500px/Getty Images)](https://cn.bing.com/th?id=OHR.PegadungRocks_EN-US6654823877_UHD.jpg)
   
 <!-- END -->
