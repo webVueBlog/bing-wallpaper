@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 12 2024 00:58:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-12Chora, Folegandros Island, Cyclades, Greece (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.FolegandrosGreece_EN-US6921652492_UHD.jpg)
+<!--  Tue Feb 13 2024 00:58:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-13Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg)
   
 <!-- END -->
