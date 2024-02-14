@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 13 2024 00:58:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-13Volcán Alcedo giant tortoises, Isabela Island, Galápagos, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.GiantTortoise_EN-US7034846255_UHD.jpg)
+<!--  Wed Feb 14 2024 00:58:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-14Mardi Gras beads in the Marigny, New Orleans (© Erik Pronske Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MarignyBeads_EN-US7464992774_UHD.jpg)
   
 <!-- END -->
