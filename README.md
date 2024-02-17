@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 16 2024 00:57:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-16Hippopotamus mother and calf, South Luangwa National Park, Zambia (© Nature Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.HippopotamusDay_EN-US7629909300_UHD.jpg)
+<!--  Sat Feb 17 2024 00:57:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](https://cn.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-17Female pyrrhuloxia perched on cactus plant, Texas (© outtakes/Getty Images)](https://cn.bing.com/th?id=OHR.BackyardBird_EN-US8255123787_UHD.jpg)
   
 <!-- END -->
