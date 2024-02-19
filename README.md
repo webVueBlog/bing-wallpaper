@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 18 2024 01:01:48 GMT+0000 (Coordinated Universal Time) -->
-  ![The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-18The Alvin Ailey American Dance Theater rehearsing 'Uptown,' 2009, New York (© STAN HONDA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.AileyUptown_EN-US7790191198_UHD.jpg)
+<!--  Mon Feb 19 2024 00:59:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](https://cn.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-19Sperm whale pod surfacing, Dominica (© Franco Banfi/Minden Pictures)](https://cn.bing.com/th?id=OHR.DominicaWhales_EN-US7918259144_UHD.jpg)
   
 <!-- END -->
