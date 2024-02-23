@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 22 2024 00:57:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](https://cn.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-22Firefall at Horsetail Fall, Yosemite National Park, California (© Gregory B Cuvelier/Shutterstock)](https://cn.bing.com/th?id=OHR.YosemiteFirefall_EN-US8169903146_UHD.jpg)
+<!--  Fri Feb 23 2024 00:57:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-23Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg)
   
 <!-- END -->
