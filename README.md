@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 23 2024 00:57:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-23Bathing boxes at Brighton Beach, Melbourne, Victoria, Australia (© Prasit photo/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonBoxes_EN-US7951266383_UHD.jpg)
+<!--  Sat Feb 24 2024 00:55:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-24Haghartsin Monastery, Dilijan National Park, Armenia (© Alexey Kharitonov/Shutterstock)](https://cn.bing.com/th?id=OHR.HaghartsinMonastery_EN-US2523109486_UHD.jpg)
   
 <!-- END -->
