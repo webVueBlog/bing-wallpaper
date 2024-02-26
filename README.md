@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 25 2024 01:01:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-25Almond trees in full bloom, California (© Jeffrey Lewis/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AlmondBloom_EN-US2721273642_UHD.jpg)
+<!--  Mon Feb 26 2024 00:58:55 GMT+0000 (Coordinated Universal Time) -->
+  !['United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://cn.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-26'United We Stand' sculpture by Charles McGee, Charles H. Wright Museum of African American History, Detroit, Michigan (© Jim West/Alamy)](https://cn.bing.com/th?id=OHR.WrightSculpture_EN-US2897504160_UHD.jpg)
   
 <!-- END -->
