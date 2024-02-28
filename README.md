@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 27 2024 00:57:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-27Grand Canyon National Park, Arizona (© Jeremy Janus/Getty Images)](https://cn.bing.com/th?id=OHR.GrandCanyonWinter_EN-US3010552047_UHD.jpg)
+<!--  Wed Feb 28 2024 00:57:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-28Polar bear cubs playing, Kaktovik, Alaska (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PolarBearCubs_EN-US3160537454_UHD.jpg)
   
 <!-- END -->
