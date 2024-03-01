@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 29 2024 00:57:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-02-29Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg)
+<!--  Fri Mar 01 2024 01:03:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Eurasian red squirrel (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-01Eurasian red squirrel (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.LeapingSquirrel_EN-US3514581405_UHD.jpg)
   
 <!-- END -->
