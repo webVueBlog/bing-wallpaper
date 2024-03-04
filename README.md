@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 03 2024 01:01:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-03Modica, Sicily, Italy (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.ModicaItaly_EN-US3843446204_UHD.jpg)
+<!--  Mon Mar 04 2024 00:58:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-04Leopard in a tree, Kruger National Park, South Africa (© Tonino De Marco/Minden Pictures)](https://cn.bing.com/th?id=OHR.KrugerLeopard_EN-US3980767237_UHD.jpg)
   
 <!-- END -->
