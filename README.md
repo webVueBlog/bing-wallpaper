@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 05 2024 00:57:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-05Arenal Volcano seen from Monteverde, Costa Rica (© Lukas Bischoff/Getty Images)](https://cn.bing.com/th?id=OHR.ArenalCostaRica_EN-US4075825664_UHD.jpg)
+<!--  Wed Mar 06 2024 00:57:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-06Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)
   
 <!-- END -->
