@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 06 2024 00:57:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-06Traffic circle and highway in Bangkok, Thailand (© Avigator Fortuner/Shutterstock)](https://cn.bing.com/th?id=OHR.BangkokCircle_EN-US4243452532_UHD.jpg)
+<!--  Thu Mar 07 2024 00:48:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-07Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg)
   
 <!-- END -->
