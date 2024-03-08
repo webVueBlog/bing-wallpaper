@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 07 2024 00:48:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-07Wahclella Falls in the Columbia River Gorge, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.WahclellaFalls_EN-US4371863309_UHD.jpg)
+<!--  Fri Mar 08 2024 00:57:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-08Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg)
   
 <!-- END -->
