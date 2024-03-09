@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 08 2024 00:57:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-08Roques de Benet, Els Ports Natural Park, Catalonia, Spain (© Sergi Boixader/Alamy)](https://cn.bing.com/th?id=OHR.TarragonaSpain_EN-US4664908149_UHD.jpg)
+<!--  Sat Mar 09 2024 00:55:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-09Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg)
   
 <!-- END -->
