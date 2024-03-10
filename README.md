@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 09 2024 00:55:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-09Tate Modern lit up for International Women's Day, London, England (© Stephen Chung/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.TateLightUp_EN-US0656439011_UHD.jpg)
+<!--  Sun Mar 10 2024 01:01:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-10Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg)
   
 <!-- END -->
