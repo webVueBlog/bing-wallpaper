@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 10 2024 01:01:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-10Bisti/De-Na-Zin Wilderness Area, New Mexico (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BistiBlue_EN-US1090853434_UHD.jpg)
+<!--  Mon Mar 11 2024 00:59:04 GMT+0000 (Coordinated Universal Time) -->
+  ![San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-11San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)
   
 <!-- END -->
