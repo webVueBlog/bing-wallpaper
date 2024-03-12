@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 11 2024 00:59:04 GMT+0000 (Coordinated Universal Time) -->
-  ![San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-11San Jacinto Building's mechanical clock, Beaumont, Texas (© Richard T. Nowitz/Getty Images)](https://cn.bing.com/th?id=OHR.BeaumontClock_EN-US1267001824_UHD.jpg)
+<!--  Tue Mar 12 2024 00:57:34 GMT+0000 (Coordinated Universal Time) -->
+  ![A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-12A koala sleeping in a eucalyptus tree, Australia (© Anton Rogozin/Getty Images)](https://cn.bing.com/th?id=OHR.SleepyKoala_EN-US1399776436_UHD.jpg)
   
 <!-- END -->
