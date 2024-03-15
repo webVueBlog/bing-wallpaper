@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 14 2024 00:58:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-14Lesser flamingos flying over Lake Magadi, Kenya (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.MagadiFlamingos_EN-US1720896379_UHD.jpg)
+<!--  Fri Mar 15 2024 00:58:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-15Wat Phra Ngam, Ayutthaya Historical Park, Thailand (© boonchai wedmakawand/Alamy)](https://cn.bing.com/th?id=OHR.AyutthayaTree_EN-US1871119120_UHD.jpg)
   
 <!-- END -->
