@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 16 2024 00:57:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-16Anza-Borrego Desert State Park, California (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AnzaBorregoBloom_EN-US1951730180_UHD.jpg)
+<!--  Sun Mar 17 2024 01:02:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-17Giant panda eating bamboo, Chengdu, China (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BambooPanda_EN-US2038899729_UHD.jpg)
   
 <!-- END -->
