@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 19 2024 00:58:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)](https://cn.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-19Elephant Rock, Al-Ula, Saudi Arabia (© Lubo Ivanko/Shutterstock)](https://cn.bing.com/th?id=OHR.ElephantRock_EN-US2340789308_UHD.jpg)
+<!--  Wed Mar 20 2024 00:57:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-20Tree frog on leaf (© Tetsuya Tanooka/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.SpringFrog_EN-US7109699294_UHD.jpg)
   
 <!-- END -->
