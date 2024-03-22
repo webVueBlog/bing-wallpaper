@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 21 2024 00:59:35 GMT+0000 (Coordinated Universal Time) -->
-  ![The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-21The Jefferson Memorial during the Cherry Blossom Festival, Washington, DC (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.CherryBlossomsDC_EN-US3285783737_UHD.jpg)
+<!--  Fri Mar 22 2024 00:58:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-22Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg)
   
 <!-- END -->
