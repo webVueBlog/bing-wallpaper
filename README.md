@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 22 2024 00:58:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-22Bwindi Impenetrable National Forest, Uganda (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.BwindiNationalForest_EN-US3376071902_UHD.jpg)
+<!--  Sat Mar 23 2024 00:57:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](https://cn.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-23Blue Spring, Te Waihou Walkway, New Zealand (© Ian Beattie/Alamy)](https://cn.bing.com/th?id=OHR.WaikatoWater_EN-US1360247236_UHD.jpg)
   
 <!-- END -->
