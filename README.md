@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 24 2024 01:04:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Large anvil clouds above the Amazon in Brazil (© NASA)](https://cn.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-24Large anvil clouds above the Amazon in Brazil (© NASA)](https://cn.bing.com/th?id=OHR.AmazonClouds_EN-US2049846873_UHD.jpg)
+<!--  Mon Mar 25 2024 01:00:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-25Silvereyes with cherry blossoms, South Korea (© TigerSeo/Getty Images)](https://cn.bing.com/th?id=OHR.WhiteEyes_EN-US2249866810_UHD.jpg)
   
 <!-- END -->
