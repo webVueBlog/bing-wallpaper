@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 26 2024 00:58:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-26Celebrating Holi in Mathura, Uttar Pradesh, India (© Avishek Das/SOPA Images/LightRocket via Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulHoli_EN-US2354988297_UHD.jpg)
+<!--  Wed Mar 27 2024 00:58:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-27Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg)
   
 <!-- END -->
