@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 27 2024 00:58:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-27Seawater cascades over an ancient coral reef, Hang Rai, Vietnam (© Thang Tat Nguyen/Getty Images)](https://cn.bing.com/th?id=OHR.HangRaiVietnam_EN-US2418713642_UHD.jpg)
+<!--  Fri Mar 29 2024 00:58:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-29Cherry blossoms in Shanghai, China (© Yaorusheng/Getty Images)](https://cn.bing.com/th?id=OHR.ShanghaiBlossoms_EN-US2613653434_UHD.jpg)
   
 <!-- END -->
