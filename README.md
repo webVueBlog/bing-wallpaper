@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 30 2024 00:56:52 GMT+0000 (Coordinated Universal Time) -->
-  ![South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-30South Stack Lighthouse at sunset, Holy Island, Wales (© mariotlr/Getty Images)](https://cn.bing.com/th?id=OHR.SouthStackLight_EN-US2733077237_UHD.jpg)
+<!--  Sun Mar 31 2024 01:04:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-03-31Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.SleepySloth_EN-US2834457510_UHD.jpg)
   
 <!-- END -->
