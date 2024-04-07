@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 06 2024 00:57:48 GMT+0000 (Coordinated Universal Time) -->
-  ![The Bahamas photographed from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-06The Bahamas photographed from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.BahamasSpace_EN-US1544254149_UHD.jpg)
+<!--  Sun Apr 07 2024 01:04:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-07Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)
   
 <!-- END -->
