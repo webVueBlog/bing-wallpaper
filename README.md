@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 07 2024 01:04:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-07Himeji Castle, Himeji, Hyōgo Prefecture, Japan (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.JapanHimeji_EN-US1768279571_UHD.jpg)
+<!--  Mon Apr 08 2024 01:00:19 GMT+0000 (Coordinated Universal Time) -->
+  ![North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-08North American beaver in a pond near Wonder Lake, Denali National Park, Alaska (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDenali_EN-US1894047698_UHD.jpg)
   
 <!-- END -->
