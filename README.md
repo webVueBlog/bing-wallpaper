@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 10 2024 00:58:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-10Tulip fields in spring, Skagit Valley, Washington (© Claudia Cooper/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitValleyTulips_EN-US2489408645_UHD.jpg)
+<!--  Thu Apr 11 2024 00:59:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-11Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg)
   
 <!-- END -->
