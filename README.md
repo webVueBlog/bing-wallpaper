@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 11 2024 00:59:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-11Burrowing owl chicks near a burrow, Wyoming (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.OwlSiblings_EN-US2594321387_UHD.jpg)
+<!--  Fri Apr 12 2024 01:00:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-12Aerial view of Churún Merú waterfall, Venezuela (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.DragonWaterfall_EN-US2799967886_UHD.jpg)
   
 <!-- END -->
