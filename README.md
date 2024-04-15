@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 14 2024 01:22:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Apple trees in spring, Germany (© Smileus/Getty Images)](https://cn.bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-14Apple trees in spring, Germany (© Smileus/Getty Images)](https://cn.bing.com/th?id=OHR.SpringApple_EN-US3148648329_UHD.jpg)
+<!--  Mon Apr 15 2024 03:21:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)](https://cn.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-15Sunset on Bowling Ball Beach, Mendocino County, California (© Melo Qiao/Getty Images)](https://cn.bing.com/th?id=OHR.BowlingBallCali_EN-US3241530931_UHD.jpg)
   
 <!-- END -->
