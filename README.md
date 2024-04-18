@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 17 2024 01:00:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-17Union Square in lower Manhattan at twilight, New York (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.UnionSquareNYC_EN-US3633149979_UHD.jpg)
+<!--  Thu Apr 18 2024 00:59:18 GMT+0000 (Coordinated Universal Time) -->
+  ![American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)](https://cn.bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-18American black bear cub in spring, Shenandoah National Park, Virginia (© Scott Suriano/Getty Images)](https://cn.bing.com/th?id=OHR.SpringCub_EN-US3818124104_UHD.jpg)
   
 <!-- END -->
