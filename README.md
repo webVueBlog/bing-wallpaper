@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Apr 19 2024 00:59:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)](https://cn.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-19Medieval city walls, Ávila, Spain (© Alberto Loyo/Getty Images)](https://cn.bing.com/th?id=OHR.AvilaSpain_EN-US3559491003_UHD.jpg)
+<!--  Sat Apr 20 2024 00:59:57 GMT+0000 (Coordinated Universal Time) -->
+  ![The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-20The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg)
   
 <!-- END -->
