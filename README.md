@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 20 2024 00:59:57 GMT+0000 (Coordinated Universal Time) -->
-  ![The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-20The Ring of Brodgar, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.OrkneyStones_EN-US3355508244_UHD.jpg)
+<!--  Sun Apr 21 2024 01:04:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-21Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg)
   
 <!-- END -->
