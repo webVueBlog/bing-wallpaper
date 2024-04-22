@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 21 2024 01:04:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-21Grand Prismatic Spring at sunrise, Yellowstone National Park, Wyoming (© XIN WANG/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneGeyser_EN-US3470127711_UHD.jpg)
+<!--  Mon Apr 22 2024 01:02:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](https://cn.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-04-22Sparks Lane in Cades Cove, Great Smoky Mountains National Park, Tennessee (© Richard Bernabe/Shutterstock)](https://cn.bing.com/th?id=OHR.CadesCove_EN-US4359486356_UHD.jpg)
   
 <!-- END -->
