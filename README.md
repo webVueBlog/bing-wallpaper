@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 04 2024 01:00:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](https://cn.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-04Brittlebushes blooming in springtime, Sonoran Desert, Arizona (© Charles Harker/Getty Images)](https://cn.bing.com/th?id=OHR.SonoranSpring_EN-US9207877073_UHD.jpg)
+<!--  Sun May 05 2024 01:05:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-05Ruins of an ancient monastery on the island of Skellig Michael, Ireland (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.JediMonastery_EN-US9398447907_UHD.jpg)
   
 <!-- END -->
