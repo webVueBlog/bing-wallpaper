@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 06 2024 01:02:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-06Colonnade in San Miguel de Allende, Guanajuato, Mexico (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.SanMiguelAllende_EN-US9621237021_UHD.jpg)
+<!--  Tue May 07 2024 01:01:31 GMT+0000 (Coordinated Universal Time) -->
+  ![The Roaches, Peak District, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-07The Roaches, Peak District, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg)
   
 <!-- END -->
