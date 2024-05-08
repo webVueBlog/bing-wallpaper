@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 07 2024 01:01:31 GMT+0000 (Coordinated Universal Time) -->
-  ![The Roaches, Peak District, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-07The Roaches, Peak District, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.TheRoachesPeakDistrict_EN-US9733115206_UHD.jpg)
+<!--  Wed May 08 2024 00:51:31 GMT+0000 (Coordinated Universal Time) -->
+  ![A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-08A duckling swimming in a water meadow, Suffolk, England (© Nick Hurst/Getty Images)](https://cn.bing.com/th?id=OHR.LittleDuckling_EN-US0447954247_UHD.jpg)
   
 <!-- END -->
