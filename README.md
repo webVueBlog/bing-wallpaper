@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri May 10 2024 01:02:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-10Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://cn.bing.com/th?id=OHR.EmirganPark_EN-US0659286862_UHD.jpg)
+<!--  Sat May 11 2024 01:01:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-11Misool, Raja Ampat Islands, Indonesia (© Giordano Cipriani/Getty Images)](https://cn.bing.com/th?id=OHR.MisoolRajaAmpat_EN-US0805176947_UHD.jpg)
   
 <!-- END -->
