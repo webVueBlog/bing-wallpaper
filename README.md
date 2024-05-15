@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 14 2024 01:02:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-14Fish River Canyon, Namibia (© R. M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.NamibiaCanyon_EN-US1337379319_UHD.jpg)
+<!--  Wed May 15 2024 01:03:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)](https://cn.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-15Walkway leading into the Big Room, Carlsbad Caverns, New Mexico (© Doug Meek/Getty Images)](https://cn.bing.com/th?id=OHR.CarlsbadNP_EN-US2282243740_UHD.jpg)
   
 <!-- END -->
