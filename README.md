@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 18 2024 01:01:56 GMT+0000 (Coordinated Universal Time) -->
-  ![A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-18A family of African elephants in Tarangire National Park, Tanzania (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TarangireElephants_EN-US8865263185_UHD.jpg)
+<!--  Sun May 19 2024 01:07:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)](https://cn.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-19Blue whale skeleton in the Natural History Museum, London, England (© Bailey-Cooper Photography/Alamy)](https://cn.bing.com/th?id=OHR.MuseumWhale_EN-US2412212162_UHD.jpg)
   
 <!-- END -->
