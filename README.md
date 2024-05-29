@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 28 2024 01:03:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)](https://cn.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-28Field of flags set up for Memorial Day (© Andrew Seegmiller/Getty Images)](https://cn.bing.com/th?id=OHR.MemorialFlags_EN-US5086740860_UHD.jpg)
+<!--  Wed May 29 2024 01:06:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-29Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg)
   
 <!-- END -->
