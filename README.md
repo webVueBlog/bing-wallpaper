@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 29 2024 01:06:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-29Roussanou Monastery, Meteora, Thessaly, Greece (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MeteoraMonastery_EN-US5286293282_UHD.jpg)
+<!--  Thu May 30 2024 01:04:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](https://cn.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-30Eurasian otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)](https://cn.bing.com/th?id=OHR.MullOtter_EN-US5451978021_UHD.jpg)
   
 <!-- END -->
