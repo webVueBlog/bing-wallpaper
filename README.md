@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri May 31 2024 01:04:49 GMT+0000 (Coordinated Universal Time) -->
-  ![A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-05-31A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg)
+<!--  Sat Jun 01 2024 01:07:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-01Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy)](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_EN-US6104560581_UHD.jpg)
   
 <!-- END -->
