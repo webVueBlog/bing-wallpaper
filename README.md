@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 05 2024 01:04:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-05Chestnut-headed bee-eaters, Bardia National Park, Nepal (© PACO COMO/Shutterstock)](https://cn.bing.com/th?id=OHR.ChestnutBeeEater_EN-US6538566329_UHD.jpg)
+<!--  Thu Jun 06 2024 01:04:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-06Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg)
   
 <!-- END -->
