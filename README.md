@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 06 2024 01:04:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-06Masoala National Park in Madagascar (© Dennis van de Water/Shutterstock)](https://cn.bing.com/th?id=OHR.MadagascarRiver_EN-US6642458773_UHD.jpg)
+<!--  Fri Jun 07 2024 01:07:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-07Les Braves monument on Omaha Beach, Normandy, France (© Christopher Furlong/Getty Images)](https://cn.bing.com/th?id=OHR.LesBravesNormandy_EN-US6707866678_UHD.jpg)
   
 <!-- END -->
