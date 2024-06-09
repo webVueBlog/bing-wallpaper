@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 08 2024 01:04:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-08Family of humpback whales, Dutch Harbor, Alaska (© Jude Newkirk/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.HumpbackFamily_EN-US6789097648_UHD.jpg)
+<!--  Sun Jun 09 2024 01:10:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-09Confluence of Easter Creek and Killik River, Gates of the Arctic National Park, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.KillikRiverAlaska_EN-US6860539516_UHD.jpg)
   
 <!-- END -->
