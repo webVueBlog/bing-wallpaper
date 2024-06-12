@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 11 2024 01:05:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Osaka at night, Japan (© wichianduangsri/Getty Images)](https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-11Osaka at night, Japan (© wichianduangsri/Getty Images)](https://cn.bing.com/th?id=OHR.OsakaNight_EN-US7022302235_UHD.jpg)
+<!--  Wed Jun 12 2024 01:05:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-12Southern gemsbok in the savanna, Botswana (© Karine Aigner/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.GemsbokBotswana_EN-US7126985499_UHD.jpg)
   
 <!-- END -->
