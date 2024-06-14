@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 13 2024 01:05:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://cn.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-13Milky Way over Big Bend National Park, Texas (© wisanuboonrawd/Adobe Stock)](https://cn.bing.com/th?id=OHR.BigBendMilkyWay_EN-US7213876995_UHD.jpg)
+<!--  Fri Jun 14 2024 01:05:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-14Mosaic façade in Registan Square, Samarkand, Uzbekistan (© da-kuk/Getty Images)](https://cn.bing.com/th?id=OHR.RegistanUzbekistan_EN-US7287760362_UHD.jpg)
   
 <!-- END -->
