@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 15 2024 01:05:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-15Flag display at the Washington Monument, Washington, DC  (© tristanbnz/Adobe Stock)](https://cn.bing.com/th?id=OHR.FlagsDC_EN-US9363778856_UHD.jpg)
+<!--  Sun Jun 16 2024 01:10:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-16Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
   
 <!-- END -->
