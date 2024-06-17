@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 16 2024 01:10:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-16Surfer riding a wave in Nazaré, Portugal (© Rui Caria/Getty Images)](https://cn.bing.com/th?id=OHR.NazareWave_EN-US9510827848_UHD.jpg)
+<!--  Mon Jun 17 2024 01:07:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-17Red fox father and kit, Washington (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.RedFoxDad_EN-US9773161483_UHD.jpg)
   
 <!-- END -->
