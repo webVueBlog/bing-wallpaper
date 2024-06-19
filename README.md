@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 18 2024 01:06:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-18Green-crowned brilliant hummingbird with giant thistle, Cerro de la Muerte, Costa Rica (© adrian hepworth/Alamy)](https://cn.bing.com/th?id=OHR.HummingThistle_EN-US9897642087_UHD.jpg)
+<!--  Wed Jun 19 2024 01:06:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-19Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)
   
 <!-- END -->
