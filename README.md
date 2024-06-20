@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 19 2024 01:06:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-19Lupine fields and church at sunrise, Snæfellsnes Peninsula, Iceland (© Matteo Colombo/Getty Images)](https://cn.bing.com/th?id=OHR.LupinIceland_EN-US0093427185_UHD.jpg)
+<!--  Thu Jun 20 2024 01:04:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://cn.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-20Jacob Lawrence's mosaic 'Community,' Joseph P. Addabbo Federal Building, Jamaica, Queens, New York (© Alpha Stock/Alamy)](https://cn.bing.com/th?id=OHR.LawrenceMosaic_EN-US0314379909_UHD.jpg)
   
 <!-- END -->
