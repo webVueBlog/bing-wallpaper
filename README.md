@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 25 2024 01:05:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-25Volcanic crater lakes on Kelimutu, Flores, Indonesia (© Shane P. White/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloresIsland_EN-US1042279828_UHD.jpg)
+<!--  Wed Jun 26 2024 01:05:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-06-26Fire Wave, a rock formation in Valley of Fire State Park, Nevada (© Clint Losee/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.FireWave_EN-US1154414797_UHD.jpg)
   
 <!-- END -->
