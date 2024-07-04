@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 03 2024 01:06:14 GMT+0000 (Coordinated Universal Time) -->
-  ![The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-03The Roman amphitheater of Italica, near Seville, Spain (© Moses Palermo/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.ItalicaRuins_EN-US4110786318_UHD.jpg)
+<!--  Thu Jul 04 2024 01:06:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Meerkat family (© anetapics/Shutterstock)](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-04Meerkat family (© anetapics/Shutterstock)](https://cn.bing.com/th?id=OHR.MeerkatManor_EN-US4231814766_UHD.jpg)
   
 <!-- END -->
