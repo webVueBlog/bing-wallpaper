@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 15 2024 01:09:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-15Volcanic vineyard in the La Geria wine region of Lanzarote, Canary Islands, Spain (© Pol Albarrán/Getty Images)](https://cn.bing.com/th?id=OHR.LaGeriaLanzarote_EN-US4849523931_UHD.jpg)
+<!--  Tue Jul 16 2024 01:09:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-16Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg)
   
 <!-- END -->
