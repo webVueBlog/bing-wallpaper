@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 16 2024 01:09:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-16Tateishi Park, Kanagawa Prefecture, Japan (© blew_s/Shutterstock)](https://cn.bing.com/th?id=OHR.TateishiPark_EN-US8384642632_UHD.jpg)
+<!--  Wed Jul 17 2024 01:08:08 GMT+0000 (Coordinated Universal Time) -->
+  ![The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-17The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)
   
 <!-- END -->
