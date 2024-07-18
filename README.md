@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 17 2024 01:08:08 GMT+0000 (Coordinated Universal Time) -->
-  ![The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-17The Neolithic settlement of Skara Brae, Orkney, Scotland (© Paul Williams - FunkyStock/Getty Images)](https://cn.bing.com/th?id=OHR.AncientOrkney_EN-US8469766447_UHD.jpg)
+<!--  Thu Jul 18 2024 01:06:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-18Medieval city of Rothenburg ob der Tauber, Germany (© kanuman/Getty Images)](https://cn.bing.com/th?id=OHR.MedievalRothenburg_EN-US8575765997_UHD.jpg)
   
 <!-- END -->
