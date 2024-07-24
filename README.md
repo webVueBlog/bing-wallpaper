@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 23 2024 01:08:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-23Hammock camping on a lake in Central Florida (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HammockCamping_EN-US9298465355_UHD.jpg)
+<!--  Wed Jul 24 2024 01:08:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-24Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg)
   
 <!-- END -->
