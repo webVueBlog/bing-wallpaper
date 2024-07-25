@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 24 2024 01:08:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-24Methoni Castle, Messenia, Greece (© Andrew Mayovskyy/Shutterstock)](https://cn.bing.com/th?id=OHR.MethoniCastle_EN-US9447007951_UHD.jpg)
+<!--  Thu Jul 25 2024 01:08:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-25Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg)
   
 <!-- END -->
