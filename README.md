@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 25 2024 01:08:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-25Flock of Swaledale sheep in North Yorkshire, England (© R A Kearton/Getty Images)](https://cn.bing.com/th?id=OHR.SheepCousins_EN-US9566915151_UHD.jpg)
+<!--  Fri Jul 26 2024 01:07:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-26Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg)
   
 <!-- END -->
