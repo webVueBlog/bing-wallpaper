@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 26 2024 01:07:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-26Forest path in Great Smoky Mountains National Park, Tennessee (© putmanphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SmokyMountainTrail_EN-US9730767535_UHD.jpg)
+<!--  Sat Jul 27 2024 01:07:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-07-27Pont Neuf over the Seine, Paris, France (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.PontNeuf_EN-US5735328254_UHD.jpg)
   
 <!-- END -->
