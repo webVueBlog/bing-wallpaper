@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 02 2024 01:08:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-02Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.KaptaiLake_EN-US6490685268_UHD.jpg)
+<!--  Sat Aug 03 2024 01:07:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-03Trunk Bay, St. John, Virgin Islands National Park (© cdwheatley/Getty Images)](https://cn.bing.com/th?id=OHR.TrunkBay_EN-US6585719799_UHD.jpg)
   
 <!-- END -->
