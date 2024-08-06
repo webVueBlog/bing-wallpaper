@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 05 2024 01:10:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-05Impala and red-billed oxpecker, South Africa (© Matrishva Vyas/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaOxpecker_EN-US6835989068_UHD.jpg)
+<!--  Tue Aug 06 2024 01:08:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-06Lavender field, Hertfordshire, England (© George W Johnson/Getty Images)](https://cn.bing.com/th?id=OHR.HertfordshireLavender_EN-US6911884438_UHD.jpg)
   
 <!-- END -->
