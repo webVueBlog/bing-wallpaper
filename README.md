@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 08 2024 01:09:08 GMT+0000 (Coordinated Universal Time) -->
-  ![St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-08St. Joseph North Pier Inner and Outer Lights, Michigan (© Kenneth Keifer/Getty Images)](https://cn.bing.com/th?id=OHR.MichiganLighthouse_EN-US2082743301_UHD.jpg)
+<!--  Fri Aug 09 2024 01:10:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-09Spotted owlet, Bangkok, Thailand (© Tfilm/Getty Images)](https://cn.bing.com/th?id=OHR.SpottedOwlet_EN-US7339417169_UHD.jpg)
   
 <!-- END -->
