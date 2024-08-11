@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 10 2024 01:09:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](https://cn.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-10Inca ruin of Sacsayhuamán near Cusco, Peru (© SL_Photography/Getty Images)](https://cn.bing.com/th?id=OHR.IncaRuinPeru_EN-US1209778539_UHD.jpg)
+<!--  Sun Aug 11 2024 01:14:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-11Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg)
   
 <!-- END -->
