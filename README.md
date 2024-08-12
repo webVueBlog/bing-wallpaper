@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 11 2024 01:14:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-11Joshua Tree National Park, California (© Chris Moore - Exploring Light Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.JoshuaTreeNP_EN-US1399159741_UHD.jpg)
+<!--  Mon Aug 12 2024 01:11:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-12Wooden path to Kennedy Lake, Vancouver Island, BC, Canada (© EB Adventure Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TofinoVancouver_EN-US1466348668_UHD.jpg)
   
 <!-- END -->
