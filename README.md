@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 13 2024 01:10:47 GMT+0000 (Coordinated Universal Time) -->
-  ![African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-13African elephants, Amboseli National Park, Kenya (© Ruzdi Ekenheim/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantsAmboseli_EN-US1913542949_UHD.jpg)
+<!--  Wed Aug 14 2024 01:09:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-14Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg)
   
 <!-- END -->
