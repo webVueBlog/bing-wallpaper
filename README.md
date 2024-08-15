@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 14 2024 01:09:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-14Cliffs of Telašćica Nature Park, Dugi Otok Island, Croatia (© Ilija Ascic/Shutterstock)](https://cn.bing.com/th?id=OHR.DugiOtokCroatia_EN-US1981524043_UHD.jpg)
+<!--  Thu Aug 15 2024 01:06:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-15Thorny devil, Watarrka National Park, Australia (© Yva Momatiuk and John Eastcott/Minden Pictures)](https://cn.bing.com/th?id=OHR.WatarrkaLizard_EN-US2106702347_UHD.jpg)
   
 <!-- END -->
