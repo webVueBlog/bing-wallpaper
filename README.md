@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 18 2024 01:13:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-18Alfanzina Lighthouse, Algarve, Portugal (© Andreas Kunz/Getty Images)](https://cn.bing.com/th?id=OHR.AlfanzinaLighthouse_EN-US9545750672_UHD.jpg)
+<!--  Mon Aug 19 2024 01:10:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-19Huntington Beach Pier, California, at sunset (© Stan Moniz Photography/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HuntingtonBeach_EN-US9892577517_UHD.jpg)
   
 <!-- END -->
