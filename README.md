@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 23 2024 01:09:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-23Ocean City, Maryland, at sunrise (© Kevin Olson/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.OceanCityMD_EN-US1389904046_UHD.jpg)
+<!--  Sat Aug 24 2024 01:08:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-24Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg)
   
 <!-- END -->
