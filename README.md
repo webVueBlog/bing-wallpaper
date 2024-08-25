@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 24 2024 01:08:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-24Prasat Phanom Rung temple ruins, Buriram province, Thailand (© Banjongseal324/Getty Images)](https://cn.bing.com/th?id=OHR.PrasatPhanom_EN-US7990643175_UHD.jpg)
+<!--  Sun Aug 25 2024 01:15:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-08-25Katahdin Woods and Waters National Monument, Penobscot County, Maine (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.KatahdinWoods_EN-US8182768375_UHD.jpg)
   
 <!-- END -->
