@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 07 2024 01:11:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-07Ancient beech tree, Glenariff Forest Park, County Antrim, Northern Ireland (© Dawid K Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.GlenariffPark_EN-US3914128007_UHD.jpg)
+<!--  Sun Sep 08 2024 01:18:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-08Anna's hummingbird, Santa Cruz, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCruzHummer_EN-US4047958707_UHD.jpg)
   
 <!-- END -->
