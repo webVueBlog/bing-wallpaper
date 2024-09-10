@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 09 2024 01:15:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-09Interior of the Stockholm Public Library, Sweden (© Andrei Hrabun/Alamy)](https://cn.bing.com/th?id=OHR.StockholmLibrary_EN-US4140921886_UHD.jpg)
+<!--  Tue Sep 10 2024 01:13:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-10Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg)
   
 <!-- END -->
