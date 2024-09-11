@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 10 2024 01:13:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-10Iguazu Falls at the border of Argentina and Brazil (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.IguazuRainbow_EN-US4361499337_UHD.jpg)
+<!--  Wed Sep 11 2024 01:13:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-11Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg)
   
 <!-- END -->
