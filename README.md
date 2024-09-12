@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 11 2024 01:13:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-11Vasco da Gama Bridge, Lisbon, Portugal (© Achim Thomae/Getty Images)](https://cn.bing.com/th?id=OHR.BridgeLisbon_EN-US4458392664_UHD.jpg)
+<!--  Thu Sep 12 2024 01:13:13 GMT+0000 (Coordinated Universal Time) -->
+  ![National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-12National September 11 Memorial & Museum, New York City (© Antonino Bartuccio/Sime/eStock Photo)](https://cn.bing.com/th?id=OHR.ManhattanMemorial_EN-US4528393468_UHD.jpg)
   
 <!-- END -->
