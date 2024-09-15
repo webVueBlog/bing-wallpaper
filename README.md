@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 14 2024 01:12:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](https://cn.bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-14Lighthouse at Point Reyes National Seashore, California (© RMB Images/Photography by Robert Bowman/Getty Images)](https://cn.bing.com/th?id=OHR.PointReyes_EN-US4731803211_UHD.jpg)
+<!--  Sun Sep 15 2024 01:21:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-15Sunrise at Ahu Tongariki, Rapa Nui National Park, Easter Island, Chile (© Piriya Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RapaNuiSunrise_EN-US4872610843_UHD.jpg)
   
 <!-- END -->
