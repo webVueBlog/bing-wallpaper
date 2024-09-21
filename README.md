@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 20 2024 01:14:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-20Playground at the Obereversand Lighthouse in Dorum-Neufeld, Germany (© INGO WAGNER/DPA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.PiratePlayground_EN-US3254868743_UHD.jpg)
+<!--  Sat Sep 21 2024 01:13:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-21Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg)
   
 <!-- END -->
