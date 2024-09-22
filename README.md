@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 21 2024 01:13:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-21Ocracoke Lighthouse on Ocracoke Island, North Carolina (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.OcracokeLight_EN-US3638306974_UHD.jpg)
+<!--  Sun Sep 22 2024 01:21:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-22Oktoberfest in Munich, Germany, at sunset (© AllesSuper21/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MunichBeerfest_EN-US3708656793_UHD.jpg)
   
 <!-- END -->
