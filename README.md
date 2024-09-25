@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 24 2024 01:17:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-24Sea otter, Prince William Sound, Alaska (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.IcebergOtter_EN-US3869054406_UHD.jpg)
+<!--  Wed Sep 25 2024 01:18:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-25Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg)
   
 <!-- END -->
