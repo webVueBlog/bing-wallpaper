@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 25 2024 01:18:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-25Waterfall in Skaftafell, Vatnajökull National Park, Iceland (© Nopasorn Kowathanakul/Getty Images)](https://cn.bing.com/th?id=OHR.SkaftafellWaterfall_EN-US3934499773_UHD.jpg)
+<!--  Thu Sep 26 2024 01:16:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-26Giant sequoias, Sequoia National Park, California (© Galyna Andrushko/Shutterstock)](https://cn.bing.com/th?id=OHR.GiantSequoias_EN-US4034909984_UHD.jpg)
   
 <!-- END -->
