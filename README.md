@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 28 2024 01:16:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-28Aerial view of the Grand Canal and the Basilica di Santa Maria della Salute, Venice, Italy (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_EN-US4386837118_UHD.jpg)
+<!--  Sun Sep 29 2024 01:22:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-09-29Cottonwoods seen through an arch in Coyote Gulch, Glen Canyon Recreation Area, Utah (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CoyoteGulch_EN-US1769933001_UHD.jpg)
   
 <!-- END -->
