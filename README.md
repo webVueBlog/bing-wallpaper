@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 05 2024 01:15:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-05Jupiter's icy moon Europa (© NASA/JPL-Caltech/SETI Institute)](https://cn.bing.com/th?id=OHR.EuropaMoon_EN-US8269574935_UHD.jpg)
+<!--  Sun Oct 06 2024 01:22:22 GMT+0000 (Coordinated Universal Time) -->
+  ![African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-06African elephants in Tsavo East National Park, Kenya (© Neil Bowman/Minden Pictures)](https://cn.bing.com/th?id=OHR.ElephantTeacher_EN-US8363933732_UHD.jpg)
   
 <!-- END -->
