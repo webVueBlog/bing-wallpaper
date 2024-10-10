@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 09 2024 01:16:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-09Mototi octopus, Lembeh Strait, Indonesia (© Howard Chew/Alamy)](https://cn.bing.com/th?id=OHR.MototiOctopus_EN-US8820270832_UHD.jpg)
+<!--  Thu Oct 10 2024 01:16:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-10Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg)
   
 <!-- END -->
