@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 10 2024 01:16:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-10Aspens in the White River National Forest, Colorado (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.AspensColorado_EN-US9105602602_UHD.jpg)
+<!--  Fri Oct 11 2024 01:16:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-11Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg)
   
 <!-- END -->
