@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 11 2024 01:16:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-11Kochia, Ibaraki prefecture, Japan (© DigiPub/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaJapan_EN-US9866955641_UHD.jpg)
+<!--  Sat Oct 12 2024 01:15:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-12Cape Breton Highlands, Nova Scotia, Canada (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.CelticColours_EN-US9284206130_UHD.jpg)
   
 <!-- END -->
