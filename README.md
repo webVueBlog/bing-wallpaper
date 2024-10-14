@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 13 2024 01:22:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-13Wood duck, Quebec, Canada (© Maxime Riendeau/Getty Images)](https://cn.bing.com/th?id=OHR.QuebecDuck_EN-US9387855720_UHD.jpg)
+<!--  Mon Oct 14 2024 01:19:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-14Courtyard of the Maidens, Alcázar of Seville, Spain (© Danny Lehman/Getty Images)](https://cn.bing.com/th?id=OHR.AlcazarSeville_EN-US9523655289_UHD.jpg)
   
 <!-- END -->
