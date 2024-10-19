@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 18 2024 01:17:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-18Frost-covered dunes on the surface of Mars (© NASA/JPL-Caltech/UArizona)](https://cn.bing.com/th?id=OHR.MarsDunes_EN-US3465209450_UHD.jpg)
+<!--  Sat Oct 19 2024 01:16:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-19Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg)
   
 <!-- END -->
