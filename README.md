@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 19 2024 01:16:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-19Autumn in Central Park, Manhattan, New York (© mapman/Shutterstock)](https://cn.bing.com/th?id=OHR.CentralParkAutumn_EN-US2354288950_UHD.jpg)
+<!--  Sun Oct 20 2024 01:23:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-20Temple of Hathor, Dendera Temple Complex, Qena, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.DenderaTemple_EN-US2605709637_UHD.jpg)
   
 <!-- END -->
