@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 22 2024 01:18:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-22Cypress trees in George L. Smith State Park, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnCypress_EN-US2771131028_UHD.jpg)
+<!--  Wed Oct 23 2024 01:17:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-23Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg)
   
 <!-- END -->
