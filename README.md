@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 23 2024 01:17:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-23Palazzo Zuccari, Rome, Italy (© Photon-Photos/Getty Images)](https://cn.bing.com/th?id=OHR.MonsterDoor_EN-US2973387472_UHD.jpg)
+<!--  Thu Oct 24 2024 01:17:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](https://cn.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-24Madame Sherri Forest and the ruins of an old castle, New Hampshire (© yggdrasill/Shutterstock)](https://cn.bing.com/th?id=OHR.MadameSherriCastle_EN-US3066456106_UHD.jpg)
   
 <!-- END -->
