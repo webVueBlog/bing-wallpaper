@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 25 2024 01:17:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-25Bodie State Historic Park, Mono County, California (© Julien McRoberts/Tetra Images, LLC/Alamy)](https://cn.bing.com/th?id=OHR.BodieCalifornia_EN-US3185568116_UHD.jpg)
+<!--  Sat Oct 26 2024 01:15:35 GMT+0000 (Coordinated Universal Time) -->
+  ![The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-26The Mont Blanc massif, near Chamonix, France (© Simon Schöpf/Getty Images)](https://cn.bing.com/th?id=OHR.MontBlancMassif_EN-US3284638409_UHD.jpg)
   
 <!-- END -->
