@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 31 2024 01:18:42 GMT+0000 (Coordinated Universal Time) -->
-  ![View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-10-31View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)](https://cn.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg)
+<!--  Fri Nov 01 2024 01:23:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-01Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_EN-US4049828558_UHD.jpg)
   
 <!-- END -->
