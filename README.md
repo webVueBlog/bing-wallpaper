@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 03 2024 01:22:42 GMT+0000 (Coordinated Universal Time) -->
-  ![American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-03American bison in Yellowstone National Park, Wyoming (© Ian Shive/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BisonYellowstone_EN-US4259322652_UHD.jpg)
+<!--  Mon Nov 04 2024 01:19:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-04Caribbean flamingo nests, Ría Lagartos Biosphere Reserve, Yucatán, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanBiosphere_EN-US4019968428_UHD.jpg)
   
 <!-- END -->
