@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 10 2024 01:20:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-10Milky Way, Aït Benhaddou, Morocco (© Cavan Images/Getty Images)](https://cn.bing.com/th?id=OHR.MoroccoMilkyWay_EN-US4411505209_UHD.jpg)
+<!--  Mon Nov 11 2024 01:17:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-11Caribbean flamingos, Yucatán Peninsula, Mexico (© Claudio Contreras/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.YucatanFlamingos_EN-US4470232432_UHD.jpg)
   
 <!-- END -->
