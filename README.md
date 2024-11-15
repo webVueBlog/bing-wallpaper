@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 14 2024 01:16:56 GMT+0000 (Coordinated Universal Time) -->
-  ![California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-14California sea lion in a forest of giant kelp, Baja California, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpForest_EN-US4745308334_UHD.jpg)
+<!--  Fri Nov 15 2024 01:21:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-15Manarola, Cinque Terre National Park, Liguria, Italy (© John_Silver/Shutterstock)](https://cn.bing.com/th?id=OHR.ManarolaItaly_EN-US4826543395_UHD.jpg)
   
 <!-- END -->
