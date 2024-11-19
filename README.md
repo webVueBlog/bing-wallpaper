@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 18 2024 01:22:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](https://cn.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-18Red deer stag in the Caledonian Forest, Glen Affric, Scottish Highlands (© Terry Whittaker/Alamy)](https://cn.bing.com/th?id=OHR.RedStag_EN-US3910525623_UHD.jpg)
+<!--  Tue Nov 19 2024 01:21:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-19Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg)
   
 <!-- END -->
