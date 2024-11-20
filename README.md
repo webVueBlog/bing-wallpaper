@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 19 2024 01:21:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-19Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg)
+<!--  Wed Nov 20 2024 01:20:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-20Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg)
   
 <!-- END -->
