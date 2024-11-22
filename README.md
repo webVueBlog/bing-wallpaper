@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 21 2024 01:20:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-21Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg)
+<!--  Fri Nov 22 2024 01:21:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://cn.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-22Lion cubs at sunrise, South Africa (© Ruan Springorum/Getty Images)](https://cn.bing.com/th?id=OHR.LionCubs_EN-US4742616367_UHD.jpg)
   
 <!-- END -->
