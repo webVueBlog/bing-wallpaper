@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 26 2024 01:21:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-26Masai giraffes, Amboseli National Park, Kenya (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.AmboseliGiraffes_EN-US9072366924_UHD.jpg)
+<!--  Wed Nov 27 2024 01:23:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-27Olive grove, Valle d'Itria, Puglia, Italy (© Massimo Santi/Shutterstock)](https://cn.bing.com/th?id=OHR.TrulliGrove_EN-US5919292259_UHD.jpg)
   
 <!-- END -->
