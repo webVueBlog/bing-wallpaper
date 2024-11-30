@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 29 2024 01:22:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Wild turkeys, New York (© John Cancalosi/Alamy)](https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-29Wild turkeys, New York (© John Cancalosi/Alamy)](https://cn.bing.com/th?id=OHR.TomTurkeys_EN-US6212893518_UHD.jpg)
+<!--  Sat Nov 30 2024 01:20:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-30Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg)
   
 <!-- END -->
