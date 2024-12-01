@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 30 2024 01:20:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-11-30Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg)
+<!--  Sun Dec 01 2024 01:42:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-01Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://cn.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg)
   
 <!-- END -->
