@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 02 2024 01:25:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-02Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.IcebergsAntarctica_EN-US6829804691_UHD.jpg)
+<!--  Tue Dec 03 2024 01:24:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-03Female moose, Denali National Park, Alaska (© Cavan Images/Alamy)](https://cn.bing.com/th?id=OHR.SnowMoose_EN-US6949674639_UHD.jpg)
   
 <!-- END -->
