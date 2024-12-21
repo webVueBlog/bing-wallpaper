@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 20 2024 01:17:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-20Christmas market in Sibiu, Romania (© Calin Stan/Alamy)](https://cn.bing.com/th?id=OHR.SibiuRomania_EN-US9223739756_UHD.jpg)
+<!--  Sat Dec 21 2024 01:16:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-21Santa Claus Village in Rovaniemi, Lapland, Finland (© Smelov/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaClausVillage_EN-US9527661842_UHD.jpg)
   
 <!-- END -->
