@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 26 2024 01:16:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-26Svalbard reindeer in Van Mijenfjorden NP, Norway (© Martin Zwick/REDA&CO/Universal Images Group via Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerTrio_EN-US1000272747_UHD.jpg)
+<!--  Fri Dec 27 2024 01:17:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-27Christmas lights at Mousehole Harbour, Cornwall, England (© ianwool/Getty Images)](https://cn.bing.com/th?id=OHR.MouseholeXmas_EN-US1272999190_UHD.jpg)
   
 <!-- END -->
