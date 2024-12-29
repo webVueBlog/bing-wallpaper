@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 28 2024 01:15:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Lake Bled, Slovenia (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-28Lake Bled, Slovenia (© Kesu01/Getty Images)](https://cn.bing.com/th?id=OHR.LakeBledSnow_EN-US5836531079_UHD.jpg)
+<!--  Sun Dec 29 2024 01:24:12 GMT+0000 (Coordinated Universal Time) -->
+  ![A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-29A green sea turtle swims in the Pacific Ocean near the French special collectivity of New Caledonia (© Damsea/Shutterstock)](https://cn.bing.com/th?id=OHR.CoralTurtle_EN-US6100263163_UHD.jpg)
   
 <!-- END -->
