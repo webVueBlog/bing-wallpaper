@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 30 2024 01:19:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-30Borobudur Temple, Java, Indonesia (© Robertharding/Shutterstock)](https://cn.bing.com/th?id=OHR.BorobudurBells_EN-US6354350828_UHD.jpg)
+<!--  Tue Dec 31 2024 01:17:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-31Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
   
 <!-- END -->
