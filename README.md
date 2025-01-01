@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 31 2024 01:17:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2024-12-31Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)](https://cn.bing.com/th?id=OHR.MountFieldNP_EN-US6905459745_UHD.jpg)
+<!--  Wed Jan 01 2025 01:23:40 GMT+0000 (Coordinated Universal Time) -->
+  ![New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-01New Year's Eve fireworks over Copacabana Beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)](https://cn.bing.com/th?id=OHR.RioNewYear_EN-US7216341802_UHD.jpg)
   
 <!-- END -->
