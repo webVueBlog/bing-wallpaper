@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 02 2025 01:16:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-02Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.PolarBearSwim_EN-US7610036047_UHD.jpg)
+<!--  Fri Jan 03 2025 01:17:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-03Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)
   
 <!-- END -->
