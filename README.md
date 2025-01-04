@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 03 2025 01:17:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-03Star trails over Ardez, Graubunden, Switzerland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ArdezSwitzerland_EN-US8405268165_UHD.jpg)
+<!--  Sat Jan 04 2025 01:16:10 GMT+0000 (Coordinated Universal Time) -->
+  ![The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-04The Radcliffe Camera and All Souls College, University of Oxford, England (© atiger/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienOxford_EN-US6755564963_UHD.jpg)
   
 <!-- END -->
