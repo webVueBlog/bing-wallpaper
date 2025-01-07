@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 06 2025 01:20:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-06Plum-headed parakeet at Shimoga, Karnataka, India (© Hira Punjabi/Alamy)](https://cn.bing.com/th?id=OHR.PlumParakeet_EN-US9359235355_UHD.jpg)
+<!--  Tue Jan 07 2025 01:18:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-07Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg)
   
 <!-- END -->
