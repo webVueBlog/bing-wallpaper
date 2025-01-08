@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 07 2025 01:18:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-07Flooded crypt, Basilica of San Francesco, Ravenna, Italy (© Andrea Pucci/Getty Images)](https://cn.bing.com/th?id=OHR.RavennaBasilica_EN-US9585765715_UHD.jpg)
+<!--  Wed Jan 08 2025 01:17:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](https://cn.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-08Moeraki Boulders at sunset, South Island, New Zealand (© Douglas Pearson/eStock Photo)](https://cn.bing.com/th?id=OHR.BouldersNZ_EN-US0112829210_UHD.jpg)
   
 <!-- END -->
