@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 09 2025 01:17:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Snow on the Great Wall of China (© View Stock/Alamy)](https://cn.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-09Snow on the Great Wall of China (© View Stock/Alamy)](https://cn.bing.com/th?id=OHR.GreatWallStairs_EN-US0360405933_UHD.jpg)
+<!--  Fri Jan 10 2025 01:19:42 GMT+0000 (Coordinated Universal Time) -->
+  ![The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-10The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg)
   
 <!-- END -->
