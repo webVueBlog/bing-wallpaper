@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 10 2025 01:19:42 GMT+0000 (Coordinated Universal Time) -->
-  ![The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-10The US Capitol dome with flags flying at half-staff in honor of former President Jimmy Carter, Washington, DC (© J. David Ake/Getty Images)](https://cn.bing.com/th?id=OHR.CarterMemorial_EN-US9400973867_UHD.jpg)
+<!--  Sat Jan 11 2025 01:18:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-11Abraham Lake, Alberta, Canada (© Basic Elements Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BubbleLake_EN-US6558545411_UHD.jpg)
   
 <!-- END -->
