@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 12 2025 01:24:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-12Heri es-Swani in Meknes, Morocco (© Calin Stan/Shutterstock)](https://cn.bing.com/th?id=OHR.MeknesMorocco_EN-US6991915839_UHD.jpg)
+<!--  Mon Jan 13 2025 01:21:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-13Crescent-tail bigeye fish in the Great Barrier Reef, Australia (© Fred Bavendam/Minden Pictures)](https://cn.bing.com/th?id=OHR.CrescentTail_EN-US7217745417_UHD.jpg)
   
 <!-- END -->
