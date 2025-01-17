@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 16 2025 01:15:24 GMT+0000 (Coordinated Universal Time) -->
-  ![The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-16The Great Court of the British Museum, London, England (© Cavan Images/Offset/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumCourt_EN-US0003531841_UHD.jpg)
+<!--  Fri Jan 17 2025 01:15:05 GMT+0000 (Coordinated Universal Time) -->
+  ![High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-17High Peaks Trail in Pinnacles National Park, San Benito County, California (© yhelfman/Getty Images)](https://cn.bing.com/th?id=OHR.PinnaclesPeaks_EN-US6350520288_UHD.jpg)
   
 <!-- END -->
