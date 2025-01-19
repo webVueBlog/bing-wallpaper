@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jan 18 2025 01:13:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](https://cn.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-18Brown pelican, San Diego, California (© Arthur Morris/BIRDS AS ART/Getty Images)](https://cn.bing.com/th?id=OHR.PelicanPortrait_EN-US0510978735_UHD.jpg)
+<!--  Sun Jan 19 2025 01:20:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](https://cn.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-19Sunset at White Sands National Park, New Mexico (© Image Professionals GmbH/Alamy)](https://cn.bing.com/th?id=OHR.WhiteSandsNP_EN-US0745183236_UHD.jpg)
   
 <!-- END -->
