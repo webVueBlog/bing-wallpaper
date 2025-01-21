@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 20 2025 01:16:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-20Neptune's Grotto, Sardinia, Italy (© Carlo Murenu/Getty Images)](https://cn.bing.com/th?id=OHR.NeptunesGrotto_EN-US1020342235_UHD.jpg)
+<!--  Tue Jan 21 2025 01:15:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](https://cn.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-21Martin Luther King Jr. Memorial in Washington, DC (© Win McNamee/Getty Images)](https://cn.bing.com/th?id=OHR.KingMemorial_EN-US1319830882_UHD.jpg)
   
 <!-- END -->
