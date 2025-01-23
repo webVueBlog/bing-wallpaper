@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 22 2025 01:17:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-22Eurasian red squirrel (© Edwin Giesbers/Minden Pictures)](https://cn.bing.com/th?id=OHR.DutchSquirrel_EN-US1600993769_UHD.jpg)
+<!--  Thu Jan 23 2025 01:15:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-23Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg)
   
 <!-- END -->
