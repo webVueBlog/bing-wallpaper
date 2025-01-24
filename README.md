@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 23 2025 01:15:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-23Ad-Deir, Petra, Jordan (© Punnawit Suwuttananun/Getty Images)](https://cn.bing.com/th?id=OHR.PetraMonastery_EN-US1834130511_UHD.jpg)
+<!--  Fri Jan 24 2025 01:15:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-24Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg)
   
 <!-- END -->
