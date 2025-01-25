@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 24 2025 01:15:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-24Deer Valley at dusk, Park City, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DeerValley_EN-US2128104711_UHD.jpg)
+<!--  Sat Jan 25 2025 01:12:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-25Strokkur geyser in Iceland (© John and Tina Reid/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandGeyser_EN-US7648999118_UHD.jpg)
   
 <!-- END -->
