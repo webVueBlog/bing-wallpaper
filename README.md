@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jan 26 2025 01:17:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Porto, Portugal (© Starcevic/Getty Images)](https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-26Porto, Portugal (© Starcevic/Getty Images)](https://cn.bing.com/th?id=OHR.PortoSunset_EN-US7987153816_UHD.jpg)
+<!--  Mon Jan 27 2025 01:17:00 GMT+0000 (Coordinated Universal Time) -->
+  ![European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-27European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)
   
 <!-- END -->
