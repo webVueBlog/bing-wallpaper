@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 27 2025 01:17:00 GMT+0000 (Coordinated Universal Time) -->
-  ![European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-27European beech forest in Belgium (© Philippe Moes/Minden Pictures)](https://cn.bing.com/th?id=OHR.FrostedBeech_EN-US8264026523_UHD.jpg)
+<!--  Tue Jan 28 2025 01:15:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-28Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg)
   
 <!-- END -->
