@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 28 2025 01:15:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-28Zoroaster Temple, Grand Canyon National Park, Arizona (© Nick Lake/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.CanyonSnow_EN-US8514636141_UHD.jpg)
+<!--  Wed Jan 29 2025 01:15:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://cn.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-01-29Short-eared owl hunting in heavy snow (© Dilshan Muthalib/Getty Images)](https://cn.bing.com/th?id=OHR.FlyingOwl_EN-US8779625388_UHD.jpg)
   
 <!-- END -->
