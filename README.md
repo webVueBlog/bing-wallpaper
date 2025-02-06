@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 05 2025 01:17:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-05Golden Bridge, Bà Nà Hills, Da Nang, Vietnam (© Hien Phung Thu/Shutterstock)](https://cn.bing.com/th?id=OHR.GoldenBridge_EN-US3362533203_UHD.jpg)
+<!--  Thu Feb 06 2025 01:17:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](https://cn.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-06Scottish Blackface sheep, Aberdeenshire, Scotland  (© Mike Powles/Getty Images)](https://cn.bing.com/th?id=OHR.ScottishSheep_EN-US3449526052_UHD.jpg)
   
 <!-- END -->
