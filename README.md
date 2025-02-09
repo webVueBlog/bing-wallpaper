@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 08 2025 01:14:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-08Blue hour in Trondheim, Norway (© Jeanny Mueller/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNorway_EN-US6457602567_UHD.jpg)
+<!--  Sun Feb 09 2025 01:20:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-09Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)
   
 <!-- END -->
