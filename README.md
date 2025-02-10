@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 09 2025 01:20:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-09Medieval towers in Mestia, Upper Svaneti, Georgia (© photoaliona/Getty Images)](https://cn.bing.com/th?id=OHR.SnowySvaneti_EN-US6546788330_UHD.jpg)
+<!--  Mon Feb 10 2025 01:18:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-10Alstrom Point, Lake Powell, Utah (© T.M. Schultze/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AlstromPoint_EN-US6746094430_UHD.jpg)
   
 <!-- END -->
