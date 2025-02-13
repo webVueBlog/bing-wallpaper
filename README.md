@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 12 2025 01:17:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-12Yungang Grottoes, Datong, Shanxi province, China (© Eric Yang/Getty Images)](https://cn.bing.com/th?id=OHR.YungangGrottoes_EN-US6896904893_UHD.jpg)
+<!--  Thu Feb 13 2025 01:17:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-13Marine iguanas, Galápagos Islands, Ecuador (© helovi/Getty Images)](https://cn.bing.com/th?id=OHR.GalapagosIguana_EN-US6976814194_UHD.jpg)
   
 <!-- END -->
