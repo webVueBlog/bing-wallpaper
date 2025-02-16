@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 15 2025 01:16:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-15Magellanic penguins in the Falkland Islands (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.PenguinLove_EN-US7515315710_UHD.jpg)
+<!--  Sun Feb 16 2025 01:23:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-16Icicles of Misotsuchi, Chichibu, Japan (© watayu0821/Shutterstock)](https://cn.bing.com/th?id=OHR.Misotsuchi2025_EN-US8130053956_UHD.jpg)
   
 <!-- END -->
