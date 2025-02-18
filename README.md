@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 17 2025 01:19:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-17Humpback whale mother and calf, Tonga (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.HumpbackMother_EN-US8033380725_UHD.jpg)
+<!--  Tue Feb 18 2025 01:17:13 GMT+0000 (Coordinated Universal Time) -->
+  ![The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-18The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg)
   
 <!-- END -->
