@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 18 2025 01:17:13 GMT+0000 (Coordinated Universal Time) -->
-  ![The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-18The Washington Monument seen from the Lincoln Memorial, Washington, DC (© lucky-photographer/Alamy)](https://cn.bing.com/th?id=OHR.LincolnSunrise_EN-US7725604655_UHD.jpg)
+<!--  Wed Feb 19 2025 01:17:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-19Great Blue Hole, Belize (© JamiesOnAMission/Shutterstock)](https://cn.bing.com/th?id=OHR.BlueBelize_EN-US7787222240_UHD.jpg)
   
 <!-- END -->
