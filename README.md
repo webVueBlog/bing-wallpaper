@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Feb 20 2025 01:17:54 GMT+0000 (Coordinated Universal Time) -->
-  ![European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-20European river otter, Lelystad, Netherlands (© Ernst Dirksen/Minden Pictures)](https://cn.bing.com/th?id=OHR.IceHoleOtter_EN-US7859051687_UHD.jpg)
+<!--  Fri Feb 21 2025 01:18:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-21Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg)
   
 <!-- END -->
