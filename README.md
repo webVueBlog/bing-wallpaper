@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 21 2025 01:18:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-21Alpenglow on Half Dome, Yosemite National Park, California (© Matthew Kuhns/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AdamsYosemite_EN-US7924059397_UHD.jpg)
+<!--  Sat Feb 22 2025 01:15:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-22Champaka Sarasi pond near Shivamogga, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ChampakaSarasi_EN-US0671131929_UHD.jpg)
   
 <!-- END -->
