@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 28 2025 01:19:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-02-28Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg)
+<!--  Sat Mar 01 2025 01:24:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-01Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://cn.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg)
   
 <!-- END -->
