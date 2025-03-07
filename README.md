@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 06 2025 01:21:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-06Aerial view of Khao Sok National Park, Surat Thani, Thailand (© Peetatham Kongkapech/Getty Images)](https://cn.bing.com/th?id=OHR.SuratThani_EN-US3326265231_UHD.jpg)
+<!--  Fri Mar 07 2025 01:21:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://cn.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-07Desert bighorn sheep in Valley of Fire State Park, Nevada (© Rachid Dahnoun/Cavan Images)](https://cn.bing.com/th?id=OHR.NevadaBigHorns_EN-US3434258986_UHD.jpg)
   
 <!-- END -->
