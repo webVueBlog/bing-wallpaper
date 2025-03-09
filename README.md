@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 08 2025 01:04:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Plum blossoms in China (© zhikun sun/Getty Images)](https://cn.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-08Plum blossoms in China (© zhikun sun/Getty Images)](https://cn.bing.com/th?id=OHR.PlumBlossom_EN-US7055526666_UHD.jpg)
+<!--  Sun Mar 09 2025 01:10:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-09Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg)
   
 <!-- END -->
