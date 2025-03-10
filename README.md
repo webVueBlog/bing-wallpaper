@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 09 2025 01:10:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-09Fearless Girl statue facing the New York Stock Exchange, New York City (© JOHANNES EISELE/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.FearlessWomen_EN-US7338738180_UHD.jpg)
+<!--  Mon Mar 10 2025 01:08:32 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-10St. Mark's Clock Tower, Venice, Italy (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyClock_EN-US7397391355_UHD.jpg)
   
 <!-- END -->
