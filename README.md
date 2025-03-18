@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 17 2025 01:23:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)](https://cn.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-17Baby giant panda in the snow, China (© Cheryl Schneider/Alamy)](https://cn.bing.com/th?id=OHR.PandaSnow_EN-US9432739016_UHD.jpg)
+<!--  Tue Mar 18 2025 01:21:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-18Samuel Beckett Bridge, Dublin, Ireland (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.BeckettBridge_EN-US9511078525_UHD.jpg)
   
 <!-- END -->
