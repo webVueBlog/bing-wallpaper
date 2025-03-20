@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 19 2025 01:22:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](https://cn.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-19Red rock formations, Sedona, Arizona (© Jim Ekstrand/Alamy)](https://cn.bing.com/th?id=OHR.SedonaSpring_EN-US9611080272_UHD.jpg)
+<!--  Thu Mar 20 2025 01:21:12 GMT+0000 (Coordinated Universal Time) -->
+  ![A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-20A black heron canopy feeding, Chobe National Park, Botswana (© Paul Souders/Minden Pictures)](https://cn.bing.com/th?id=OHR.BlackHeron_EN-US9662351796_UHD.jpg)
   
 <!-- END -->
