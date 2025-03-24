@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 23 2025 01:27:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-23Water lilies at the surface of Cenote Nicte-Ha, Tulum, Mexico (© Franco Banfi/NPL/Minden Pictures)](https://cn.bing.com/th?id=OHR.CenoteLilies_EN-US1076301699_UHD.jpg)
+<!--  Mon Mar 24 2025 01:24:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-24Lightning and storm clouds at sunset near Bowman, Nebraska (© john finney photography/Getty Images)](https://cn.bing.com/th?id=OHR.NebraskaStorm_EN-US1163295363_UHD.jpg)
   
 <!-- END -->
