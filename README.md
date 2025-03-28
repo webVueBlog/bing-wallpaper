@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 27 2025 01:22:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-27Manatee in Three Sisters Springs, Crystal River National Wildlife Refuge, Florida (© Stephen Frink/Getty Images)](https://cn.bing.com/th?id=OHR.CrystalManatee_EN-US1724106178_UHD.jpg)
+<!--  Fri Mar 28 2025 01:22:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-28Odeon of Herodes Atticus, Acropolis of Athens, Greece (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.OdeonAthens_EN-US2159327450_UHD.jpg)
   
 <!-- END -->
