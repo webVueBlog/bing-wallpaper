@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 29 2025 01:21:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Female black-naped monarch nesting (© komkrit tonusin/Alamy)](https://cn.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-29Female black-naped monarch nesting (© komkrit tonusin/Alamy)](https://cn.bing.com/th?id=OHR.NestingMonarch_EN-US2312410271_UHD.jpg)
+<!--  Sun Mar 30 2025 01:36:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-30Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)
   
 <!-- END -->
