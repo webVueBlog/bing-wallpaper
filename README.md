@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 30 2025 01:36:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-30Superbloom in Carrizo Plain National Monument, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CarrizoBloom_EN-US2504669059_UHD.jpg)
+<!--  Mon Mar 31 2025 01:27:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-31Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)
   
 <!-- END -->
