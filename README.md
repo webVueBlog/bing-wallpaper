@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 31 2025 01:27:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-03-31Aerial view of Sydney Harbour, New South Wales, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.SydneyHarbour_EN-US2885246621_UHD.jpg)
+<!--  Tue Apr 01 2025 01:41:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-01Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg)
   
 <!-- END -->
