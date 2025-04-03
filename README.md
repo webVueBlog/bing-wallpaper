@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 02 2025 01:24:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-02Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.TicanFrog_EN-US3006346741_UHD.jpg)
+<!--  Thu Apr 03 2025 01:23:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-03Sandstone formations in the badlands near Caineville, Utah (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.UtahBadlands_EN-US3082813561_UHD.jpg)
   
 <!-- END -->
