@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 08 2025 01:23:45 GMT+0000 (Coordinated Universal Time) -->
-  ![North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-08North American beaver, Moran, Wyoming (© Enrique Aguirre Aves/Getty Images)](https://cn.bing.com/th?id=OHR.BeaverDay_EN-US0090956170_UHD.jpg)
+<!--  Wed Apr 09 2025 01:24:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-09Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg)
   
 <!-- END -->
