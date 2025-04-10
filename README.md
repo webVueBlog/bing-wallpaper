@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 09 2025 01:24:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-09Women in traditional dress at the Paro Tshechu Festival in Bhutan (© Richard I'Anson/Getty Images)](https://cn.bing.com/th?id=OHR.ParoTsechu_EN-US0177055246_UHD.jpg)
+<!--  Thu Apr 10 2025 01:23:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-10Blue hour in Naxos, Cyclades, Greece (© Sizun Eye/Getty Images)](https://cn.bing.com/th?id=OHR.BlueNaxos_EN-US8006377229_UHD.jpg)
   
 <!-- END -->
