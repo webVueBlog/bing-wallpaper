@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 17 2025 01:24:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-17Kachina Bridge, Natural Bridges National Monument, Utah (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.KachinaBridge_EN-US1000475196_UHD.jpg)
+<!--  Fri Apr 18 2025 01:24:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](https://cn.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-18Andean cocks-of-the-rock, Ecuador (© Kit Day/Alamy)](https://cn.bing.com/th?id=OHR.EcuadorBird_EN-US1037921621_UHD.jpg)
   
 <!-- END -->
