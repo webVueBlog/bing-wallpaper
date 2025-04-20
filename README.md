@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 19 2025 01:21:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-19Hot air balloons over Göreme Historical National Park in Cappadocia, Türkiye (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTurkey_EN-US1897945450_UHD.jpg)
+<!--  Sun Apr 20 2025 01:38:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Zion National Park, Utah (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-20Zion National Park, Utah (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg)
   
 <!-- END -->
