@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 20 2025 01:38:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Zion National Park, Utah (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-20Zion National Park, Utah (© Simon Dannhauer/Getty Images)](https://cn.bing.com/th?id=OHR.ZionValley_EN-US2520458606_UHD.jpg)
+<!--  Mon Apr 21 2025 01:37:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-21Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg)
   
 <!-- END -->
