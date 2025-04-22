@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 21 2025 01:37:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-21Wild baby rabbits in spring (© Fiona McAllister Photography/Getty Images)](https://cn.bing.com/th?id=OHR.BunnyLove_EN-US2535495337_UHD.jpg)
+<!--  Tue Apr 22 2025 01:25:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-22Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg)
   
 <!-- END -->
