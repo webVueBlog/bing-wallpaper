@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 22 2025 01:25:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-22Joshua trees under the Milky Way, California (© Chao Zhang/Getty Images)](https://cn.bing.com/th?id=OHR.JoshuaStars_EN-US2563220033_UHD.jpg)
+<!--  Wed Apr 23 2025 01:25:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-23Grand Prismatic Spring, Yellowstone National Park, Wyoming (© Ajith Kumar/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneSpring_EN-US2710865870_UHD.jpg)
   
 <!-- END -->
