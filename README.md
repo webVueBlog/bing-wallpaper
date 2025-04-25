@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 24 2025 01:25:55 GMT+0000 (Coordinated Universal Time) -->
-  ![Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)](https://cn.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-24Shakespeare's Globe, London, England (© Peter Dazeley/Getty Images)](https://cn.bing.com/th?id=OHR.GlobeTheatre_EN-US3262022178_UHD.jpg)
+<!--  Fri Apr 25 2025 01:26:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-25Spire Cove in Kenai Fjords National Park, Seward, Alaska (© Wander Photography/Getty Images)](https://cn.bing.com/th?id=OHR.KenaiSpires_EN-US3294247007_UHD.jpg)
   
 <!-- END -->
