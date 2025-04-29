@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 28 2025 01:36:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-28Halema'uma'u Crater's lava lake, Kīlauea Caldera, Hawai'i Volcanoes National Park, Hawaii (© Stephen Matera/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.KilaueaCaldera_EN-US7764962675_UHD.jpg)
+<!--  Tue Apr 29 2025 01:26:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-29Impala with red-billed oxpecker in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.OrangeImpala_EN-US3494359572_UHD.jpg)
   
 <!-- END -->
