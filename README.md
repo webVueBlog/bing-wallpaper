@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 30 2025 01:26:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-04-30Formal garden at Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.GardensVillandry_EN-US3529015856_UHD.jpg)
+<!--  Thu May 01 2025 01:42:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-01Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg)
   
 <!-- END -->
