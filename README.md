@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu May 01 2025 01:42:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-01Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://cn.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg)
+<!--  Fri May 02 2025 01:27:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-02Plumeria flowers, Hawaii (© Miranda Jans/Getty Images)](https://cn.bing.com/th?id=OHR.PinkPlumeria_EN-US3595771407_UHD.jpg)
   
 <!-- END -->
