@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 03 2025 01:25:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-03Striated heron on a Victoria water lily, Pantanal, Brazil (© Gerald Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.BrazilHeron_EN-US5602369723_UHD.jpg)
+<!--  Sun May 04 2025 01:43:10 GMT+0000 (Coordinated Universal Time) -->
+  ![The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-04The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)
   
 <!-- END -->
