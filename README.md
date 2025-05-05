@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 04 2025 01:43:10 GMT+0000 (Coordinated Universal Time) -->
-  ![The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-04The Milky Way framed by Double Arch in Arches National Park, Utah (© Adventure_Photo/Getty Images)](https://cn.bing.com/th?id=OHR.ArchesGalaxy_EN-US5690613383_UHD.jpg)
+<!--  Mon May 05 2025 01:39:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-05Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg)
   
 <!-- END -->
