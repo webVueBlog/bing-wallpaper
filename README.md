@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 05 2025 01:39:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-05Plaza de España, Seville, Spain (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.SevilleNaboo_EN-US5814352031_UHD.jpg)
+<!--  Tue May 06 2025 01:27:36 GMT+0000 (Coordinated Universal Time) -->
+  ![Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-06Paper flags strung over a street in San Miguel de Allende, Mexico (© William Zinn/Getty Images)](https://cn.bing.com/th?id=OHR.CincoFlags_EN-US5873749093_UHD.jpg)
   
 <!-- END -->
