@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu May 08 2025 01:36:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-08Dunluce Castle, County Antrim, Northern Ireland (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.DunluceIreland_EN-US6236791025_UHD.jpg)
+<!--  Fri May 09 2025 01:36:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-09Donkeys in a valley near Rhyolite, Nevada (© Moelyn Photos/Getty Images)](https://cn.bing.com/th?id=OHR.RhyoliteDonkeys_EN-US6439068828_UHD.jpg)
   
 <!-- END -->
