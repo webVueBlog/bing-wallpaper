@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 10 2025 01:25:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-10Common chameleon (© Photostock-Israel/SPL/Getty Images)](https://cn.bing.com/th?id=OHR.CuteChameleon_EN-US6483346105_UHD.jpg)
+<!--  Sun May 11 2025 01:41:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-11Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)
   
 <!-- END -->
