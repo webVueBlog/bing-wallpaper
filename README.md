@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 11 2025 01:41:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-11Minnesota State Capitol, St. Paul, Minnesota (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MinnesotaRotunda_EN-US6605011856_UHD.jpg)
+<!--  Mon May 12 2025 01:40:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-12Leopard mother grooming her cub, Jao Reserve, Botswana (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.LeopardMother_EN-US6709981831_UHD.jpg)
   
 <!-- END -->
