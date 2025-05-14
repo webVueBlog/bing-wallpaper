@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 13 2025 01:37:41 GMT+0000 (Coordinated Universal Time) -->
-  ![An iris garden in Tokyo, Japan (© M.Arai/Getty Images)](https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-13An iris garden in Tokyo, Japan (© M.Arai/Getty Images)](https://cn.bing.com/th?id=OHR.IrisGarden_EN-US6778843108_UHD.jpg)
+<!--  Wed May 14 2025 01:36:32 GMT+0000 (Coordinated Universal Time) -->
+  ![Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-14Torres del Paine National Park, Patagonia, Chile (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.TorresChile_EN-US6814348961_UHD.jpg)
   
 <!-- END -->
