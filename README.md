@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu May 15 2025 01:26:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-15Porto Flavia, Sardinia, Italy (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardiniaFlavia_EN-US6889153804_UHD.jpg)
+<!--  Fri May 16 2025 01:37:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-16Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
   
 <!-- END -->
