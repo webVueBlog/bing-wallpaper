@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri May 16 2025 01:37:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-16Big Ben and the Palace of Westminster, London, England (© Puthipong Worasaran/Getty Images)](https://cn.bing.com/th?id=OHR.LondonParliament_EN-US7213846564_UHD.jpg)
+<!--  Sat May 17 2025 01:27:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-17Great green macaw, Mexico (© Ondrej Prosicky/Shutterstock)](https://cn.bing.com/th?id=OHR.GreenMacaw_EN-US1646325635_UHD.jpg)
   
 <!-- END -->
