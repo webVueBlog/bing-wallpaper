@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 20 2025 01:38:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-20Mount Hamilton, near San Jose, California (© Jeffrey Lewis/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MountHamilton_EN-US3808058743_UHD.jpg)
+<!--  Wed May 21 2025 01:38:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Honey bee on lavender flowers (© Anthony Brown/Alamy)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-21Honey bee on lavender flowers (© Anthony Brown/Alamy)](https://cn.bing.com/th?id=OHR.HoneyBeeLavender_EN-US3860322899_UHD.jpg)
   
 <!-- END -->
