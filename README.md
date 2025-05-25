@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 24 2025 01:26:10 GMT+0000 (Coordinated Universal Time) -->
-  ![A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-24A Julia butterfly on the nose of a yellow-spotted river turtle, Amazon Region, Ecuador (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ButterflyTurtle_EN-US4083359630_UHD.jpg)
+<!--  Sun May 25 2025 01:44:48 GMT+0000 (Coordinated Universal Time) -->
+  ![Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-25Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg)
   
 <!-- END -->
