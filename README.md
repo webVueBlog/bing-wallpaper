@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 25 2025 01:44:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-25Jotunheimen National Park in Norway (© Marisa Estivill/Shutterstock)](https://cn.bing.com/th?id=OHR.JotunheimenPark_EN-US4200824377_UHD.jpg)
+<!--  Mon May 26 2025 01:40:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-26Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg)
   
 <!-- END -->
