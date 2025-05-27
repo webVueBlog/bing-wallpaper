@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 26 2025 01:40:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-26Butchart Gardens in Brentwood Bay, British Columbia, Canada (© 2009fotofriends/Shutterstock)](https://cn.bing.com/th?id=OHR.ButchartFlowers_EN-US3361647368_UHD.jpg)
+<!--  Tue May 27 2025 01:36:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-27Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg)
   
 <!-- END -->
