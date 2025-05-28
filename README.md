@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 27 2025 01:36:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-27Arlington National Cemetery in Virginia (© Dennis Govoni/Getty Images)](https://cn.bing.com/th?id=OHR.ArlingtonSunrise_EN-US4503302075_UHD.jpg)
+<!--  Wed May 28 2025 01:38:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-28Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg)
   
 <!-- END -->
