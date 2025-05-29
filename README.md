@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 28 2025 01:38:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-28Mona Vale Rockpool, Sydney, Australia (© jamenpercy/Getty Images)](https://cn.bing.com/th?id=OHR.MonaValePool_EN-US4805820773_UHD.jpg)
+<!--  Thu May 29 2025 01:38:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-29Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.KelpOtter_EN-US4867923884_UHD.jpg)
   
 <!-- END -->
