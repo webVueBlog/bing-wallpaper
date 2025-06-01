@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 31 2025 01:35:48 GMT+0000 (Coordinated Universal Time) -->
-  ![Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-05-31Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)](https://cn.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg)
+<!--  Sun Jun 01 2025 01:54:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-01Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)
   
 <!-- END -->
