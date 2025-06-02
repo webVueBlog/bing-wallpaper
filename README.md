@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 01 2025 01:54:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-01Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://cn.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)
+<!--  Mon Jun 02 2025 01:42:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-02Barrier reef off the island of Grande Terre in the French overseas territory of New Caledonia (© Karsten Wrobel/Getty Images)](https://cn.bing.com/th?id=OHR.GrandeTerreReef_EN-US8351815569_UHD.jpg)
   
 <!-- END -->
