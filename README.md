@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 04 2025 01:40:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-04Bicycles on a bridge in Utrecht, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.BicyclesUtrecht_EN-US8449213938_UHD.jpg)
+<!--  Thu Jun 05 2025 01:38:31 GMT+0000 (Coordinated Universal Time) -->
+  ![The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-05The beach at Cala Luna, Sardinia, Italy (© guenterguni/Getty Images)](https://cn.bing.com/th?id=OHR.CalaLuna_EN-US8760708047_UHD.jpg)
   
 <!-- END -->
