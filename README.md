@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 06 2025 01:38:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-06Bottle-cap mural made by Oscar Olivares in Guatire, Venezuela (© FEDERICO PARRA/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.OlivaresMural_EN-US8824492734_UHD.jpg)
+<!--  Sat Jun 07 2025 01:37:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-07Arromanches-les-Bains in Normandy, France (© Horia Merla/Getty Images)](https://cn.bing.com/th?id=OHR.NormandyBeach_EN-US8863709180_UHD.jpg)
   
 <!-- END -->
