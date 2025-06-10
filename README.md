@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 09 2025 01:44:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](https://cn.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-09Steller sea lions, Vancouver Island, British Columbia, Canada (© Steve Woods Photography/Getty Images)](https://cn.bing.com/th?id=OHR.StellarSeaLions_EN-US8941740506_UHD.jpg)
+<!--  Tue Jun 10 2025 01:41:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-10Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg)
   
 <!-- END -->
