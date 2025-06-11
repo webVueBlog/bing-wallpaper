@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 10 2025 01:41:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-10Old City of Dubrovnik in Dalmatia, Croatia (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.DubrovnikTwilight_EN-US9005720216_UHD.jpg)
+<!--  Wed Jun 11 2025 01:40:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-11Aerial view of Everglades National Park, Florida (© Robert DelVecchio - OcuDrone/Getty Images)](https://cn.bing.com/th?id=OHR.AerialEverglades_EN-US9045585896_UHD.jpg)
   
 <!-- END -->
