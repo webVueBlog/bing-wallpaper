@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 12 2025 01:39:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-12Greater flamingos, Lüderitz, Namibia (© Karine Aigner/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.FlamingosNamibia_EN-US9397449472_UHD.jpg)
+<!--  Fri Jun 13 2025 01:40:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-13Chisos Mountains, Big Bend National Park, Texas (© Dean Fikar/Getty Images)](https://cn.bing.com/th?id=OHR.BigBendChisos_EN-US9433220487_UHD.jpg)
   
 <!-- END -->
