@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 16 2025 01:43:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-16Lesser rhea adult male with chicks, Torres del Paine National Park, Patagonia, Chile (© Ignacio Yufera/Minden Pictures)](https://cn.bing.com/th?id=OHR.RheaDad_EN-US1643943847_UHD.jpg)
+<!--  Tue Jun 17 2025 01:40:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-17Sea turtle, Fernando de Noronha, Brazil (© João Vianna/Getty Images)](https://cn.bing.com/th?id=OHR.SeaTurtleBrazil_EN-US1789042400_UHD.jpg)
   
 <!-- END -->
