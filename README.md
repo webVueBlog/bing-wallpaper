@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 18 2025 01:39:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-18Maritime forest in Cumberland Island National Seashore, Georgia (© Chris Moore/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CumberlandOaks_EN-US1850139942_UHD.jpg)
+<!--  Thu Jun 19 2025 01:41:00 GMT+0000 (Coordinated Universal Time) -->
+  ![Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-19Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg)
   
 <!-- END -->
