@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 19 2025 01:41:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-19Asian swallowtail butterfly on a red spider lily (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.AsianSwallowtail_EN-US1924189362_UHD.jpg)
+<!--  Fri Jun 20 2025 01:40:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-20Texas State Capitol in Austin (© joe daniel price/Getty Images)](https://cn.bing.com/th?id=OHR.TexasCapitol_EN-US1992205396_UHD.jpg)
   
 <!-- END -->
