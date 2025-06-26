@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 25 2025 01:41:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-25Delicate Arch, Arches National Park, Utah (© mmac72/Getty Images)](https://cn.bing.com/th?id=OHR.DelicateArch_EN-US2369284902_UHD.jpg)
+<!--  Thu Jun 26 2025 01:40:18 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-26St. Michael's Church Tower on Glastonbury Tor, Glastonbury, Somerset, England (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.GlastonburyScenic_EN-US2433998806_UHD.jpg)
   
 <!-- END -->
