@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 27 2025 01:41:36 GMT+0000 (Coordinated Universal Time) -->
-  ![The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-27The Milky Way over Horse Head Rock, New South Wales, Australia (© Philip Thurston/Getty Images)](https://cn.bing.com/th?id=OHR.HorseheadRock_EN-US2494437641_UHD.jpg)
+<!--  Sat Jun 28 2025 01:37:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-28Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg)
   
 <!-- END -->
