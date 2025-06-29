@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 28 2025 01:37:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-28Splendid leaf frog (© Jan Stria/Shutterstock)](https://cn.bing.com/th?id=OHR.SplendidFrog_EN-US9346105347_UHD.jpg)
+<!--  Sun Jun 29 2025 01:49:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Rainbow flags at New York Pride (© Alan Schein/Getty Images)](https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-29Rainbow flags at New York Pride (© Alan Schein/Getty Images)](https://cn.bing.com/th?id=OHR.PrideParade_EN-US9405333794_UHD.jpg)
   
 <!-- END -->
