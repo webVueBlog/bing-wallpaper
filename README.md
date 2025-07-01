@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 30 2025 01:46:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-06-30Blue lagoon at Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy)](https://cn.bing.com/th?id=OHR.BandaIsland_EN-US9494080788_UHD.jpg)
+<!--  Tue Jul 01 2025 01:51:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-01Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.WolfeCrater_EN-US2390330059_UHD.jpg)
   
 <!-- END -->
