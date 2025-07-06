@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 05 2025 01:37:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-05Fourth of July fireworks over Lake Union in Seattle (© Dixin Yan)](https://cn.bing.com/th?id=OHR.SeattleFireworks_EN-US0523563675_UHD.jpg)
+<!--  Sun Jul 06 2025 01:48:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-06Descending the Col du Tourmalet in the French Pyrenees during the 2021 Tour de France (© THOMAS SAMSON/AFP via Getty Images)](https://cn.bing.com/th?id=OHR.TourCyclists_EN-US0589835009_UHD.jpg)
   
 <!-- END -->
