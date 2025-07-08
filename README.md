@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 07 2025 01:46:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-07Mesquite Flat Sand Dunes in Death Valley National Park, California (© Bryan Jolley/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MesquiteFlats_EN-US0638943216_UHD.jpg)
+<!--  Tue Jul 08 2025 01:41:51 GMT+0000 (Coordinated Universal Time) -->
+  ![Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-08Northern gannets diving for fish, Shetland Islands, Scotland (© Richard Shucksmith/Minden Pictures)](https://cn.bing.com/th?id=OHR.ShetlandGannets_EN-US0812287314_UHD.jpg)
   
 <!-- END -->
