@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 09 2025 01:42:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](https://cn.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-09Seceda, a peak in the Dolomites, South Tyrol, Italy (© Kalyakan/Adobe Stock)](https://cn.bing.com/th?id=OHR.SecedaPeak_EN-US0983713623_UHD.jpg)
+<!--  Thu Jul 10 2025 01:43:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-10Constitución railway station, Buenos Aires, Argentina (© Grafissimo/Getty Images)](https://cn.bing.com/th?id=OHR.ConstitucionStation_EN-US1235857389_UHD.jpg)
   
 <!-- END -->
