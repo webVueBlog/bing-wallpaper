@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 13 2025 01:53:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-13Thomson's gazelle mother and fawn, Maasai Mara, Kenya (© Gallo Images/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.ThomsonGazelle_EN-US4354285846_UHD.jpg)
+<!--  Mon Jul 14 2025 01:49:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-14Basalt columns at Kálfshamarsvík, Skagi Peninsula, Iceland (© Arterra Picture Library/Alamy)](https://cn.bing.com/th?id=OHR.BasaltColumns_EN-US4476950150_UHD.jpg)
   
 <!-- END -->
