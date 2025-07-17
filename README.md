@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 16 2025 01:45:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-16Perseid meteor shower and an ancient bristlecone pine, Great Basin National Park, Nevada (© Wirestock Creators/Shutterstock)](https://cn.bing.com/th?id=OHR.PerseidsPine_EN-US4826682211_UHD.jpg)
+<!--  Thu Jul 17 2025 01:46:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-17Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg)
   
 <!-- END -->
