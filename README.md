@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 17 2025 01:46:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-17Temple of Philae (aka Temple of Isis), Aswan, Egypt (© Ratnakorn Piyasirisorost/Getty Images)](https://cn.bing.com/th?id=OHR.TemplePhilae_EN-US5062419351_UHD.jpg)
+<!--  Fri Jul 18 2025 01:47:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-18Lavender fields in Plateau de Valensole, France (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.FranceLavender_EN-US5224253118_UHD.jpg)
   
 <!-- END -->
