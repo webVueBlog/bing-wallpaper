@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 19 2025 01:42:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-19Beach at sunrise, Gulf Islands National Seashore, Florida (© Tim Fitzharris/Minden Pictures)](https://cn.bing.com/th?id=OHR.FloridaSeashore_EN-US9038929616_UHD.jpg)
+<!--  Sun Jul 20 2025 01:54:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-20Luna moth resting on cedar elm, New Braunfels, Texas, USA (© Rolf Nussbaumer/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MothWeek_EN-US5360572836_UHD.jpg)
   
 <!-- END -->
