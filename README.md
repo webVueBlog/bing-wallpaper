@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 21 2025 01:52:19 GMT+0000 (Coordinated Universal Time) -->
-  ![The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)](https://cn.bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-21The moon's surface photographed through a telescope (© Sergey Kuznetsov/Getty Images)](https://cn.bing.com/th?id=OHR.BigMoon_EN-US5436003142_UHD.jpg)
+<!--  Tue Jul 22 2025 01:47:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)](https://cn.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-22Staghorn coral off the island of Bonaire, Caribbean Netherlands (© blue-sea.cz/Shutterstock)](https://cn.bing.com/th?id=OHR.AcroporaReef_EN-US5567789372_UHD.jpg)
   
 <!-- END -->
