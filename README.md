@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 23 2025 01:48:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-23Sunset over Badlands National Park, South Dakota (© Petr Bednarik/Danita Delimont/Alamy)](https://cn.bing.com/th?id=OHR.BadlandsSunset_EN-US5821746223_UHD.jpg)
+<!--  Thu Jul 24 2025 01:47:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-24Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg)
   
 <!-- END -->
