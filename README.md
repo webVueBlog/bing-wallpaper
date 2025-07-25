@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 24 2025 01:47:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-24Vatican City with St. Peter's Basilica (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.VaticanCity_EN-US5915643866_UHD.jpg)
+<!--  Fri Jul 25 2025 01:46:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-25Family of ashy woodswallows perched on a branch in Thailand (© Captain Skyhigh/Getty Images)](https://cn.bing.com/th?id=OHR.AshyWoodswallow_EN-US7005770998_UHD.jpg)
   
 <!-- END -->
