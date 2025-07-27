@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 26 2025 01:43:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-26Aerial view of colorful houses, Las Palmas de Gran Canaria, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.LasPalmas_EN-US0568727017_UHD.jpg)
+<!--  Sun Jul 27 2025 01:55:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-27Mangrove trees at twilight, Walakiri Beach, island of Sumba, Indonesia (© Boonchet Ch./Getty Images)](https://cn.bing.com/th?id=OHR.MangroveTwilight_EN-US0646432423_UHD.jpg)
   
 <!-- END -->
