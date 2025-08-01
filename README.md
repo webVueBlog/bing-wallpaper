@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 31 2025 01:49:14 GMT+0000 (Coordinated Universal Time) -->
-  !['Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-07-31'Beyond Walls' land-art installation by Saype at Expo 2020 Dubai, United Arab Emirates (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeDubai_EN-US5078679271_UHD.jpg)
+<!--  Fri Aug 01 2025 01:59:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-01Ring-tailed lemur infant playing with its own tail, Madagascar (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.BabyLemur_EN-US9264861498_UHD.jpg)
   
 <!-- END -->
