@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 05 2025 01:52:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-05Great gray owls in their nest, Finland (© imageBROKER.com/Alamy)](https://cn.bing.com/th?id=OHR.LaplandOwl_EN-US8965493818_UHD.jpg)
+<!--  Wed Aug 06 2025 01:50:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-06Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg)
   
 <!-- END -->
