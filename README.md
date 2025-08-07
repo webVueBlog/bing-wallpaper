@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 06 2025 01:50:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-06Tide pools in La Jolla, California (© Andrew Shoemaker/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.CaliforniaTidepool_EN-US9089576317_UHD.jpg)
+<!--  Thu Aug 07 2025 01:50:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-07Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii (© Russ Bishop/DanitaDelimont.com)](https://cn.bing.com/th?id=OHR.NaPaliKauai_EN-US7451684312_UHD.jpg)
   
 <!-- END -->
