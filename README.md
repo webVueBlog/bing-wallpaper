@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 11 2025 01:50:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-11Lioness in Maasai Mara National Reserve, Kenya (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LionessKenya_EN-US8440386444_UHD.jpg)
+<!--  Tue Aug 12 2025 01:39:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-12Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg)
   
 <!-- END -->
