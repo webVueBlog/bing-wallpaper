@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 12 2025 01:39:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-12Village of Santa Maddalena, Dolomites, Italy (© Sakrapee Nopparat/Getty Images)](https://cn.bing.com/th?id=OHR.SantaMaddalena_EN-US8546897995_UHD.jpg)
+<!--  Wed Aug 13 2025 01:41:32 GMT+0000 (Coordinated Universal Time) -->
+  ![African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-13African elephant herd, Amboseli National Park, Kenya (© Chase Dekker/Minden Pictures)](https://cn.bing.com/th?id=OHR.KenyaElephants_EN-US8723347309_UHD.jpg)
   
 <!-- END -->
