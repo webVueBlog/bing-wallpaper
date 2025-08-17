@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 16 2025 01:37:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-16Spotted eagle rays, San Cristóbal Island, Galápagos Islands, Ecuador (© Tui De Roy/Minden Pictures)](https://cn.bing.com/th?id=OHR.SpottedEagleRay_EN-US9227600044_UHD.jpg)
+<!--  Sun Aug 17 2025 01:47:37 GMT+0000 (Coordinated Universal Time) -->
+  ![Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-17Colorful beehives in Italy (© Roberto Caucino/Shutterstock)](https://cn.bing.com/th?id=OHR.ColorfulBeehives_EN-US1476944743_UHD.jpg)
   
 <!-- END -->
