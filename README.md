@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 18 2025 01:48:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-18Lyngvig Lighthouse, Hvide Sande, Denmark (© Caroline Brundle Bugge/Getty Images)](https://cn.bing.com/th?id=OHR.LyngvigLighthouse_EN-US1600601632_UHD.jpg)
+<!--  Tue Aug 19 2025 01:36:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-19Avalanche Lake Trail at Adirondack High Peaks, New York (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.AvalancheLake_EN-US1814683119_UHD.jpg)
   
 <!-- END -->
