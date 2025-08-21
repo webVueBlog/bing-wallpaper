@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 20 2025 01:27:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-20Solar Impulse 2 at Kalaeloa Airport, Honolulu, Hawaii (© Solar Impulse/Revillard/Sipa/Shutterstock)](https://cn.bing.com/th?id=OHR.SolarAviation_EN-US1940905760_UHD.jpg)
+<!--  Thu Aug 21 2025 01:26:15 GMT+0000 (Coordinated Universal Time) -->
+  ![The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-21The citadel in Bonifacio, Southern Corsica, France (© Marc Dozier/Getty Images)](https://cn.bing.com/th?id=OHR.CitadelBonifacio_EN-US2046177235_UHD.jpg)
   
 <!-- END -->
