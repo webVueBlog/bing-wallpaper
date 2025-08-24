@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 23 2025 01:24:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-23Rolling hills of the Palouse, Washington (© svetlana57/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseWA_EN-US2419102005_UHD.jpg)
+<!--  Sun Aug 24 2025 01:43:52 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](https://cn.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-24St. Barbara's Cathedral, Kutná Hora, Czechia (© Castka/Getty Images)](https://cn.bing.com/th?id=OHR.SaintBarbaras_EN-US3076115197_UHD.jpg)
   
 <!-- END -->
