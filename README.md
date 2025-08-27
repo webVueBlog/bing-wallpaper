@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 26 2025 01:27:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-26Calcite Springs Overlook and Yellowstone River, Yellowstone National Park, Wyoming (© Rebecca L. Latson/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneRiver_EN-US3380364726_UHD.jpg)
+<!--  Wed Aug 27 2025 01:25:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-27Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg)
   
 <!-- END -->
