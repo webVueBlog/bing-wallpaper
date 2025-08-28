@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 27 2025 01:25:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-27Trullo buildings in Alberobello, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrulliHouses_EN-US3489439665_UHD.jpg)
+<!--  Thu Aug 28 2025 01:24:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-28Sørvágsvatn lake, island of Vágar, Faroe Islands, Denmark (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.FaroeLake_EN-US3557234950_UHD.jpg)
   
 <!-- END -->
