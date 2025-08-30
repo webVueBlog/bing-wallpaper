@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 29 2025 01:24:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-29Great white egret, Hungary (© Markus Varesvuo/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WhiteEgret_EN-US3605994040_UHD.jpg)
+<!--  Sat Aug 30 2025 01:20:40 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-08-30Aerial view of Plaza Mayor, Madrid, Spain (© AirPano LLC/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.PlazaMayor_EN-US3692727880_UHD.jpg)
   
 <!-- END -->
