@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 01 2025 01:45:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-01Scotts Bluff National Monument in Gering, Nebraska (© Hawk Buckman/Getty Images)](https://cn.bing.com/th?id=OHR.ScottsBluff_EN-US3893566724_UHD.jpg)
+<!--  Tue Sep 02 2025 01:25:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-02Amalgamated Clothing Workers of America in a Labor Day parade, May 1915, Chicago (© Chicago Sun-Times/Chicago Daily News collection/Chicago History Museum/Getty Images)](https://cn.bing.com/th?id=OHR.LaborDayChicago_EN-US3947410593_UHD.jpg)
   
 <!-- END -->
