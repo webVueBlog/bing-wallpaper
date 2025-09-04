@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 03 2025 01:20:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-03Camel thorn trees, Deadvlei, Namib-Naukluft Park, Namibia (© Inge Johnsson/Alamy)](https://cn.bing.com/th?id=OHR.DeadvleiTrees_EN-US4233800313_UHD.jpg)
+<!--  Thu Sep 04 2025 01:20:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-04Boundary Waters Canoe Area Wilderness, Minnesota (© s.tomas/Shutterstock)](https://cn.bing.com/th?id=OHR.MinnesotaWaters_EN-US4282198656_UHD.jpg)
   
 <!-- END -->
