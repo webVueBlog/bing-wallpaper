@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 06 2025 01:20:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-06Pacific Park at Santa Monica State Beach, California (© EXTREME-PHOTOGRAPHER/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetPier_EN-US7261804528_UHD.jpg)
+<!--  Sun Sep 07 2025 01:34:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-07Rufous hummingbird, Golden Gate Park, San Francisco, California (© jeremyborkat/Getty Images)](https://cn.bing.com/th?id=OHR.RufousHummer_EN-US7346003108_UHD.jpg)
   
 <!-- END -->
