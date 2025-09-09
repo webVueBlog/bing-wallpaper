@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 08 2025 01:26:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-08Gdańsk on the banks of the Motława, Poland (© Oscar Dominguez/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BlueGdansk_EN-US8032283831_UHD.jpg)
+<!--  Tue Sep 09 2025 01:24:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Library@orchard, Singapore (© Darwin Fan/Getty Images)](https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-09Library@orchard, Singapore (© Darwin Fan/Getty Images)](https://cn.bing.com/th?id=OHR.OrchardLibrary_EN-US8095609746_UHD.jpg)
   
 <!-- END -->
