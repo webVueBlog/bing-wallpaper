@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 11 2025 01:23:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-11Hay bales, North Yorkshire, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.YorkshireHay_EN-US8523120193_UHD.jpg)
+<!--  Fri Sep 12 2025 01:20:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-12Statue of Liberty and Lower Manhattan, New York City (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.LibertyManhattan_EN-US8781721086_UHD.jpg)
   
 <!-- END -->
