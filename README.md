@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 17 2025 01:21:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](https://cn.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-17Nighttime view of the Gulf Coast states from 225 miles above Earth (© Stocktrek Images/Getty Images)](https://cn.bing.com/th?id=OHR.OzoneEarth_EN-US9728527733_UHD.jpg)
+<!--  Thu Sep 18 2025 01:20:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-18Young bull moose in Denali National Park, Alaska (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YoungMoose_EN-US2991221135_UHD.jpg)
   
 <!-- END -->
