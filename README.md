@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 19 2025 01:23:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)](https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-19Serpentine stairs of Dunquin Pier, County Kerry, Ireland (© Hugh O'Connor/Getty Images)](https://cn.bing.com/th?id=OHR.DunquinIreland_EN-US9846056364_UHD.jpg)
+<!--  Sat Sep 20 2025 01:19:30 GMT+0000 (Coordinated Universal Time) -->
+  ![Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-20Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg)
   
 <!-- END -->
