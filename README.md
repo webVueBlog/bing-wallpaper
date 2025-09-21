@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 20 2025 01:19:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-20Thousand Islands region, St. Lawrence River, US-Canada border (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.ThousandIslands_EN-US7884567746_UHD.jpg)
+<!--  Sun Sep 21 2025 01:36:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-21Swing carousel at Oktoberfest, Munich, Germany (© LOOK-foto/Alamy)](https://cn.bing.com/th?id=OHR.OktoberfestSwing_EN-US7916182497_UHD.jpg)
   
 <!-- END -->
