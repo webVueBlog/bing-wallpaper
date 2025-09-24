@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 23 2025 01:21:51 GMT+0000 (Coordinated Universal Time) -->
-  ![Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-23Aspen trees during fall, Fishlake National Forest, Utah (© Danita Delimont/Getty Images)](https://cn.bing.com/th?id=OHR.AspenEquinox_EN-US8237887036_UHD.jpg)
+<!--  Wed Sep 24 2025 01:22:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-24Keel-billed toucan in Costa Rica (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.ToucanForest_EN-US8319635845_UHD.jpg)
   
 <!-- END -->
