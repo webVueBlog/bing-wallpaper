@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 25 2025 01:23:06 GMT+0000 (Coordinated Universal Time) -->
-  ![Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-25Devils Tower National Monument, Wyoming (© Laura Hedien/Getty Images)](https://cn.bing.com/th?id=OHR.BearLodge_EN-US9061134971_UHD.jpg)
+<!--  Fri Sep 26 2025 01:22:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](https://cn.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-26Chittorgarh Fort, Rajasthan, India (© chetansoni/Shutterstock)](https://cn.bing.com/th?id=OHR.FortChittorgarh_EN-US9184486139_UHD.jpg)
   
 <!-- END -->
