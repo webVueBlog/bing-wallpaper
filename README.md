@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 27 2025 01:19:21 GMT+0000 (Coordinated Universal Time) -->
-  ![Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-27Least chipmunk, Kootenai National Forest, Montana (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.AutumnChipmunk_EN-US9248365602_UHD.jpg)
+<!--  Sun Sep 28 2025 01:37:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-28Tank Lakes, Alpine Lakes Wilderness, Washington (© Austin Trigg/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.TankLakes_EN-US9278332978_UHD.jpg)
   
 <!-- END -->
