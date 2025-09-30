@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 29 2025 01:24:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-29Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)](https://cn.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg)
+<!--  Tue Sep 30 2025 01:23:04 GMT+0000 (Coordinated Universal Time) -->
+  ![The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-30The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)
   
 <!-- END -->
