@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 30 2025 01:23:04 GMT+0000 (Coordinated Universal Time) -->
-  ![The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-09-30The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg)
+<!--  Wed Oct 01 2025 01:39:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-01Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)](https://cn.bing.com/th?id=OHR.EucalyptusKoala_EN-US8743417111_UHD.jpg)
   
 <!-- END -->
