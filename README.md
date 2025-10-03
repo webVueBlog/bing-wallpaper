@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 02 2025 01:20:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-02Clark Range, Sierra Nevada, Yosemite National Park, California (© Robb Hirsch/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.YosemiteClark_EN-US8503376225_UHD.jpg)
+<!--  Fri Oct 03 2025 01:20:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-03Oxbow Bend on the Snake River, Grand Teton National Park, Wyoming (© DanitaDelimont.com/AWL Images/SuperStock)](https://cn.bing.com/th?id=OHR.OxbowBend_EN-US8471628790_UHD.jpg)
   
 <!-- END -->
