@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 05 2025 01:36:58 GMT+0000 (Coordinated Universal Time) -->
-  ![ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-05ISS main solar arrays seen from SpaceX Crew Dragon Endeavour (© NASA)](https://cn.bing.com/th?id=OHR.DragonEndeavour_EN-US9321246369_UHD.jpg)
+<!--  Mon Oct 06 2025 01:23:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-06Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)
   
 <!-- END -->
