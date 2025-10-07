@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 06 2025 01:23:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-06Boreal owl in a forest in Central Europe (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.TeacherOwl_EN-US9991815804_UHD.jpg)
+<!--  Tue Oct 07 2025 01:21:56 GMT+0000 (Coordinated Universal Time) -->
+  ![Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-07Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)
   
 <!-- END -->
