@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 07 2025 01:21:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-07Anshun Bridge illuminated for the Mid-Autumn Festival, Chengdu, China (© Philippe LEJEANVRE/Getty Images)](https://cn.bing.com/th?id=OHR.AnshunBridge_EN-US0059795497_UHD.jpg)
+<!--  Wed Oct 08 2025 01:22:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-08Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg)
   
 <!-- END -->
