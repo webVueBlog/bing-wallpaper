@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 08 2025 01:22:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-08Fall colors below Mount Sneffels near Ridgway, Colorado (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.RidgwayAspens_EN-US0136548884_UHD.jpg)
+<!--  Thu Oct 09 2025 01:22:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-09Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg)
   
 <!-- END -->
