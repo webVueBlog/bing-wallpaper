@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 09 2025 01:22:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-09Day octopus in the waters off Maui, Hawaii (© Dave Fleetham/plainpicture)](https://cn.bing.com/th?id=OHR.OctopusCyanea_EN-US0194861123_UHD.jpg)
+<!--  Fri Oct 10 2025 01:23:16 GMT+0000 (Coordinated Universal Time) -->
+  ![The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-10The Pillars of Creation viewed by the James Webb Space Telescope (© NASA)](https://cn.bing.com/th?id=OHR.WebbPillars_EN-US0251661895_UHD.jpg)
   
 <!-- END -->
