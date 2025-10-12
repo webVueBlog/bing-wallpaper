@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 11 2025 01:19:46 GMT+0000 (Coordinated Universal Time) -->
-  ![Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-11Coral reef surrounding the island of Monuriki, Mamanuca Islands, Fiji (© David Wall/SuperStock)](https://cn.bing.com/th?id=OHR.MonurikiFiji_EN-US0326449622_UHD.jpg)
+<!--  Sun Oct 12 2025 01:26:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Wood duck hen (© ps50ace/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-12Wood duck hen (© ps50ace/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.WoodDuckHen_EN-US0382439406_UHD.jpg)
   
 <!-- END -->
