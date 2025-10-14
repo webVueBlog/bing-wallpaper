@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 13 2025 01:36:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)](https://cn.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-13Village of Saranac Lake, Adirondack Mountains, New York (© DenisTangneyJr/Getty Images)](https://cn.bing.com/th?id=OHR.SaranacLake_EN-US0445660450_UHD.jpg)
+<!--  Tue Oct 14 2025 01:22:51 GMT+0000 (Coordinated Universal Time) -->
+  ![House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-14House on Fire Ruin in Mule Canyon, Cedar Mesa, Utah (© Pete Lomchid/Getty Images)](https://cn.bing.com/th?id=OHR.MuleCanyon_EN-US0527899523_UHD.jpg)
   
 <!-- END -->
