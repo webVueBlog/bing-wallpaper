@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 17 2025 01:24:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-17Eurasian lynx in Siberia (© Mario Plechaty Photograph/Shutterstock)](https://cn.bing.com/th?id=OHR.SiberianLynx_EN-US0696336220_UHD.jpg)
+<!--  Sat Oct 18 2025 01:20:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-18Rock River Falls, Upper Peninsula, Michigan (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.RockRiverFalls_EN-US2428797661_UHD.jpg)
   
 <!-- END -->
