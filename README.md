@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Oct 19 2025 01:41:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-19Neolithic site of Silbury Hill, Tilshead, Wiltshire, England (© dbstockphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SilburyHill_EN-US2485144120_UHD.jpg)
+<!--  Mon Oct 20 2025 01:39:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-20Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg)
   
 <!-- END -->
