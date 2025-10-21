@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Oct 20 2025 01:39:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-20Apples ready for harvest, Minnesota (© Tammi Mild/Getty Images)](https://cn.bing.com/th?id=OHR.AppleHarvest_EN-US2977882687_UHD.jpg)
+<!--  Tue Oct 21 2025 01:26:09 GMT+0000 (Coordinated Universal Time) -->
+  ![A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-21A Hoffmann's two-toed sloth in Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.HoffmansSloth_EN-US3030106938_UHD.jpg)
   
 <!-- END -->
