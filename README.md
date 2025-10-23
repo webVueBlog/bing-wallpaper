@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 22 2025 01:36:44 GMT+0000 (Coordinated Universal Time) -->
-  ![A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-22A diya at the Golden Temple during Diwali, Amritsar, India (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.DiyaDiwali_EN-US3108369974_UHD.jpg)
+<!--  Thu Oct 23 2025 01:25:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-23Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg)
   
 <!-- END -->
