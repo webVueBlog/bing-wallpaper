@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 23 2025 01:25:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-23Belogradchik Rocks, Bulgaria (© EvaL Miko/Shutterstock)](https://cn.bing.com/th?id=OHR.BulgariaRocks_EN-US3184562282_UHD.jpg)
+<!--  Fri Oct 24 2025 01:21:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-24Snow leopard with her cubs, Spiti Valley, Cold Desert Biosphere Reserve, India (© Oriol Alamany/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowLeopard_EN-US3294064537_UHD.jpg)
   
 <!-- END -->
