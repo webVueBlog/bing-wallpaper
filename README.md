@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 25 2025 01:23:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-25Night view of the RMS Queen Mary, Long Beach, California (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_EN-US3331250680_UHD.jpg)
+<!--  Sun Oct 26 2025 01:38:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-26Aerial view of peatland in Martimoaapa Mire Reserve, Finland (© romikatarina/Shutterstock)](https://cn.bing.com/th?id=OHR.MartimoaapaFinland_EN-US3685817058_UHD.jpg)
   
 <!-- END -->
