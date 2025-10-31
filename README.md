@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 30 2025 01:38:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-30Ancient til trees in Fanal Forest, island of Madeira, Portugal (© Lukas Jonaitis/Shutterstock)](https://cn.bing.com/th?id=OHR.FanalForest_EN-US4405104404_UHD.jpg)
+<!--  Fri Oct 31 2025 01:27:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-10-31Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.PushkarFair_EN-US4430814252_UHD.jpg)
   
 <!-- END -->
