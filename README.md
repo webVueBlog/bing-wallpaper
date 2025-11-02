@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 01 2025 01:39:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-01Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)](https://cn.bing.com/th?id=OHR.BranCastle_EN-US5914201029_UHD.jpg)
+<!--  Sun Nov 02 2025 01:40:18 GMT+0000 (Coordinated Universal Time) -->
+  ![Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-02Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming (© Cheryl Ramalho/Getty Images)](https://cn.bing.com/th?id=OHR.BisonSprings_EN-US6080228013_UHD.jpg)
   
 <!-- END -->
