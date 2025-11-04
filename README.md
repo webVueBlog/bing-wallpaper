@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 03 2025 01:40:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-03Colorful maple leaves and bamboo forest in Arashiyama, Kyoto, Japan (© DoctorEgg/Getty Images)](https://cn.bing.com/th?id=OHR.KyotoMaple_EN-US6732403492_UHD.jpg)
+<!--  Tue Nov 04 2025 01:36:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-04Jellyfish swimming in the Pacific, Guerrero, Mexico (© Christian Vizl/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.MexicoJelly_EN-US6803524310_UHD.jpg)
   
 <!-- END -->
