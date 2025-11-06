@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 05 2025 01:37:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-05Tower Bridge, London, England (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TowerBridgeUK_EN-US6871236865_UHD.jpg)
+<!--  Thu Nov 06 2025 01:37:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-06Peña Roya beech forest, Moncayo Natural Park, Zaragoza, Aragon, Spain (© David Santiago Garcia/DEEPOL by plainpicture)](https://cn.bing.com/th?id=OHR.MoncayoAutumn_EN-US1753631441_UHD.jpg)
   
 <!-- END -->
