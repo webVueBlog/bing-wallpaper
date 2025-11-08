@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 07 2025 01:36:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-07Colorful lanterns at the temple of Wat Phra That Hariphunchai, Lamphun, Thailand (© MR. ANUJAK JAIMOOK/Getty Images)](https://cn.bing.com/th?id=OHR.LanternsThailand_EN-US6955074347_UHD.jpg)
+<!--  Sat Nov 08 2025 01:23:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-08Polar bear in Churchill, Manitoba, Canada (© karen crewe/Getty Images)](https://cn.bing.com/th?id=OHR.WillowBear_EN-US6995170630_UHD.jpg)
   
 <!-- END -->
