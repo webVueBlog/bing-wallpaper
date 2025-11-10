@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 09 2025 01:39:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-09Sea stacks of Bandon Beach in Bandon, Oregon (© Grant Ordelheide/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BandonBeach_EN-US7099626478_UHD.jpg)
+<!--  Mon Nov 10 2025 01:40:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-10Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg)
   
 <!-- END -->
