@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 10 2025 01:40:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-10Interstellar clouds in the Lagoon Nebula, captured by the Hubble Space Telescope (© ESA/NASA)](https://cn.bing.com/th?id=OHR.LagoonNebula_EN-US7186308623_UHD.jpg)
+<!--  Tue Nov 11 2025 01:38:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-11Black-tailed prairie dogs at Roberts Prairie Dog Town, Badlands National Park, South Dakota (© Greg Vaughn/Getty Images)](https://cn.bing.com/th?id=OHR.PrairieDogTown_EN-US6854295076_UHD.jpg)
   
 <!-- END -->
