@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 12 2025 01:37:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-12Marine Corps War Memorial, Arlington, Virginia (© f11photo/Shutterstock)](https://cn.bing.com/th?id=OHR.MarineMemorial_EN-US6899836690_UHD.jpg)
+<!--  Thu Nov 13 2025 01:38:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-13Aerial view of the Colosseum, Rome, Italy (© Nico De Pasquale Photography/Getty Images)](https://cn.bing.com/th?id=OHR.ColosseumRome_EN-US6932882124_UHD.jpg)
   
 <!-- END -->
