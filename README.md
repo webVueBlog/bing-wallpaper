@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 15 2025 01:26:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-15Mother manatee and calf, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeBaby_EN-US5594953777_UHD.jpg)
+<!--  Sun Nov 16 2025 01:42:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-16Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)
   
 <!-- END -->
