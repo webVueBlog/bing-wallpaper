@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 16 2025 01:42:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-16Irohazaka Road in fall, Nikko, Tochigi, Japan (© oneinchpunch/Shutterstock)](https://cn.bing.com/th?id=OHR.IrohazakaAutumn_EN-US9137140715_UHD.jpg)
+<!--  Mon Nov 17 2025 01:38:42 GMT+0000 (Coordinated Universal Time) -->
+  ![A traboule in Lyon, France (© TPopova/Getty Images)](https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-17A traboule in Lyon, France (© TPopova/Getty Images)](https://cn.bing.com/th?id=OHR.LyonTraboules_EN-US9432784340_UHD.jpg)
   
 <!-- END -->
