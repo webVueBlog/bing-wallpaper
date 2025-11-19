@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 18 2025 01:36:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-18Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahTrail_EN-US8964689271_UHD.jpg)
+<!--  Wed Nov 19 2025 01:37:16 GMT+0000 (Coordinated Universal Time) -->
+  ![Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-19Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)
   
 <!-- END -->
