@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 19 2025 01:37:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-19Male hooded merganser, Oregon (© Eric Vogt/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.AutumnMerganser_EN-US5860535351_UHD.jpg)
+<!--  Thu Nov 20 2025 01:27:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-20Hungarian Parliament Building, Budapest, Hungary (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.BudapestParliament_EN-US5929195878_UHD.jpg)
   
 <!-- END -->
