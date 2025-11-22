@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 21 2025 01:36:32 GMT+0000 (Coordinated Universal Time) -->
-  ![Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-21Artist Saype poses with his land art painting at UN Headquarters, Geneva, Switzerland (© Valentin Flauraud/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.SaypeGeneva_EN-US6121087903_UHD.jpg)
+<!--  Sat Nov 22 2025 01:25:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-22Harbor seals at Robert Moses State Park, Long Island, New York (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)](https://cn.bing.com/th?id=OHR.SealWaving_EN-US6277930581_UHD.jpg)
   
 <!-- END -->
