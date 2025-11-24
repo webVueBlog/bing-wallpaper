@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 23 2025 01:48:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-23Leshan Giant Buddha, Sichuan, China (© www.anotherdayattheoffice.org/Getty Images)](https://cn.bing.com/th?id=OHR.LeshanBuddha_EN-US6412307232_UHD.jpg)
+<!--  Mon Nov 24 2025 01:43:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-24Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)
   
 <!-- END -->
