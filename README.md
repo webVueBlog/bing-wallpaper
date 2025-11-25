@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 24 2025 01:43:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-24Ammonite fossil from Madagascar (© ThomasLENNE/Shutterstock)](https://cn.bing.com/th?id=OHR.MadgascarAmmonite_EN-US6525238032_UHD.jpg)
+<!--  Tue Nov 25 2025 01:37:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-25Gwalior Fort, Madhya Pradesh, India (© ImagesofIndia/Shutterstock)](https://cn.bing.com/th?id=OHR.GwailorFort_EN-US6671653416_UHD.jpg)
   
 <!-- END -->
