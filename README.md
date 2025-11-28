@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 27 2025 01:36:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-27Olive orchard in the Serra de Tramuntana, Mallorca, Balearic Islands, Spain (© cinoby/Getty Images)](https://cn.bing.com/th?id=OHR.OliveGrove_EN-US7076835672_UHD.jpg)
+<!--  Fri Nov 28 2025 01:27:14 GMT+0000 (Coordinated Universal Time) -->
+  ![Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-28Male wild turkey plumage, Aransas Natural Wildlife Refuge, Texas (© George McCarthy/Minden Pictures)](https://cn.bing.com/th?id=OHR.TurkeyDetail_EN-US7401521602_UHD.jpg)
   
 <!-- END -->
