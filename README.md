@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 29 2025 01:27:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-29Collection of silver Native American concho belts, Santa Fe, New Mexico (© julien mcroberts/Shutterstock)](https://cn.bing.com/th?id=OHR.ConchaBelt_EN-US6625864424_UHD.jpg)
+<!--  Sun Nov 30 2025 01:47:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-11-30Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)](https://cn.bing.com/th?id=OHR.DeerVeluwe_EN-US6795108723_UHD.jpg)
   
 <!-- END -->
