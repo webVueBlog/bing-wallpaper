@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 01 2025 01:55:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-01Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)](https://cn.bing.com/th?id=OHR.LeipzigMarket_EN-US6493622236_UHD.jpg)
+<!--  Tue Dec 02 2025 01:39:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-02Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)
   
 <!-- END -->
