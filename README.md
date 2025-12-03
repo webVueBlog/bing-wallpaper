@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 02 2025 01:39:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-02Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)](https://cn.bing.com/th?id=OHR.AntarcticArch_EN-US6560308300_UHD.jpg)
+<!--  Wed Dec 03 2025 01:39:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-03Willow Lake and Mount Blackburn, Wrangell-St. Elias National Park and Preserve, Alaska (© Patrick J. Endres/Getty Images)](https://cn.bing.com/th?id=OHR.WillowLake_EN-US6664756735_UHD.jpg)
   
 <!-- END -->
