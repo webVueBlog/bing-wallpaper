@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 05 2025 01:40:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-05Cheetah in Maasai Mara National Reserve, Narok, Kenya (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.CheetahMound_EN-US5447540393_UHD.jpg)
+<!--  Sat Dec 06 2025 01:27:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-06Maya site of Copán, Honduras (© diegograndi/Getty Images)](https://cn.bing.com/th?id=OHR.CopanRuins_EN-US5517813382_UHD.jpg)
   
 <!-- END -->
