@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Dec 09 2025 01:40:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-09Christmas lights in Domaso, Lake Como, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ComoChristmas_EN-US5867954466_UHD.jpg)
+<!--  Wed Dec 10 2025 01:42:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-10Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)
   
 <!-- END -->
