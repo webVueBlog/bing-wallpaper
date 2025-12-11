@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 10 2025 01:42:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-10Guanaco in Punta Norte, Argentina (© Sylvain Cordier/naturepl.com)](https://cn.bing.com/th?id=OHR.LlamaDay_EN-US5971354659_UHD.jpg)
+<!--  Thu Dec 11 2025 01:43:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-11Interior of the Mosque-Cathedral of Córdoba, Andalusia, Spain (© Elena Zolotova/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaCathedral_EN-US6045311068_UHD.jpg)
   
 <!-- END -->
