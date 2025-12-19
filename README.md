@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 18 2025 01:39:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-18Eurasian red squirrel in Northumberland, England (© Michael_Conrad/Getty Images)](https://cn.bing.com/th?id=OHR.FrostySquirrel_EN-US5169660143_UHD.jpg)
+<!--  Fri Dec 19 2025 01:42:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-19Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)
   
 <!-- END -->
