@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 19 2025 01:42:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-19Temple of the Sun, Capitol Reef National Park, Utah (© Austin Cronnelly/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.CathedralValley_EN-US5270905846_UHD.jpg)
+<!--  Sat Dec 20 2025 01:37:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-20Snow-covered landscape at Bormio, Lombardy, Italy (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.BormioItaly_EN-US5324526286_UHD.jpg)
   
 <!-- END -->
