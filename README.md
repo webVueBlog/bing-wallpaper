@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 22 2025 01:48:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Dawn light through frosty trees, Sweden (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-22Dawn light through frosty trees, Sweden (© Schon/Getty Images)](https://cn.bing.com/th?id=OHR.SwedenSolstice_EN-US5470044971_UHD.jpg)
+<!--  Tue Dec 23 2025 01:43:44 GMT+0000 (Coordinated Universal Time) -->
+  !['The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)](https://cn.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-23'The Nutcracker' performed by the Turkish State Opera and Ballet in Ankara, Türkiye (© Anadolu/Getty Images)](https://cn.bing.com/th?id=OHR.NutcrackerAnkara_EN-US5537620581_UHD.jpg)
   
 <!-- END -->
