@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Dec 24 2025 01:42:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-24Reindeer during winter snowfall, Lapland, Finland (© Roberto Moiola/Getty Images)](https://cn.bing.com/th?id=OHR.ReindeerFinland_EN-US5636971050_UHD.jpg)
+<!--  Thu Dec 25 2025 01:43:58 GMT+0000 (Coordinated Universal Time) -->
+  ![Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-25Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg)
   
 <!-- END -->
