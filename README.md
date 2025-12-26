@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Dec 25 2025 01:43:58 GMT+0000 (Coordinated Universal Time) -->
-  ![Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-25Snowy chapel with Christmas tree in the Bavarian Alps, Germany (© mauritius images GmbH/Alamy)](https://cn.bing.com/th?id=OHR.ElmauChapel_EN-US5704228113_UHD.jpg)
+<!--  Fri Dec 26 2025 01:43:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-26Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg)
   
 <!-- END -->
