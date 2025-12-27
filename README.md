@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Dec 26 2025 01:43:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-26Snow globes at a Christmas market in Heidelberg, Germany (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.SantaGlobe_EN-US5819361091_UHD.jpg)
+<!--  Sat Dec 27 2025 01:41:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-27Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg)
   
 <!-- END -->
