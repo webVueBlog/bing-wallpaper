@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Dec 27 2025 01:41:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-27Salisbury Cathedral, Wiltshire, England (© Julian Elliott Photography/Getty Images)](https://cn.bing.com/th?id=OHR.WiltshireDawn_EN-US5663179833_UHD.jpg)
+<!--  Sun Dec 28 2025 01:53:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-28Plate ice along Lake Superior, Grand Marais, Minnesota (© wanderluster/Getty Images)](https://cn.bing.com/th?id=OHR.SuperiorIceMN_EN-US5952266924_UHD.jpg)
   
 <!-- END -->
