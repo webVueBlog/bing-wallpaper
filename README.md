@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Dec 29 2025 01:52:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-29Black-and-white ruffed lemur in Madagascar (© Cyrielle Beaubois/Getty Images)](https://cn.bing.com/th?id=OHR.RuffedLemur_EN-US6014028083_UHD.jpg)
+<!--  Tue Dec 30 2025 01:44:23 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2025-12-30St. Gregory Church in Ani Ruins, Kars, Türkiye (© Kenan Talas/Getty Images)](https://cn.bing.com/th?id=OHR.AniTurkey_EN-US6168768263_UHD.jpg)
   
 <!-- END -->
