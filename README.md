@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 02 2026 01:46:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Arctic fox sleeping (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-02Arctic fox sleeping (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_EN-US6422915878_UHD.jpg)
+<!--  Sat Jan 03 2026 01:40:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-03Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-US3244163136_UHD.jpg)
   
 <!-- END -->
