@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 05 2026 01:55:05 GMT+0000 (Coordinated Universal Time) -->
-  ![Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-05Kings Mountain, Chugach Mountains, Alaska (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.KingMountain_EN-US6730743729_UHD.jpg)
+<!--  Tue Jan 06 2026 01:46:27 GMT+0000 (Coordinated Universal Time) -->
+  ![A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-06A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg)
   
 <!-- END -->
