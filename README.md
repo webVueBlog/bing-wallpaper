@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 06 2026 01:46:27 GMT+0000 (Coordinated Universal Time) -->
-  ![A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-06A herd of impalas, Londolozi Game Reserve, South Africa (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_EN-US6797453661_UHD.jpg)
+<!--  Wed Jan 07 2026 01:45:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-07Nuuk, Greenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_EN-US6879869782_UHD.jpg)
   
 <!-- END -->
