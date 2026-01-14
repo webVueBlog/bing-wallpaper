@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 13 2026 01:43:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-13Eurasian otter and pup, Estonia (© Sven Zacek/naturepl.com)](https://cn.bing.com/th?id=OHR.SnowOtters_EN-US0138589680_UHD.jpg)
+<!--  Wed Jan 14 2026 01:50:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-14Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg)
   
 <!-- END -->
