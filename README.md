@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 14 2026 01:50:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-14Vale of Clwyd, Wales (© Valerie Blencowe/Getty Images)](https://cn.bing.com/th?id=OHR.WalesWinter_EN-US0191348069_UHD.jpg)
+<!--  Thu Jan 15 2026 01:45:51 GMT+0000 (Coordinated Universal Time) -->
+  ![The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-15The staircase of the Fortress of Palamidi, Nafplio, Greece (© George Pachantouris/Getty Images)](https://cn.bing.com/th?id=OHR.PalamidiFortress_EN-US0244863129_UHD.jpg)
   
 <!-- END -->
