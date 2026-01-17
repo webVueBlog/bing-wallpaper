@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 16 2026 01:47:35 GMT+0000 (Coordinated Universal Time) -->
-  ![The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-16The fishing village of Reine, Norway (© Roberto Moiola/Cavan Images/SuperStock)](https://cn.bing.com/th?id=OHR.ReineSunrise_EN-US0323810872_UHD.jpg)
+<!--  Sat Jan 17 2026 01:41:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-17Leopard at Etosha National Park, Namibia (© Norbert Achtelik/Cavan Images)](https://cn.bing.com/th?id=OHR.EtoshaLeopard_EN-US0412326524_UHD.jpg)
   
 <!-- END -->
