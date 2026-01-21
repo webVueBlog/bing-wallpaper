@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jan 20 2026 01:47:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-20Washington Monument seen from Lincoln Memorial, Washington, DC (© RickSause/Getty Images)](https://cn.bing.com/th?id=OHR.MLKSunrise_EN-US0641684404_UHD.jpg)
+<!--  Wed Jan 21 2026 01:50:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-21Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg)
   
 <!-- END -->
