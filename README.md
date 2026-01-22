@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jan 21 2026 01:50:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-21Gentoo penguin, Petermann Island, Antarctica (© Paul Souders/DanitaDelimont.com/Alamy)](https://cn.bing.com/th?id=OHR.IciclePenguin_EN-US0727591285_UHD.jpg)
+<!--  Thu Jan 22 2026 01:50:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-22Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg)
   
 <!-- END -->
