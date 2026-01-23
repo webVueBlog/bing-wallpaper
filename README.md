@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 22 2026 01:50:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-22Eurasian red squirrel (© Galina Jacyna/Getty Images)](https://cn.bing.com/th?id=OHR.BerrySquirrel_EN-US0798771452_UHD.jpg)
+<!--  Fri Jan 23 2026 01:47:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-23Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg)
   
 <!-- END -->
