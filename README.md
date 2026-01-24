@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 23 2026 01:47:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-23Karlovy Vary, Bohemia, Czechia (© Henryk Sadura/Getty Images)](https://cn.bing.com/th?id=OHR.KarlovyVary_EN-US0856094511_UHD.jpg)
+<!--  Sat Jan 24 2026 01:44:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-24Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg)
   
 <!-- END -->
