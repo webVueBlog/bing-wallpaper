@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jan 24 2026 01:44:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-24Sheep grazing in snow, Iceland (© Christophe Lehenaff/Getty Images)](https://cn.bing.com/th?id=OHR.IcelandSheep_EN-US8273507799_UHD.jpg)
+<!--  Sun Jan 25 2026 01:57:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-25Andermatt village in the Alps, Switzerland (© Xantana/Getty Images)](https://cn.bing.com/th?id=OHR.AndermattSwiss_EN-US9318337691_UHD.jpg)
   
 <!-- END -->
