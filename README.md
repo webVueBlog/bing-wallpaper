@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jan 26 2026 01:56:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-26Burns National Heritage Park, Ayr, Ayrshire, Scotland (© Alister Firth/Alamy)](https://cn.bing.com/th?id=OHR.BurnsPark_EN-US9363066918_UHD.jpg)
+<!--  Tue Jan 27 2026 01:53:23 GMT+0000 (Coordinated Universal Time) -->
+  ![Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-27Neuschwanstein Castle, Bavaria, Germany (© www.fredconcha.com @ All Rights Reserved/Getty Images)](https://cn.bing.com/th?id=OHR.NeuschwansteinWinter_EN-US9407713688_UHD.jpg)
   
 <!-- END -->
