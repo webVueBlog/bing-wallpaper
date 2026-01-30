@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jan 29 2026 02:03:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-29Whanganui National Park, Retaruke, New Zealand (© Matthew Micah Wright/Getty Images)](https://cn.bing.com/th?id=OHR.WhanganuiPark_EN-US9741312204_UHD.jpg)
+<!--  Fri Jan 30 2026 02:03:11 GMT+0000 (Coordinated Universal Time) -->
+  ![The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-30The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg)
   
 <!-- END -->
