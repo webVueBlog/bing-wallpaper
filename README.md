@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jan 30 2026 02:03:11 GMT+0000 (Coordinated Universal Time) -->
-  ![The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-30The eight-story open atrium of Milwaukee City Hall, Wisconsin (© lavin photography/Getty Images)](https://cn.bing.com/th?id=OHR.MilwaukeeHall_EN-US9990591477_UHD.jpg)
+<!--  Sat Jan 31 2026 01:59:26 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)](https://cn.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-01-31St. Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)](https://cn.bing.com/th?id=OHR.StMichaelsCornwall_EN-US0036057583_UHD.jpg)
   
 <!-- END -->
