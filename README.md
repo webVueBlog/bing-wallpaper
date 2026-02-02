@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Feb 01 2026 02:27:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-01Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://cn.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg)
+<!--  Mon Feb 02 2026 02:11:16 GMT+0000 (Coordinated Universal Time) -->
+  ![US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-02US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)
   
 <!-- END -->
