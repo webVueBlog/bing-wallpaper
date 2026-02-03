@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 02 2026 02:11:16 GMT+0000 (Coordinated Universal Time) -->
-  ![US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-02US Army nurses arrive in Greenock, Scotland, 1944 (© Stocktrek Images, Inc/Alamy)](https://cn.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)
+<!--  Tue Feb 03 2026 02:09:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-03Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)
   
 <!-- END -->
