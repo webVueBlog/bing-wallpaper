@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Feb 07 2026 02:01:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-07Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)](https://cn.bing.com/th?id=OHR.GiauPass_EN-US1580552183_UHD.jpg)
+<!--  Sun Feb 08 2026 02:34:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-08Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.SalarUyuni_EN-US1639129259_UHD.jpg)
   
 <!-- END -->
