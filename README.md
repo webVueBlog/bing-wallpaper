@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Feb 10 2026 02:29:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-10Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)](https://cn.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg)
+<!--  Wed Feb 11 2026 02:25:54 GMT+0000 (Coordinated Universal Time) -->
+  ![Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-11Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg)
   
 <!-- END -->
