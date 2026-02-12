@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 11 2026 02:25:54 GMT+0000 (Coordinated Universal Time) -->
-  ![Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-11Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)](https://cn.bing.com/th?id=OHR.IbizaIslets_EN-US4713963434_UHD.jpg)
+<!--  Thu Feb 12 2026 02:12:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-12Salt flats in Badwater Basin, Death Valley National Park, California (© Jim Patterson/TANDEM Stills + Motion)](https://cn.bing.com/th?id=OHR.BadwaterFlats_EN-US4770719796_UHD.jpg)
   
 <!-- END -->
