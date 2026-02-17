@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Feb 16 2026 02:10:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-16Humpback whales in Monterey Bay, California (© Kiliii Fish/Cavan Images)](https://cn.bing.com/th?id=OHR.MontereyHumpbacks_EN-US6328970690_UHD.jpg)
+<!--  Tue Feb 17 2026 02:07:38 GMT+0000 (Coordinated Universal Time) -->
+  ![Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-17Lincoln Memorial, Washington, DC (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg)
   
 <!-- END -->
