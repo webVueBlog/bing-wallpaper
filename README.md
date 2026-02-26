@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Feb 25 2026 02:09:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-25Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg)
+<!--  Thu Feb 26 2026 02:05:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-26Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)](https://cn.bing.com/th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg)
   
 <!-- END -->
