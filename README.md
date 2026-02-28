@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Feb 27 2026 02:04:38 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-27Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg)
+<!--  Sat Feb 28 2026 01:54:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)](https://cn.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-02-28Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)](https://cn.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg)
   
 <!-- END -->
