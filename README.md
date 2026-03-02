@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 01 2026 02:24:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)](https://cn.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-01Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)](https://cn.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg)
+<!--  Mon Mar 02 2026 02:07:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-02Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)
   
 <!-- END -->
