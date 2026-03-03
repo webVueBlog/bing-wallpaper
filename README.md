@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 02 2026 02:07:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-02Suffragette celebrations, August 27, 1920, New York City (© Keystone/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.SuffragettesNY_EN-US2900175138_UHD.jpg)
+<!--  Tue Mar 03 2026 02:09:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-03Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)](https://cn.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg)
   
 <!-- END -->
