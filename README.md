@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 04 2026 02:03:31 GMT+0000 (Coordinated Universal Time) -->
-  ![African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-04African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://cn.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg)
+<!--  Thu Mar 05 2026 02:06:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-05Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
   
 <!-- END -->
