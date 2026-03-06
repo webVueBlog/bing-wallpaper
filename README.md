@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 05 2026 02:06:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-05Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg)
+<!--  Fri Mar 06 2026 02:05:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-06Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)
   
 <!-- END -->
