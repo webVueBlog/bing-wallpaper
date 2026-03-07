@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 06 2026 02:05:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-06Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)](https://cn.bing.com/th?id=OHR.GoremeTwilight_EN-US3224835148_UHD.jpg)
+<!--  Sat Mar 07 2026 01:58:52 GMT+0000 (Coordinated Universal Time) -->
+  ![The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-07The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)](https://cn.bing.com/th?id=OHR.WaveDenmark_EN-US6550970747_UHD.jpg)
   
 <!-- END -->
