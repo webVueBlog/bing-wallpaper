@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 08 2026 02:08:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-08Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg)
+<!--  Mon Mar 09 2026 02:09:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-09Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg)
   
 <!-- END -->
