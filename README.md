@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 09 2026 02:09:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-09Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)](https://cn.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg)
+<!--  Tue Mar 10 2026 02:01:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)](https://cn.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-10Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)](https://cn.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg)
   
 <!-- END -->
