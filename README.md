@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 11 2026 02:01:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-11Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg)
+<!--  Thu Mar 12 2026 02:08:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-12Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.PeachBloom_EN-US6957157989_UHD.jpg)
   
 <!-- END -->
