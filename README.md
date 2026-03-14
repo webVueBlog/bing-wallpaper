@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 13 2026 02:05:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-13Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)](https://cn.bing.com/th?id=OHR.SunbitternEcuador_EN-US7059069378_UHD.jpg)
+<!--  Sat Mar 14 2026 02:03:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-14Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)](https://cn.bing.com/th?id=OHR.VendeeVaults_EN-US7120114878_UHD.jpg)
   
 <!-- END -->
