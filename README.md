@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Mar 15 2026 02:28:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-15Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)](https://cn.bing.com/th?id=OHR.CornwallDolmen_EN-US7192709883_UHD.jpg)
+<!--  Mon Mar 16 2026 02:29:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-16Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)](https://cn.bing.com/th?id=OHR.PacificRimNP_EN-US7242831009_UHD.jpg)
   
 <!-- END -->
