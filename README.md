@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 17 2026 02:08:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)](https://cn.bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-17Giant panda eating bamboo, China (© Entwicklungsknecht/Getty Images)](https://cn.bing.com/th?id=OHR.PandaForest_EN-US7436757535_UHD.jpg)
+<!--  Wed Mar 18 2026 02:12:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-18Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg)
   
 <!-- END -->
