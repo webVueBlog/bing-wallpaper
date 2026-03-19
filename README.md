@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Mar 18 2026 02:12:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-18Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)](https://cn.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg)
+<!--  Thu Mar 19 2026 02:21:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-19Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg)
   
 <!-- END -->
