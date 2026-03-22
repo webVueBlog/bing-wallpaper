@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Mar 21 2026 02:01:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-21Snowdrops in spring (© klagyivik/Getty Images)](https://cn.bing.com/th?id=OHR.SpringSnowdrops_EN-US5032204696_UHD.jpg)
+<!--  Sun Mar 22 2026 02:21:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-22Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LeteaForest_EN-US5404369914_UHD.jpg)
   
 <!-- END -->
