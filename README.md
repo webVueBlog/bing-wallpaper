@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Mar 23 2026 02:22:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-23Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)](https://cn.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg)
+<!--  Tue Mar 24 2026 02:07:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-24Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg)
   
 <!-- END -->
