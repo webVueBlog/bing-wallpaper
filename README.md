@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Mar 26 2026 02:25:50 GMT+0000 (Coordinated Universal Time) -->
-  ![Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-26Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)](https://cn.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg)
+<!--  Fri Mar 27 2026 02:27:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-27Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg)
   
 <!-- END -->
