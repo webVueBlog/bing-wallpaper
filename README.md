@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Mar 27 2026 02:27:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-27Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)](https://cn.bing.com/th?id=OHR.LoganCreek_EN-US6075548781_UHD.jpg)
+<!--  Sat Mar 28 2026 02:10:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-28Radio City Music Hall in New York City (© Clarence Holmes Photography/Alamy)](https://cn.bing.com/th?id=OHR.RadioCityHall_EN-US6218301556_UHD.jpg)
   
 <!-- END -->
