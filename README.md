@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Mar 31 2026 02:27:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-03-31Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IndiaCranes_EN-US6414900321_UHD.jpg)
+<!--  Wed Apr 01 2026 02:38:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-01Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)](https://cn.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg)
   
 <!-- END -->
