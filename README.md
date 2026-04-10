@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 09 2026 02:24:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-09Seattle, Washington (© Jim Patterson/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SeattleSunrise_EN-US6729754002_UHD.jpg)
+<!--  Fri Apr 10 2026 02:35:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-10Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)](https://cn.bing.com/th?id=OHR.WalesWaterfall_EN-US7187055503_UHD.jpg)
   
 <!-- END -->
