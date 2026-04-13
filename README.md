@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Apr 12 2026 02:37:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-12Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)](https://cn.bing.com/th?id=OHR.PlayaPapagayo_EN-US7775494888_UHD.jpg)
+<!--  Mon Apr 13 2026 02:42:35 GMT+0000 (Coordinated Universal Time) -->
+  ![City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-13City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg)
   
 <!-- END -->
