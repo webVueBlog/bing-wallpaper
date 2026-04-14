@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 13 2026 02:42:35 GMT+0000 (Coordinated Universal Time) -->
-  ![City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-13City lights streak below, taken from the International Space Station (© NASA)](https://cn.bing.com/th?id=OHR.SpaceTrails_EN-US8009082939_UHD.jpg)
+<!--  Tue Apr 14 2026 02:35:53 GMT+0000 (Coordinated Universal Time) -->
+  ![Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-14Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg)
   
 <!-- END -->
