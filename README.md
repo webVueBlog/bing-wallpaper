@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Apr 14 2026 02:35:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-14Milky Way over Anza-Borrego Desert State Park, California (© Kevin Key/Slworking)/Getty Images)](https://cn.bing.com/th?id=OHR.BorregoStars_EN-US8252825773_UHD.jpg)
+<!--  Wed Apr 15 2026 02:34:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](https://cn.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-15Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)](https://cn.bing.com/th?id=OHR.OcellarisClownfish_EN-US8509728179_UHD.jpg)
   
 <!-- END -->
