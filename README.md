@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Apr 17 2026 02:36:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-17Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)](https://cn.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg)
+<!--  Sat Apr 18 2026 02:27:49 GMT+0000 (Coordinated Universal Time) -->
+  ![Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-18Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg)
   
 <!-- END -->
