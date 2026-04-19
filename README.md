@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Apr 18 2026 02:27:49 GMT+0000 (Coordinated Universal Time) -->
-  ![Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-18Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg)
+<!--  Sun Apr 19 2026 02:42:50 GMT+0000 (Coordinated Universal Time) -->
+  ![Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-19Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-US0752877903_UHD.jpg)
   
 <!-- END -->
