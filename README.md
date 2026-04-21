@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 20 2026 02:43:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-20Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)](https://cn.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg)
+<!--  Tue Apr 21 2026 02:37:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-21Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg)
   
 <!-- END -->
