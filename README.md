@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Apr 22 2026 02:35:57 GMT+0000 (Coordinated Universal Time) -->
-  ![European hedgehog, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-22European hedgehog, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpringHedgehog_EN-US1312133826_UHD.jpg)
+<!--  Thu Apr 23 2026 02:39:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-23Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)](https://cn.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg)
   
 <!-- END -->
