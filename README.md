@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Apr 27 2026 02:48:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-27Pink apple blossoms, Avila Beach, California (© Mimi Ditchie Photography/Getty Images)](https://cn.bing.com/th?id=OHR.AppleBlossoms_EN-US2396192691_UHD.jpg)
+<!--  Tue Apr 28 2026 02:55:22 GMT+0000 (Coordinated Universal Time) -->
+  ![The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-28The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg)
   
 <!-- END -->
