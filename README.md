@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Apr 30 2026 02:55:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-04-30Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg)
+<!--  Fri May 01 2026 03:26:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-01Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
   
 <!-- END -->
