@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 03 2026 02:55:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-03Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg)
+<!--  Mon May 04 2026 02:53:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-04Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg)
   
 <!-- END -->
