@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed May 06 2026 02:51:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-06Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)](https://cn.bing.com/th?id=OHR.MayoAgave_EN-US0521416350_UHD.jpg)
+<!--  Thu May 07 2026 02:52:29 GMT+0000 (Coordinated Universal Time) -->
+  ![Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-07Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)](https://cn.bing.com/th?id=OHR.BulgariaPlains_EN-US0576020979_UHD.jpg)
   
 <!-- END -->
