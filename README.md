@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri May 08 2026 02:55:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)](https://cn.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-08Kofa National Wildlife Refuge, Arizona (© Denis Tangney Jr/Getty Images)](https://cn.bing.com/th?id=OHR.Kofa_EN-US0655690866_UHD.jpg)
+<!--  Sat May 09 2026 02:50:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-09Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg)
   
 <!-- END -->
