@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 09 2026 02:50:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-09Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardinianDonkey_EN-US0705945312_UHD.jpg)
+<!--  Sun May 10 2026 02:57:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-10Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)](https://cn.bing.com/th?id=OHR.SkradinskiBuk_EN-US0750882952_UHD.jpg)
   
 <!-- END -->
