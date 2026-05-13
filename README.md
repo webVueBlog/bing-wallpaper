@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue May 12 2026 03:20:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-12Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg)
+<!--  Wed May 13 2026 03:28:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Atlantic puffins, Wales (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-13Atlantic puffins, Wales (© FLPA/Alamy)](https://cn.bing.com/th?id=OHR.Fratercula_EN-US1020898539_UHD.jpg)
   
 <!-- END -->
