@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon May 18 2026 03:41:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-18Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)](https://cn.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg)
+<!--  Tue May 19 2026 03:35:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-19Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg)
   
 <!-- END -->
