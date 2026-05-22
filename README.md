@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu May 21 2026 03:42:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)](https://cn.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-21Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)](https://cn.bing.com/th?id=OHR.BumbleBee_EN-US0634100541_UHD.jpg)
+<!--  Fri May 22 2026 03:40:25 GMT+0000 (Coordinated Universal Time) -->
+  ![Tea terraces in Sichuan Province, China (© lzf/Shutterstock)](https://cn.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-22Tea terraces in Sichuan Province, China (© lzf/Shutterstock)](https://cn.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg)
   
 <!-- END -->
