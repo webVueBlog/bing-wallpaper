@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat May 23 2026 02:56:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-23Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)](https://cn.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg)
+<!--  Sun May 24 2026 03:37:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Turtles with butterflies (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-24Turtles with butterflies (© Patrick Gallet/Getty Images)](https://cn.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg)
   
 <!-- END -->
