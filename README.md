@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun May 31 2026 03:53:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-05-31Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)](https://cn.bing.com/th?id=OHR.EquusQuagga_EN-US8240577582_UHD.jpg)
+<!--  Mon Jun 01 2026 04:06:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-01Aerial view of Everglades National Park, Florida (© Tetra Images/Getty Images)](https://cn.bing.com/th?id=OHR.EvergladesWetlands_EN-US8572465847_UHD.jpg)
   
 <!-- END -->
