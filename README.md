@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 03 2026 04:08:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-03Highway through Xitai Jinaier Lake, Qinghai Province, China (© Kaicheng Xu/Getty Images)](https://cn.bing.com/th?id=OHR.Qinghai_EN-US8807254633_UHD.jpg)
+<!--  Thu Jun 04 2026 04:02:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-04Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
   
 <!-- END -->
