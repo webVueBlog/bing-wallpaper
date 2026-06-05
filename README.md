@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 04 2026 04:02:19 GMT+0000 (Coordinated Universal Time) -->
-  ![Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-04Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.BardenasReales_EN-US9044910730_UHD.jpg)
+<!--  Fri Jun 05 2026 03:49:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-05Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
   
 <!-- END -->
