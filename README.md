@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 05 2026 03:49:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-05Snowy egret preening, central Florida, USA (© Donald M. Jones/Minden Pictures)](https://cn.bing.com/th?id=OHR.PreeningEgret_EN-US9350488148_UHD.jpg)
+<!--  Sat Jun 06 2026 03:31:07 GMT+0000 (Coordinated Universal Time) -->
+  ![View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-06View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)](https://cn.bing.com/th?id=OHR.WedLapland_EN-US9813120088_UHD.jpg)
   
 <!-- END -->
