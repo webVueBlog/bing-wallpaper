@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 07 2026 03:57:37 GMT+0000 (Coordinated Universal Time) -->
-  ![Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-07Natchez Trace Parkway, Tupelo, Mississippi, USA (© The best photo is earned/Getty Images Plus)](https://cn.bing.com/th?id=OHR.HikingNatchez_EN-US0663065299_UHD.jpg)
+<!--  Mon Jun 08 2026 04:02:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-08Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg)
   
 <!-- END -->
