@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 08 2026 04:02:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-08Atlanta Botanical Garden, Atlanta, Georgia (© Marcus E Jones/Shutterstock)](https://cn.bing.com/th?id=OHR.GardenAtlanta_EN-US2319128074_UHD.jpg)
+<!--  Tue Jun 09 2026 03:32:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-09Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)](https://cn.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg)
   
 <!-- END -->
