@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 11 2026 03:59:35 GMT+0000 (Coordinated Universal Time) -->
-  ![Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-11Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.Hnausapollur_EN-US2080493040_UHD.jpg)
+<!--  Fri Jun 12 2026 03:59:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-12Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg)
   
 <!-- END -->
