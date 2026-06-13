@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 12 2026 03:59:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-12Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)](https://cn.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg)
+<!--  Sat Jun 13 2026 03:46:44 GMT+0000 (Coordinated Universal Time) -->
+  ![European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-13European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg)
   
 <!-- END -->
