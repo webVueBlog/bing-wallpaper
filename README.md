@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 15 2026 04:18:17 GMT+0000 (Coordinated Universal Time) -->
-  ![US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-15US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)](https://cn.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg)
+<!--  Tue Jun 16 2026 04:08:52 GMT+0000 (Coordinated Universal Time) -->
+  ![Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-16Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg)
   
 <!-- END -->
