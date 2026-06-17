@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jun 16 2026 04:08:52 GMT+0000 (Coordinated Universal Time) -->
-  ![Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-16Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg)
+<!--  Wed Jun 17 2026 04:08:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-17Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg)
   
 <!-- END -->
