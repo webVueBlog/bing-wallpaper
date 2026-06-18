@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jun 17 2026 04:08:43 GMT+0000 (Coordinated Universal Time) -->
-  ![Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-17Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SevenMileTurtle_EN-US6164934763_UHD.jpg)
+<!--  Thu Jun 18 2026 03:59:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-18Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)](https://cn.bing.com/th?id=OHR.TremolaRoad_EN-US6212254886_UHD.jpg)
   
 <!-- END -->
