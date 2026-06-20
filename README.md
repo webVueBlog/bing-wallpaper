@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 19 2026 04:19:25 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-19Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)](https://cn.bing.com/th?id=OHR.Saqsaywaman_EN-US6250260694_UHD.jpg)
+<!--  Sat Jun 20 2026 03:40:48 GMT+0000 (Coordinated Universal Time) -->
+  ![National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-20National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg)
   
 <!-- END -->
