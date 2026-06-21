@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 20 2026 03:40:48 GMT+0000 (Coordinated Universal Time) -->
-  ![National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-20National Museum of African American History and Culture, Washington, DC (© Walter Bibikow/Alamy)](https://cn.bing.com/th?id=OHR.JuneteenthNMAAHC_EN-US6306942628_UHD.jpg)
+<!--  Sun Jun 21 2026 04:14:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-21Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg)
   
 <!-- END -->
