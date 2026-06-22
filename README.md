@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jun 21 2026 04:14:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-21Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)](https://cn.bing.com/th?id=OHR.ArchedIceberg_EN-US6345786269_UHD.jpg)
+<!--  Mon Jun 22 2026 04:15:43 GMT+0000 (Coordinated Universal Time) -->
+  ![King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-22King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg)
   
 <!-- END -->
