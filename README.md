@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 22 2026 04:15:43 GMT+0000 (Coordinated Universal Time) -->
-  ![King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-22King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)](https://cn.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg)
+<!--  Tue Jun 23 2026 03:35:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-23Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg)
   
 <!-- END -->
