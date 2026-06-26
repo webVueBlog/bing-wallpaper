@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jun 25 2026 03:34:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Butterfly pollinating on yellow flower (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-25Butterfly pollinating on yellow flower (© lzh/Getty Images)](https://cn.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg)
+<!--  Fri Jun 26 2026 03:41:41 GMT+0000 (Coordinated Universal Time) -->
+  ![Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-26Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg)
   
 <!-- END -->
