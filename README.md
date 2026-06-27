@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jun 26 2026 03:41:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-26Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)](https://cn.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg)
+<!--  Sat Jun 27 2026 03:28:44 GMT+0000 (Coordinated Universal Time) -->
+  ![The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-27The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg)
   
 <!-- END -->
