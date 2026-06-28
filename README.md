@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jun 27 2026 03:28:44 GMT+0000 (Coordinated Universal Time) -->
-  ![The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-27The River Thames, London, England (© Daniel Lange/Getty Images)](https://cn.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg)
+<!--  Sun Jun 28 2026 03:51:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)](https://cn.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-28Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)](https://cn.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg)
   
 <!-- END -->
