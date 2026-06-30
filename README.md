@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jun 29 2026 03:56:27 GMT+0000 (Coordinated Universal Time) -->
-  ![Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-29Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)](https://cn.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg)
+<!--  Tue Jun 30 2026 03:39:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-06-30Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)](https://cn.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg)
   
 <!-- END -->
