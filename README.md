@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 02 2026 03:35:56 GMT+0000 (Coordinated Universal Time) -->
-  ![Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-02Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)](https://cn.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg)
+<!--  Fri Jul 03 2026 03:16:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-03Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)
   
 <!-- END -->
