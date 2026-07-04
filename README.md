@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 03 2026 03:16:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-03Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg)
+<!--  Sat Jul 04 2026 02:55:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-04Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg)
   
 <!-- END -->
