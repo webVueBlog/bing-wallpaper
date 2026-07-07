@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 06 2026 03:32:53 GMT+0000 (Coordinated Universal Time) -->
-  ![Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-06Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)](https://cn.bing.com/th?id=OHR.LavenderRows_EN-US2831933520_UHD.jpg)
+<!--  Tue Jul 07 2026 03:23:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-07Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)
   
 <!-- END -->
