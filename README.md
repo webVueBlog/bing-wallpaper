@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 07 2026 03:23:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-07Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.SyracuseItaly_EN-US3071727282_UHD.jpg)
+<!--  Wed Jul 08 2026 02:41:07 GMT+0000 (Coordinated Universal Time) -->
+  ![Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-08Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg)
   
 <!-- END -->
