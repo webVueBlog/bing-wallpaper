@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 08 2026 02:41:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-08Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)](https://cn.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg)
+<!--  Fri Jul 10 2026 03:19:19 GMT+0000 (Coordinated Universal Time) -->
+  ![Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)](https://cn.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-10Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)](https://cn.bing.com/th?id=OHR.SapaVietnam_EN-US4008171614_UHD.jpg)
   
 <!-- END -->
