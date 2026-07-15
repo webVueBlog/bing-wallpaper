@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 14 2026 02:29:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](https://cn.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-14Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)](https://cn.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg)
+<!--  Wed Jul 15 2026 02:27:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-15Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg)
   
 <!-- END -->
