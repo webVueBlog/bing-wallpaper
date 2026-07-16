@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Jul 15 2026 02:27:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-15Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg)
+<!--  Thu Jul 16 2026 02:35:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-16Marie Lake, John Muir Wilderness near Bishop, California (© Steve Dunleavy/Getty Images)](https://cn.bing.com/th?id=OHR.MarieLake_EN-US0365186943_UHD.jpg)
   
 <!-- END -->
