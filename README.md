@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Jul 17 2026 02:37:36 GMT+0000 (Coordinated Universal Time) -->
-  ![Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-17Navy Pier, Chicago, Illinois (© Christopher.F Photography/Getty Images)](https://cn.bing.com/th?id=OHR.NavyPier_EN-US1069960047_UHD.jpg)
+<!--  Sat Jul 18 2026 02:28:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-18Sunbeds on the beach at Vai, Crete, Greece (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_EN-US8985051242_UHD.jpg)
   
 <!-- END -->
