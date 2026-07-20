@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Jul 19 2026 02:42:33 GMT+0000 (Coordinated Universal Time) -->
-  ![Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](https://cn.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-19Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)](https://cn.bing.com/th?id=OHR.DevilsBridge_EN-US3505962815_UHD.jpg)
+<!--  Mon Jul 20 2026 02:57:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-20Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg)
   
 <!-- END -->
