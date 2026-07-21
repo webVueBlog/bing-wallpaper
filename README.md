@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 20 2026 02:57:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-20Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.HirundoRustica_EN-US3193611104_UHD.jpg)
+<!--  Tue Jul 21 2026 02:40:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Moon and Earth captured by the Artemis II crew (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-21Moon and Earth captured by the Artemis II crew (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg)
   
 <!-- END -->
