@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 21 2026 02:40:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Moon and Earth captured by the Artemis II crew (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-21Moon and Earth captured by the Artemis II crew (© NASA)](https://cn.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg)
+<!--  Wed Jul 22 2026 02:38:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-22Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg)
   
 <!-- END -->
