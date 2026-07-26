@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Jul 25 2026 02:37:24 GMT+0000 (Coordinated Universal Time) -->
-  ![Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-25Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.GalapagosFlamingos_EN-US0364264116_UHD.jpg)
+<!--  Sun Jul 26 2026 02:46:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-26Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)](https://cn.bing.com/th?id=OHR.GaliciaBeach_EN-US1635715019_UHD.jpg)
   
 <!-- END -->
