@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Jul 27 2026 02:54:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-27Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg)
+<!--  Tue Jul 28 2026 02:31:11 GMT+0000 (Coordinated Universal Time) -->
+  ![Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-28Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg)
   
 <!-- END -->
