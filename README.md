@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Jul 28 2026 02:31:11 GMT+0000 (Coordinated Universal Time) -->
-  ![Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-28Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)](https://cn.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg)
+<!--  Wed Jul 29 2026 02:36:16 GMT+0000 (Coordinated Universal Time) -->
+  ![A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-29A kelp forest off Anacapa Island, Channel Islands National Park, California (© Ian Shive/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.ChannelKelp_EN-US3809417919_UHD.jpg)
   
 <!-- END -->
