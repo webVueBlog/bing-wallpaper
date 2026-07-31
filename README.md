@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Jul 30 2026 02:23:38 GMT+0000 (Coordinated Universal Time) -->
-  ![A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-30A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)](https://cn.bing.com/th?id=OHR.TigerFamily_EN-US4918106900_UHD.jpg)
+<!--  Fri Jul 31 2026 02:48:05 GMT+0000 (Coordinated Universal Time) -->
+  ![Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-07-31Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg)
   
 <!-- END -->
