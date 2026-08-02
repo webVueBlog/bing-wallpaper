@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 01 2026 02:46:31 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-01Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)](https://cn.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg)
+<!--  Sun Aug 02 2026 02:46:24 GMT+0000 (Coordinated Universal Time) -->
+  ![A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-02A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)](https://cn.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg)
   
 <!-- END -->
