@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 04 2026 02:30:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-04Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)](https://cn.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg)
+<!--  Wed Aug 05 2026 02:29:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-05Florida burrowing owlet, Cape Coral, Florida, USA (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.AdorableOwlet_EN-US7873975586_UHD.jpg)
   
 <!-- END -->
