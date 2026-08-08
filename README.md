@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 07 2026 02:38:29 GMT+0000 (Coordinated Universal Time) -->
-  ![Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-07Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)](https://cn.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg)
+<!--  Sat Aug 08 2026 01:37:24 GMT+0000 (Coordinated Universal Time) -->
+  ![Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-08Lime Kiln Lighthouse on San Juan Island, Washington State (© Edmund Lowe Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.LimeKiln_EN-US2748515593_UHD.jpg)
   
 <!-- END -->
