@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 09 2026 01:43:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-09Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)](https://cn.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg)
+<!--  Mon Aug 10 2026 01:46:21 GMT+0000 (Coordinated Universal Time) -->
+  ![Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-10Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)](https://cn.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg)
   
 <!-- END -->
