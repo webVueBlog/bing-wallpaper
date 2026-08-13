@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Aug 12 2026 01:54:41 GMT+0000 (Coordinated Universal Time) -->
-  ![Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-12Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)](https://cn.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg)
+<!--  Thu Aug 13 2026 01:56:59 GMT+0000 (Coordinated Universal Time) -->
+  ![A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-13A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)](https://cn.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg)
   
 <!-- END -->
