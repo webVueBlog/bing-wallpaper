@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Aug 14 2026 01:54:45 GMT+0000 (Coordinated Universal Time) -->
-  ![Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-14Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.PerseidasTenerife_EN-US4798593153_UHD.jpg)
+<!--  Sat Aug 15 2026 01:12:02 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-15Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg)
   
 <!-- END -->
