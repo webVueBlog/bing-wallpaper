@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 15 2026 01:12:02 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-15Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)](https://cn.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-US5004733603_UHD.jpg)
+<!--  Sun Aug 16 2026 01:16:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-16Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg)
   
 <!-- END -->
