@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 16 2026 01:16:08 GMT+0000 (Coordinated Universal Time) -->
-  ![Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-16Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.ValleyDreams_EN-US5250331985_UHD.jpg)
+<!--  Mon Aug 17 2026 01:13:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-17Ruins of Ross Errilly Friary, County Galway, Ireland (© Maria Janus/Shutterstock)](https://cn.bing.com/th?id=OHR.RossErrillyRuins_EN-US5729358123_UHD.jpg)
   
 <!-- END -->
