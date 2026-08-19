@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 18 2026 01:11:09 GMT+0000 (Coordinated Universal Time) -->
-  ![Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-18Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CabilaoClowns_EN-US6302440247_UHD.jpg)
+<!--  Wed Aug 19 2026 01:12:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-19Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)](https://cn.bing.com/th?id=OHR.Palmanova_EN-US0340289339_UHD.jpg)
   
 <!-- END -->
