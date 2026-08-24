@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 23 2026 01:17:40 GMT+0000 (Coordinated Universal Time) -->
-  ![Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-23Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)](https://cn.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg)
+<!--  Mon Aug 24 2026 01:15:13 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-24Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg)
   
 <!-- END -->
