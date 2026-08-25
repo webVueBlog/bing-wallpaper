@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 24 2026 01:15:13 GMT+0000 (Coordinated Universal Time) -->
-  ![Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-24Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)](https://cn.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg)
+<!--  Tue Aug 25 2026 01:13:34 GMT+0000 (Coordinated Universal Time) -->
+  ![Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-25Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg)
   
 <!-- END -->
