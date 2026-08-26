@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Aug 25 2026 01:13:34 GMT+0000 (Coordinated Universal Time) -->
-  ![Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-25Brooklyn Bridge, New York City (© shayes17/Getty Images)](https://cn.bing.com/th?id=OHR.BKBridge_EN-US2923468858_UHD.jpg)
+<!--  Wed Aug 26 2026 01:16:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-26Sunrise in Redwood National and State Parks, California (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.RedwoodPark_EN-US3199427613_UHD.jpg)
   
 <!-- END -->
