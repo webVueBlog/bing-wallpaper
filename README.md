@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Aug 27 2026 07:49:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-28Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)](https://cn.bing.com/th?id=OHR.LakeMagadi_EN-US3401664434_UHD.jpg)
+<!--  Fri Aug 28 2026 09:53:27 GMT+0000 (Coordinated Universal Time) -->
+  ![Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-29Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg)
   
 <!-- END -->
