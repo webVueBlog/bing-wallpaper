@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Aug 29 2026 05:53:07 GMT+0000 (Coordinated Universal Time) -->
-  ![Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-29Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)](https://cn.bing.com/th?id=OHR.MichelSunset_EN-US3527235033_UHD.jpg)
+<!--  Sun Aug 30 2026 03:57:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-30Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg)
   
 <!-- END -->
