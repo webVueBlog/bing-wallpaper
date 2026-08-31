@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Aug 30 2026 03:57:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-30Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)](https://cn.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg)
+<!--  Mon Aug 31 2026 04:00:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](https://cn.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-31Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](https://cn.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg)
   
 <!-- END -->
