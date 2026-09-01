@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Aug 31 2026 04:00:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](https://cn.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-08-31Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)](https://cn.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg)
+<!--  Tue Sep 01 2026 03:50:59 GMT+0000 (Coordinated Universal Time) -->
+  ![Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-01Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg)
   
 <!-- END -->
