@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 01 2026 03:50:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-01Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)](https://cn.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg)
+<!--  Wed Sep 02 2026 03:10:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-02Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg)
   
 <!-- END -->
