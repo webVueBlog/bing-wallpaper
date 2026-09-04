@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 03 2026 03:12:30 GMT+0000 (Coordinated Universal Time) -->
-  ![Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-03Traditional beach huts, Southwold, Suffolk Heritage Coast, England (© stevendocwra/Getty Images)](https://cn.bing.com/th?id=OHR.SuffolkHuts_EN-US3987062531_UHD.jpg)
+<!--  Fri Sep 04 2026 03:11:06 GMT+0000 (Coordinated Universal Time) -->
+  ![Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-04Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)](https://cn.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg)
   
 <!-- END -->
