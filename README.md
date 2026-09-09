@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Sep 08 2026 03:19:51 GMT+0000 (Coordinated Universal Time) -->
-  !['Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-08'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)](https://cn.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg)
+<!--  Wed Sep 09 2026 03:23:15 GMT+0000 (Coordinated Universal Time) -->
+  ![Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-09Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg)
   
 <!-- END -->
