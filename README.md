@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 09 2026 03:23:15 GMT+0000 (Coordinated Universal Time) -->
-  ![Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-09Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)](https://cn.bing.com/th?id=OHR.BeechEngland_EN-US4535769514_UHD.jpg)
+<!--  Thu Sep 10 2026 03:21:57 GMT+0000 (Coordinated Universal Time) -->
+  ![Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-10Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)](https://cn.bing.com/th?id=OHR.GabitKeni_EN-US4620523183_UHD.jpg)
   
 <!-- END -->
