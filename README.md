@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 11 2026 03:18:18 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-11Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Olvera_EN-US4712443253_UHD.jpg)
+<!--  Sat Sep 12 2026 03:23:35 GMT+0000 (Coordinated Universal Time) -->
+  ![The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-12The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg)
   
 <!-- END -->
