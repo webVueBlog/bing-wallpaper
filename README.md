@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 12 2026 03:23:35 GMT+0000 (Coordinated Universal Time) -->
-  ![The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-12The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)](https://cn.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg)
+<!--  Sun Sep 13 2026 03:29:25 GMT+0000 (Coordinated Universal Time) -->
+  ![California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-13California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)](https://cn.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg)
   
 <!-- END -->
