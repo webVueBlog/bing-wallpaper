@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 14 2026 03:40:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-14Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)](https://cn.bing.com/th?id=OHR.MisurinaPeak_EN-US4897144498_UHD.jpg)
+<!--  Tue Sep 15 2026 03:40:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Field of kochia plants, China (© lingqi xie/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-15Field of kochia plants, China (© lingqi xie/Getty Images)](https://cn.bing.com/th?id=OHR.KochiaChina_EN-US5037126636_UHD.jpg)
   
 <!-- END -->
