@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 16 2026 03:37:16 GMT+0000 (Coordinated Universal Time) -->
-  ![Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-16Fort Union National Monument, New Mexico (© zrfphoto/Getty Images)](https://cn.bing.com/th?id=OHR.FortUnion_EN-US5138724452_UHD.jpg)
+<!--  Thu Sep 17 2026 03:42:26 GMT+0000 (Coordinated Universal Time) -->
+  ![Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-17Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg)
   
 <!-- END -->
