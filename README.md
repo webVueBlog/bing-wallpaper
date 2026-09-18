@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 17 2026 03:42:26 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-17Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)](https://cn.bing.com/th?id=OHR.IcyCubs_EN-US5222104616_UHD.jpg)
+<!--  Fri Sep 18 2026 03:28:35 GMT+0000 (Coordinated Universal Time) -->
+  ![Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-18Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.Santenay_EN-US5299702509_UHD.jpg)
   
 <!-- END -->
