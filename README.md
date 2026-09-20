@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Sep 19 2026 03:25:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-19Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)](https://cn.bing.com/th?id=OHR.WinnatsPassPeak_EN-US6112068451_UHD.jpg)
+<!--  Sun Sep 20 2026 03:42:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-20Alphorn players, Bavaria, Germany (© U. J. Alexander/Shutterstock)](https://cn.bing.com/th?id=OHR.AlphornBavaria_EN-US6200857270_UHD.jpg)
   
 <!-- END -->
