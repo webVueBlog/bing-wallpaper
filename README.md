@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Sep 24 2026 03:26:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-24Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_EN-US7313336185_UHD.jpg)
+<!--  Fri Sep 25 2026 03:43:22 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-25Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg)
   
 <!-- END -->
