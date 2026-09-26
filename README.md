@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Sep 25 2026 03:43:22 GMT+0000 (Coordinated Universal Time) -->
-  ![Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-25Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-US9261454857_UHD.jpg)
+<!--  Sat Sep 26 2026 03:49:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-26Chinese lanterns for Mid-Autumn Festival celebration (© LeeYiuTung/Getty Images)](https://cn.bing.com/th?id=OHR.MidAutumn2026_EN-US9341405351_UHD.jpg)
   
 <!-- END -->
