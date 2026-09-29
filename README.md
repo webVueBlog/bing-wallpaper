@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Sep 28 2026 03:59:14 GMT+0000 (Coordinated Universal Time) -->
-  ![Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-28Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)](https://cn.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg)
+<!--  Tue Sep 29 2026 04:33:45 GMT+0000 (Coordinated Universal Time) -->
+  ![Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-29Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)](https://cn.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg)
   
 <!-- END -->
