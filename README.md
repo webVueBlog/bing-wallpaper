@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Sep 30 2026 04:16:16 GMT+0000 (Coordinated Universal Time) -->
-  ![The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-09-30The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)](https://cn.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg)
+<!--  Thu Oct 01 2026 04:28:28 GMT+0000 (Coordinated Universal Time) -->
+  ![Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-01Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg)
   
 <!-- END -->
