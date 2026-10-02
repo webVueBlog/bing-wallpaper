@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 01 2026 04:28:28 GMT+0000 (Coordinated Universal Time) -->
-  ![Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-01Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)](https://cn.bing.com/th?id=OHR.BeardReedling_EN-US0124350202_UHD.jpg)
+<!--  Fri Oct 02 2026 04:21:10 GMT+0000 (Coordinated Universal Time) -->
+  ![Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-02Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg)
   
 <!-- END -->
