@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 02 2026 04:21:10 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-02Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg)
+<!--  Sat Oct 03 2026 04:03:17 GMT+0000 (Coordinated Universal Time) -->
+  ![Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-03Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)](https://cn.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg)
   
 <!-- END -->
