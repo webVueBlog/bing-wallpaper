@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 07 2026 04:37:03 GMT+0000 (Coordinated Universal Time) -->
-  ![Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-07Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)](https://cn.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg)
+<!--  Thu Oct 08 2026 04:47:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-08Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)
   
 <!-- END -->
