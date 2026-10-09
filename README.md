@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 08 2026 04:47:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-08Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)](https://cn.bing.com/th?id=OHR.ForestofDean_EN-US7262962048_UHD.jpg)
+<!--  Fri Oct 09 2026 04:50:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-09Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg)
   
 <!-- END -->
