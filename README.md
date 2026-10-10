@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 09 2026 04:50:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-09Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)](https://cn.bing.com/th?id=OHR.MayotteOctopus_EN-US5694987016_UHD.jpg)
+<!--  Sat Oct 10 2026 04:36:25 GMT+0000 (Coordinated Universal Time) -->
+  ![View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-10View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg)
   
 <!-- END -->
