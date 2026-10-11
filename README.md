@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 10 2026 04:36:25 GMT+0000 (Coordinated Universal Time) -->
-  ![View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-10View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.IlesSanguinaires_EN-US5801644173_UHD.jpg)
+<!--  Sun Oct 11 2026 04:21:12 GMT+0000 (Coordinated Universal Time) -->
+  ![Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-11Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)](https://cn.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg)
   
 <!-- END -->
