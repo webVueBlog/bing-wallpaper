@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 14 2026 03:46:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-14Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)](https://cn.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg)
+<!--  Thu Oct 15 2026 03:27:39 GMT+0000 (Coordinated Universal Time) -->
+  ![Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-15Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg)
   
 <!-- END -->
