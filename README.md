@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Oct 15 2026 03:27:39 GMT+0000 (Coordinated Universal Time) -->
-  ![Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-15Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)](https://cn.bing.com/th?id=OHR.AmmoniteFossils_EN-US6354038755_UHD.jpg)
+<!--  Fri Oct 16 2026 03:23:24 GMT+0000 (Coordinated Universal Time) -->
+  ![View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-16View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg)
   
 <!-- END -->
