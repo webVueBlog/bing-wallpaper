@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Oct 16 2026 03:23:24 GMT+0000 (Coordinated Universal Time) -->
-  ![View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-16View of the Wroclaw Market Square from the Witches' Bridge in Wroclaw, Poland (© Piotr Mitelski/Shutterstock)](https://cn.bing.com/th?id=OHR.WroclawPoland_EN-US7757698922_UHD.jpg)
+<!--  Sat Oct 17 2026 03:14:03 GMT+0000 (Coordinated Universal Time) -->
+  ![Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-17Mount Sneffels in the San Juan Mountains near Ridgway, Colorado (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SneffelsAutumn_EN-US3953128777_UHD.jpg)
   
 <!-- END -->
