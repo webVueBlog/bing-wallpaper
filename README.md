@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 20 2026 03:40:12 GMT+0000 (Coordinated Universal Time) -->
-  ![Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-20Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)](https://cn.bing.com/th?id=OHR.VeniceSunrise_EN-US6714393168_UHD.jpg)
+<!--  Wed Oct 21 2026 03:32:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-21Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://cn.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg)
   
 <!-- END -->
