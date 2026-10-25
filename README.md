@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 24 2026 03:31:00 GMT+0000 (Coordinated Universal Time) -->
-  ![Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-24Two gray wolves, Yellowstone National Park, Wyoming (© John Morrison/Getty Images)](https://cn.bing.com/th?id=OHR.YellowstoneWolves_EN-US7105521535_UHD.jpg)
+<!--  Sun Oct 25 2026 03:27:31 GMT+0000 (Coordinated Universal Time) -->
+  ![Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-25Royal Portuguese Cabinet of Reading, Rio de Janeiro, Brazil (© Antonio Salaverry/Shutterstock)](https://cn.bing.com/th?id=OHR.PortugueseLibrary_EN-US7519268149_UHD.jpg)
   
 <!-- END -->
