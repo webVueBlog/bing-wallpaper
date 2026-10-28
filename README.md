@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Oct 27 2026 03:55:59 GMT+0000 (Coordinated Universal Time) -->
-  ![Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-27Gray-headed flying fox, Victoria, Australia (© Doug Gimesy/Nature Picture Library)](https://cn.bing.com/th?id=OHR.HangingBat_EN-US7714746725_UHD.jpg)
+<!--  Wed Oct 28 2026 04:18:29 GMT+0000 (Coordinated Universal Time) -->
+  ![A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-28A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg)
   
 <!-- END -->
