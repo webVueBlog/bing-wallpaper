@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Oct 28 2026 04:18:29 GMT+0000 (Coordinated Universal Time) -->
-  ![A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-28A grove of pond cypress trees with fall foliage, Georgia, USA (© Chris Moore/Getty Images)](https://cn.bing.com/th?id=OHR.PondCypress_EN-US0123444779_UHD.jpg)
+<!--  Thu Oct 29 2026 04:38:43 GMT+0000 (Coordinated Universal Time) -->
+  ![Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-29Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)](https://cn.bing.com/th?id=OHR.KuneticeCastle_EN-US9492527404_UHD.jpg)
   
 <!-- END -->
