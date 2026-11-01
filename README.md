@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Oct 31 2026 04:22:23 GMT+0000 (Coordinated Universal Time) -->
-  ![Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-10-31Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg)
+<!--  Sun Nov 01 2026 04:41:11 GMT+0000 (Coordinated Universal Time) -->
+  ![St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-01St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)
   
 <!-- END -->
