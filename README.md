@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 01 2026 04:41:11 GMT+0000 (Coordinated Universal Time) -->
-  ![St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-01St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg)
+<!--  Mon Nov 02 2026 04:43:08 GMT+0000 (Coordinated Universal Time) -->
+  ![Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-02Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)](https://cn.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg)
   
 <!-- END -->
