@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 03 2026 05:34:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-03Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)](https://cn.bing.com/th?id=OHR.HudsonBear_EN-US0297833232_UHD.jpg)
+<!--  Wed Nov 04 2026 05:02:33 GMT+0000 (Coordinated Universal Time) -->
+  ![Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-04Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)](https://cn.bing.com/th?id=OHR.AlpineBraies_EN-US6636326357_UHD.jpg)
   
 <!-- END -->
