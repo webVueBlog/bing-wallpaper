@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 05 2026 05:25:13 GMT+0000 (Coordinated Universal Time) -->
-  ![People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-05People rowing among colorful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnChina_EN-US0467722422_UHD.jpg)
+<!--  Fri Nov 06 2026 05:24:04 GMT+0000 (Coordinated Universal Time) -->
+  ![Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-06Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg)
   
 <!-- END -->
