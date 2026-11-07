@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 06 2026 05:24:04 GMT+0000 (Coordinated Universal Time) -->
-  ![Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-06Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)](https://cn.bing.com/th?id=OHR.StileCrossing_EN-US9052435517_UHD.jpg)
+<!--  Sat Nov 07 2026 04:52:44 GMT+0000 (Coordinated Universal Time) -->
+  ![Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-07Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii (© MNStudio/Getty Images)](https://cn.bing.com/th?id=OHR.PipiwaiTrail_EN-US0631882545_UHD.jpg)
   
 <!-- END -->
