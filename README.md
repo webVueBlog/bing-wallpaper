@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Mon Nov 09 2026 04:54:17 GMT+0000 (Coordinated Universal Time) -->
-  ![Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-09Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)](https://cn.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg)
+<!--  Tue Nov 10 2026 06:09:20 GMT+0000 (Coordinated Universal Time) -->
+  ![Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-10Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg)
   
 <!-- END -->
