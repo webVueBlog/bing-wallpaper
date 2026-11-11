@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Tue Nov 10 2026 06:09:20 GMT+0000 (Coordinated Universal Time) -->
-  ![Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-10Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)](https://cn.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg)
+<!--  Wed Nov 11 2026 04:56:09 GMT+0000 (Coordinated Universal Time) -->
+  ![Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-11Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)](https://cn.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg)
   
 <!-- END -->
