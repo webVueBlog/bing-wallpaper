@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 12 2026 05:58:06 GMT+0000 (Coordinated Universal Time) -->
-  ![American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-12American flags in a public park in upstate New York (© Matt Champlin/Getty Images)](https://cn.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg)
+<!--  Fri Nov 13 2026 05:21:56 GMT+0000 (Coordinated Universal Time) -->
+  ![North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-13North Window, Arches National Park, Moab, Utah (© lightphoto/Getty Images)](https://cn.bing.com/th?id=OHR.NorthWindow_EN-US1170338293_UHD.jpg)
   
 <!-- END -->
