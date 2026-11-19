@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Wed Nov 18 2026 06:08:44 GMT+0000 (Coordinated Universal Time) -->
-  ![Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-18Trail of the Cedars, Glacier National Park, Montana (© DBushue Photography/Getty Images)](https://cn.bing.com/th?id=OHR.TrailCedars_EN-US2240500417_UHD.jpg)
+<!--  Thu Nov 19 2026 06:09:42 GMT+0000 (Coordinated Universal Time) -->
+  ![Pair of barn owls (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-19Pair of barn owls (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg)
   
 <!-- END -->
