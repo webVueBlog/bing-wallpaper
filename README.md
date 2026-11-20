@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 19 2026 06:09:42 GMT+0000 (Coordinated Universal Time) -->
-  ![Pair of barn owls (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-19Pair of barn owls (© Zahoor Salmi/Getty Images)](https://cn.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg)
+<!--  Fri Nov 20 2026 05:56:28 GMT+0000 (Coordinated Universal Time) -->
+  ![The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-20The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg)
   
 <!-- END -->
