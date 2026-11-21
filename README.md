@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 20 2026 05:56:28 GMT+0000 (Coordinated Universal Time) -->
-  ![The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-20The "Body of Knowledge" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)](https://cn.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg)
+<!--  Sat Nov 21 2026 05:51:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-21Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)
   
 <!-- END -->
