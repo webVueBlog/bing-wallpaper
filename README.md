@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sat Nov 21 2026 05:51:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-21Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)](https://cn.bing.com/th?id=OHR.Megaptera_EN-US1728719939_UHD.jpg)
+<!--  Sun Nov 22 2026 05:24:01 GMT+0000 (Coordinated Universal Time) -->
+  ![Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-22Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg)
   
 <!-- END -->
