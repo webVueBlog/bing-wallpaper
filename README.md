@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Sun Nov 22 2026 05:24:01 GMT+0000 (Coordinated Universal Time) -->
-  ![Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-22Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)](https://cn.bing.com/th?id=OHR.RedNice_EN-US9978351403_UHD.jpg)
+<!--  Mon Nov 23 2026 06:00:16 GMT+0000 (Coordinated Universal Time) -->
+  ![The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-23The chapel and hermitage of Santa Justa in Cantabria, Spain (© Tramont_ana/Getty Images)](https://cn.bing.com/th?id=OHR.JustaHermitage_EN-US0130271816_UHD.jpg)
   
 <!-- END -->
