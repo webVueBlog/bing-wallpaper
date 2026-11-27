@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Thu Nov 26 2026 07:02:57 GMT+0000 (Coordinated Universal Time) -->
-  ![Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-26Sunset Point, Bryce Canyon National Park, Utah (© Colin D. Young/Alamy)](https://cn.bing.com/th?id=OHR.SunsetPoint_EN-US0827880440_UHD.jpg)
+<!--  Fri Nov 27 2026 06:58:47 GMT+0000 (Coordinated Universal Time) -->
+  ![Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-27Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)
   
 <!-- END -->
