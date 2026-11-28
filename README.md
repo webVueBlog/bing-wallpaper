@@ -7,7 +7,7 @@
 使用 deno、Github Actions 自动抓取 Bing 每日超清壁纸（4K）
 
 <!-- BEGIN -->
-<!--  Fri Nov 27 2026 06:58:47 GMT+0000 (Coordinated Universal Time) -->
-  ![Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-27Two wild tom turkeys (© davidsdodd/Getty Images)](https://cn.bing.com/th?id=OHR.WildTom_EN-US1069249609_UHD.jpg)
+<!--  Sat Nov 28 2026 06:32:55 GMT+0000 (Coordinated Universal Time) -->
+  ![Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg&pid=hp&w=1000&rs=1&c=4)Today: [2026-11-28Butte at sunset, Face Canyon, Lake Powell, Utah (© Jeff Foott/Minden)](https://cn.bing.com/th?id=OHR.FaceCanyon_EN-US6254374163_UHD.jpg)
   
 <!-- END -->
